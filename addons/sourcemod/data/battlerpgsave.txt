@@ -1,0 +1,8 @@
+"Battle-RPG Save"
+{
+	"команdo"
+	{
+		"Basic Level"		"5"
+		"Cash"		"15"
+	}
+}

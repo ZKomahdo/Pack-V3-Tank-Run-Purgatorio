@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"Information"
+	{
+		"en"	"Pista"
+	}
+	"Throw a grenade"
+	{
+		"en"	"Puedes lanzar una granada mientras estás incapacitado,\npresiona MOUSE2 para cambiar de arma"
+	}
+}

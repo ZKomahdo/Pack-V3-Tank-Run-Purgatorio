@@ -1,0 +1,64 @@
+﻿//		********************************************************************************
+//
+//		|======================|
+//		|== MULTICOLORS.INI ===|
+//		|======================|
+//
+//		Puedes cambiar el color de las frases para el chat con cualquiera de los
+//		siguientes métodos:
+//
+//		Usando colores con códigos:
+//			• 			// Blanco
+//			• 			// Verde Claro
+//			• 			// Naranja
+//			• 			// Verde
+//
+//		Usando colores con etiquetas:
+//			• {default}		// Blanco
+//			• {lightgreen}	// Verde Claro
+//			• {orange}		// Naranja
+//			• {olive}		// Verde
+//
+//		Y recuerda que usar {lightgreen} con un color de equipo {red} o {blue} = ERROR
+//
+//		********************************************************************************
+"Phrases"
+{
+	"RESPAWN_UNDEAD"
+	{
+		"en"		"{orange}[{olive}RESPAWN{orange}] {default}You must be alive to use this command!"
+		"es"		"{orange}[{olive}RESPAWN{orange}] {default}Debes estar vivo para usar este comando!"
+	}
+	"RESPAWN_NO_ANY_SURVIVORS"
+	{
+		"en"		"{orange}[{olive}RESPAWN{orange}] {default}There are no survivors alive."
+		"es"		"{orange}[{olive}RESPAWN{orange}] {default}No hay supervivientes vivos."
+	}
+	"RESPAWN_GET_OUT_SAFEROOM"
+	{
+		"en"		"{orange}[{olive}RESPAWN{orange}] {default}You must leave the refuge to use this command!"
+		"es"		"{orange}[{olive}RESPAWN{orange}] {default}Debes salir del refugio para usar este comando!"
+	}
+	"RESPAWN_ONLY_SURVIVOR"
+	{
+		"en"		"{orange}[{olive}RESPAWN{orange}] {default}Only {blue}Survivors can Respawn!"
+		"es"		"{orange}[{olive}RESPAWN{orange}] {default}Solo los {blue}Supervivintes pueden Reaparecer!"
+	}
+	"RESPAWN_SOLD_OUT"
+	{
+		"en"		"{orange}[{olive}RESPAWN{orange}] {default}You Can't Respawn Any More.!"
+		"es"		"{orange}[{olive}RESPAWN{orange}] {default}Ya NO Puedes Reaparecer Más veces!"
+	}
+	"RESPAWN"
+	{
+		"#format"	"{1:N}"
+		"en"		"{orange}[{olive}RESPAWN{orange}] {blue}{1} Has Reappeared!"
+		"es"		"{orange}[{olive}RESPAWN{orange}] {blue}{1} Ha Reaparecido!"
+	}
+	"RESPAWN_REST"
+	{
+		"#format"	"{1:d},{2:i}"
+		"en"		"{orange}[{olive}RESPAWN{orange}] {default}Attempts Remaining {orange}[{olive}{1} {default}of {olive}{2}{orange}]"
+		"es"		"{orange}[{olive}RESPAWN{orange}] {default}Intentos Restantes {orange}[{olive}{1} {default}de {olive}{2}{orange}]"
+	}
+}

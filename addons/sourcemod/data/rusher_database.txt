@@ -1,0 +1,80 @@
+"rusherdata"
+{
+	"data"
+	{
+		"STEAM_1:1:722881079"
+		{
+			"rushes"		"12"
+			"name"		"команdо ™"
+		}
+		"bot"
+		{
+			"rushes"		"13"
+			"name"		"(1)Rochelle"
+		}
+		"STEAM_1:1:456289915"
+		{
+			"rushes"		"2"
+			"name"		"Otitu"
+		}
+		"STEAM_1:0:501431013"
+		{
+			"rushes"		"1"
+			"name"		"Kali Linux la mejor distro"
+		}
+		"STEAM_1:1:458497394"
+		{
+			"rushes"		"2"
+			"name"		"UnOctavoDePollo_"
+		}
+		"STEAM_1:0:847042101"
+		{
+			"rushes"		"2"
+			"name"		"★彡『 ANITA 』彡★"
+		}
+		"STEAM_1:1:844978265"
+		{
+			"rushes"		"2"
+			"name"		"Antuanmue2024"
+		}
+		"STEAM_1:0:605611347"
+		{
+			"rushes"		"1"
+			"name"		"Mishu"
+		}
+		"STEAM_1:0:811249616"
+		{
+			"rushes"		"2"
+			"name"		"MK-99"
+		}
+		"STEAM_1:0:557673466"
+		{
+			"rushes"		"1"
+			"name"		"MountainWizard"
+		}
+	}
+	"info"
+	{
+		"count"		"1"
+	}
+}
+STEAM_1:1:523467592
+STEAM_1:1:767995915
+STEAM_1:1:722881079
+STEAM_1:1:869866490
+STEAM_1:0:100353123
+STEAM_1:1:722881079
+STEAM_1:0:791914885
+STEAM_1:0:791914885
+STEAM_1:0:100353123
+STEAM_1:0:100353123
+STEAM_1:1:722881079
+STEAM_1:1:666013652
+STEAM_1:0:211122720
+STEAM_1:0:707810701
+STEAM_1:1:722881079
+BOT
+STEAM_1:1:722881079
+STEAM_1:1:861887213
+STEAM_1:1:861887213
+STEAM_1:1:722881079

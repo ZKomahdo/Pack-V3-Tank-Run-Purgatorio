@@ -1,0 +1,47 @@
+"Phrases"
+{
+	"Flare Cmd Ground"
+	{
+		"en"		"Puedes colocar otra bengala escribiendo {green}!flare{default} en el chat."
+	}
+	"Flare Cmd Attach"
+	{
+		"en"		"Puedes colocar otra bengala escribiendo {green}!flareme{default} en el chat."
+	}
+	"Flare Incapped"
+	{
+		"en"		"Solo puedes usar {green}!flare{default} mientras estés limitado."
+	}
+	"Flare Intro"
+	{
+		"en"		"Quieres conseguir {gree}VIP{default}? Unete al grupo de {blue}discord {default}y {olive}contactanos"
+	}
+	"Flare Invalid Args"
+	{
+		"en"		"Invalid arguements: {green}!flareclient <#userid|name> [R G B] [R G B]{default} (RGB values 0-255). Optional 3 values for Light and 3 for env_steam color if enabled."
+	}
+	"Flare Invalid Now"
+	{
+		"en"		"No se puede ejecutar el comando. Modo de juego incorrecto, redondeo o complemento desactivado."
+	}
+	"Flare Invalid Place"
+	{
+		"en"		"No se puede colocar una bengala. Inténtalo de nuevo escribiendo {green}!flare{default} en el chat."
+	}
+	"Flare Invalid Target"
+	{
+		"en"		"Objetivo no válido: equipo equivocado o ya no está vivo."
+	}
+	"Flare Max"
+	{
+		"en"		"Espere, se ha alcanzado el número máximo de bengalas."
+	}
+	"Flare Usage"
+	{
+		"en"		"Usage: {green}!flare <color name|R G B>{default}. Colors: red, green, blue, purple, orange, yellow, white. Or 3 values 0-255. EG: {green}!flare red{default} or {green}!flare 255 0 0{default}"
+	}
+	"Flare Wait"
+	{
+		"en"		"Espere antes de utilizar los comandos {green}!flare{default} o {green}!flareme{default}."
+	}
+}

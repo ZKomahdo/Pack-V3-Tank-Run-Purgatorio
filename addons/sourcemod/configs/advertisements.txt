@@ -1,0 +1,98 @@
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+//
+// -----
+//	Following named colors are supported in L4D1/L4D2:
+//	 - {default}	(white color)
+//	 - {green}		(olive color)
+//	 - {olive}		(green color)
+//	 - {lightgreen}	(light green color)
+//	 - {red}		(red color) - There must be at least one player or bot in infected team，or red will turn into {green} color
+//	 - {blue}		(blue color) - There must be at least one player or bot in survivor team，or blue will turn into {green} color 
+//	 Warning: {lightgreen}、{red}、{blue}, 2 of 3 colors can not be used at the same sentence
+
+// 中文說明
+// -----
+// center: 廣告文字顯示於螢幕中央
+// chat: 廣告文字顯示於聊天框
+// hint: 廣告文字顯示於螢幕下方黑底白字框
+// menu: 廣告文字顯示於Menu選單
+//
+// -----
+//	以下顏色只支援於 L4D1/L4D2:
+//	 - {default}	(白色)
+//	 - {green}		(橘色)
+//	 - {olive}		(綠色)
+//	 - {lightgreen}	(淺綠色)
+//	 - {red}		(紅色) - 特感隊伍要有人或bot在才會顯示紅色，否則顯示橘色
+//	 - {blue}		(藍色) - 人類隊伍要有人或bot在才會顯示藍色，否則顯示橘色
+//	 注意事項: 藍色、紅色、淺綠色，這三種顏色不可出現在同一句話裡
+//
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"			"{yellow}[{blue}PATRIOTA{yellow}] {default}Puedes unirte al servidor de {yellow}discord ▼\n{default}=================================\n{green}>->> {blue} https://discord.com/invite/hENBZK7HQv {green}<<-<\n{default}================================= "
+    }
+    "2"
+    {
+        "chat"			"{yellow}[{blue}HIPERCARGA{yellow}] {default}Agachate usando el {green}Awp {default}y {yellow}Disparas"
+    }
+    "3"
+    {
+        "chat"			"{yellow}[{blue}ROOT TIENDA{yellow}] {default}Puedes Comprar objetos en la{green}Tienda {yellow}!buy {green}Recolecta Puntos Matando Zombis"
+    }
+    "4"
+    {
+        "chat"			"{yellow}[{blue}PATRIOTA{yellow}] {default}Unete a mi grupo de {yellow}Amigos ▼\n{default}=================================\n{green}>->> {blue}Codigo Amigo: 1445762159 {green}<<-<\n{default}================================="
+    }
+    "5"
+    {
+        "chat"			"{yellow}[{blue}PATRIOTA{yellow}] {default}Bienvenido al {green}Servidor {yellow}|<{default}ROOT COOP{yellow}>|"
+    }
+    "6"
+    {
+        "chat"			"{yellow}[{blue}PATRIOTA{yellow}] {green}Date: {date}, Time: {time}"
+    }
+    "7"
+    {
+        "chat"			"{yellow}[{blue}TIENDA{yellow}] {default}Tienda Disponible, {yellow}Comando: !buy"
+    }
+    "8"
+    {
+        "chat"			"{yellow}[{blue}PATRIOTA{yellow}] {default}Comandos del {yellow}Servidor: {green}!hat !csm !skin !trails !tp"
+    }
+    "9"
+    {
+        "chat"			"{yellow}[{blue}PATRIOTA{yellow}] {default}Comandos para {yellow}TerceraPersona: {green}!tp"
+    }
+    "10"
+    {
+        "chat"			"{yellow}[{blue}SUPERBOLIDO{yellow}] {default}Utiliza el GL para Impulsarte: {yellow}Salta+Dispara"
+    }
+    "11"
+    {
+        "chat"			"{yellow}[{green}TOP CAMARADAS{yellow}] {default}Contribución y Veteranos en servidor▼\n{red}❤{green}Contribución: {yellow}David ; Solange ; Garcia ; Otitu\n{green}{red}✦{green}Veteranos: {yellow}™ɪᴛᴀᴄʜɪシ;HellGirl KAT <3;Ponce FD;JR-LI"
+    }
+    "12"
+    {
+        "chat"			"{yellow}[{blue}SOPORTE-PLUGINS{yellow}] {default}ADMIN & VIP: Contacto {green}Otitu{default}▼\n{yellow}➤ {green}Discord: https://discord.com/invite/hENBZK7HQv\n{yellow}➤ {green}User Discord: dark_serious"
+    }
+    "13"
+    {
+        "chat"			"{yellow}[{blue}PATRIOTA{yellow}] {default}Comando para Join ó AFK: {yellow}!list"
+    }
+    "14"
+    {
+        "chat"			"{yellow}[{blue}PATRIOTA{yellow}] {default}Utiliza el comando {green}!skin {default}para cambiar de skin {yellow}Gratis"
+    }
+    "15"
+    {
+        "chat"			"{yellow}[{lightgreen}PS{yellow}] {default}Cansado de morir y esperar {green}120 (seg) {default}para resurgir? {yellow}Solución▼\n{green}ESCRIBIR !BUY / MEDICAMENTOS / SUPER RESPAWN"
+    }
+}

@@ -1,0 +1,96 @@
+/*
+	******************************************************************************************************************************************************
+
+	You can display phrases in chat with color using any of the methods below:
+
+	Using color codes:
+		•  // Default (use instead of \x01), Alt + 01 Keyboard Shortcut
+		•  // Light Green (use instead of \x03), Alt + 03 Keyboard Shortcut
+		•  // Orange (use instead of \x04), Alt + 04 Keyboard Shortcut
+		•  // Olive (use instead of \x05), Alt + 05 Keyboard Shortcut
+
+	or
+
+	Using color tags:
+		• {default} // Default (use instead of \x01)
+		• {lightgreen} // Light Green (use instead of \x03)
+		• {orange} // Orange (use instead of \x04)
+		• {olive} // Green (use instead of \x05)
+
+	******************************************************************************************************************************************************
+*/
+
+"Phrases"
+{
+
+	"owner"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			"{green}[{lightgreen}ADMIN{green}] {olive}{1}{default}: {2}"
+		"es"			"{green}[{lightgreen}ADMIN{green}] {olive}{1}{default}: {2}"
+	}
+
+	"ownerteam"
+	{
+		"#format"		"{1:s},{2:N},{3:s}"
+		"en"			"{olive}{1} {green}[{lightgreen}V{green}] {olive}{2}{default}: {3}"
+		"es"			"{olive}{1} {green}[{lightgreen}V{green}] {olive}{2}{default}: {3}"
+	}
+
+	"admin"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			"{green}[{lightgreen}ADMIN{green}] {olive}{1}{default}: {2}"
+		"es"			"{green}[{lightgreen}ADMIN{green}] {olive}{1}{default}: {2}"
+	}
+
+	"adminteam"
+	{
+		"#format"		"{1:s},{2:N},{3:s}"
+		"en"			"{olive}{1} {green}[{lightgreen}A{green}] {olive}{2}{default}: {3}"
+		"es"			"{olive}{1} {green}[{lightgreen}A{green}] {olive}{2}{default}: {3}"
+	}
+
+	"moderator"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			"{green}[{lightgreen}MODERATOR{green}] {olive}{1}{default}: {2}"
+		"es"			"{green}[{lightgreen}MODERADOR{green}] {olive}{1}{default}: {2}"
+	}
+
+	"moderatorteam"
+	{
+		"#format"		"{1:s},{2:N},{3:s}"
+		"en"			"{olive}{1} {green}[{lightgreen}M{green}] {olive}{2}{default}: {3}"
+		"es"			"{olive}{1} {green}[{lightgreen}M{green}] {olive}{2}{default}: {3}"
+	}
+
+	"adminvip"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			"{green}[{lightgreen}ADMIN{green}-{lightgreen}VIP{green}] {olive}{1}{default}: {2}"
+		"es"			"{green}[{lightgreen}ADMIN{green}-{lightgreen}VIP{green}] {olive}{1}{default}: {2}"
+	}
+
+	"adminvipteam"
+	{
+		"#format"		"{1:s},{2:N},{3:s}"
+		"en"			"{olive}{1} {green}[{lightgreen}A{green}] {olive}{2}{default}: {3}"
+		"es"			"{olive}{1} {green}[{lightgreen}A{green}] {olive}{2}{default}: {3}"
+	}
+
+	"vip"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			"{green}[{lightgreen}VIP{green}] {olive}{1}{default}: {2}"
+		"es"			"{green}[{lightgreen}VIP{green}] {olive}{1}{default}: {2}"
+	}
+
+	"vipteam"
+	{
+		"#format"		"{1:s},{2:N},{3:s}"
+		"en"			"{olive}{1} {green}[{lightgreen}V{green}] {olive}{2}{default}: {3}"
+		"es"			"{olive}{1} {green}[{lightgreen}V{green}] {olive}{2}{default}: {3}"
+	}
+
+}

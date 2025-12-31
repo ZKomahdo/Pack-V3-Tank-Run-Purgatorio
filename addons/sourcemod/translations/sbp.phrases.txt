@@ -1,0 +1,10 @@
+"Phrases"
+{
+	"SMPlugin"
+	{
+		"en"		"Este comando fue bloqueado para su visualización pública."
+		"pt"		"Este comando foi bloqueado para visualização pública."
+		"de"		"Dieser Befehl wurde für die Öffentlichkeit gesperrt."
+		"fr"		"Cette commande a été bloquée pour consultation du public"
+	}
+}

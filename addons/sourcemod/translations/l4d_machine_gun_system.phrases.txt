@@ -1,0 +1,295 @@
+﻿"Phrases"
+{
+	"Reloaded Machine Gun"
+	{
+		"en"		"Your machine gun has been reloaded"
+		"es"		"Su ametralladora está recargada"
+	}
+	"Is Incapacitated"
+	{
+		"en"		"'Blue'%N 'Default'Is Incapacitated"
+		"es"		"'Blue'%N 'Default'Está incapacitado"
+	}
+	"Is Dead"
+	{
+		"en"		"'Red'%N 'Gold'Is Dead"
+		"es"		"'Red'%N 'Gold'Está Muerto"
+	}
+	"Vomited Player"
+	{
+		"en"		"'Default'%N 'Green'Has Been Vomited"
+		"es"		"'Default'%N 'Green'Ha Sido Vomitado"
+	}
+	"Plugin Restarted"
+	{
+		"en"		"Plugin Status Restarted"
+		"es"		"Estado Del Plugin Reiniciado"
+	}
+	"No Access"
+	{
+		"en"		"You don't have access to this command"
+		"es"		"No tienes acceso a este comando"
+	}
+	"Machine Gun Limit"
+	{
+		"en"		"'Blue'¡'Default'You can only use 'Green'%i 'Default'machine guns per round'Blue'!"
+		"es"		"'Blue'¡'Default'Sólo puedes usar 'Green'%i 'Default'ametralladoras por cada ronda'Blue'!"
+	}
+	"Model Gatling"
+	{
+		"en"		"Gatling"
+		"es"		"Gatling"
+	}
+	"Model 50 Cal"
+	{
+		"en"		"50 Cal"
+		"es"		"Cal 50"
+	}
+	"Fire Type"
+	{
+		"en"		"Fire"
+		"es"		"Fuego"
+	}
+	"Type Laser"
+	{
+		"en"		"Laser"
+		"es"		"Láser"
+	}
+	"Type Tesla"
+	{
+		"en"		"Tesla"
+		"es"		"Tesla"
+	}
+	"Type Freeze"
+	{
+		"en"		"Freeze"
+		"es"		"Congelante"
+	}
+	"Type Nauseating"
+	{
+		"en"		"Nauseating"
+		"es"		"Nauseabundo"
+	}
+	"Special Type"
+	{
+		"en"		"'Default'You Have Created A %s 'Default'Type %s 'Default'Machine Gun"
+		"es"		"'Default'Has Creado Una Ametralladora %s 'Default'Del Tipo %s"
+	}
+	"Common Type"
+	{
+		"en"		"'Default'You Created A 'Lightgreen'%s 'Default'Machine Gun"
+		"es"		"'Default'Has Creado Una Ametralladora 'Lightgreen'%s"
+	}
+/******************************************************************************************/	
+	"Basic Menu"
+	{
+		"en"		"Basic Machine Guns"
+		"es"		"Machine Básicas"
+	}
+	"Advanced Menu"
+	{
+		"en"		"Advanced Machine Guns"
+		"es"		"Machine Especiales"
+	}
+	"Main Menu Title"
+	{
+		"en"		"Main Menu Of Machine Guns"
+		"es"		"• Menú Machine Guns •"
+	}
+	"Gatling Basic Machine Gun"
+	{
+		"en"		"Gatling Machine Gun"
+		"es"		"Ametralladora Gatling"
+	}
+	"50 Cal Basic Machine Gun"
+	{
+		"en"		"Cal 50 Machine Gun"
+		"es"		"Ametralladora Cal 50"
+	}
+	"Secondary Menu Basic Machine Guns"
+	{
+		"en"		"Basic Machine Gun Menu"
+		"es"		"Menú De Ametralladoras Básicas"
+	}
+	"Gatling Fire-Type"
+	{
+		"en"		"Gatling Fire-Type Machine Gun"
+		"es"		"Ametralladora Gatling Tipo Fuego"
+	}
+	"Gatling Laser-Type"
+	{
+		"en"		"Gatling Laser-Type Machine Gun"
+		"es"		"Ametralladora Gatling Tipo Láser"
+	}
+	"Gatling Tesla-Type"
+	{
+		"en"		"Gatling Tesla-Type Machine Gun"
+		"es"		"Ametralladora Gatling Tipo Tesla"
+	}
+	"Gatling Freeze-Type"
+	{
+		"en"		"Gatling Freeze-Type Machine Gun"
+		"es"		"Ametralladora Gatling Tipo Congelante"
+	}
+	"Gatling Nauseating-Type"
+	{
+		"en"		"Gatling Nauseating-Type Machine Gun"
+		"es"		"Ametralladora Gatling Tipo Nauseabundo"
+	}
+	"50 Cal Fire-Type"
+	{
+		"en"		"50 Cal Fire-Type Machine Gun"
+		"es"		"Ametralladora Cal 50 Tipo Fuego"
+	}
+	"50 Cal Laser-Type"
+	{
+		"en"		"50 Cal Laser-Type Machine Gun"
+		"es"		"Ametralladora Cal 50 Tipo Láser"
+	}
+	"50 Cal Tesla-Type"
+	{
+		"en"		"50 Cal Tesla-Type Machine Gun"
+		"es"		"Ametralladora Cal 50 Tipo Tesla"
+	}
+	"50 Cal Freeze-Type"
+	{
+		"en"		"50 Cal Freeze-Type Machine Gun"
+		"es"		"Ametralladora Cal 50 Tipo Congelante"
+	}
+	"Cal 50 Nauseating-Type"
+	{
+		"en"		"Cal 50 Nauseating-Type Machine Gun"
+		"es"		"Ametralladora Cal 50 Tipo Nauseabundo"
+	}
+	"Secondary Menu Advanced Machine Gun"
+	{
+		"en"		"Special Machine Gun Menu"
+		"es"		"Menú De Ametralladora Especiales"
+	}
+/******************************************************************************************/
+	"Admin Removed Entity"
+	{
+		"en"		"You've Removed 'Blue'%N's 'Default'Machine Gun"
+		"es"		"Has Eliminado La Ametralladora De 'Blue'%N"
+	}
+	"Without Access Entity"
+	{
+		"en"		"You Can't Reomve %N's Machine"
+		"es"		"No Puedes Remover La Ametralladora De %N"
+	}
+	"Use Instructor"
+	{
+		"en"		"Press 'Gold'Duck 'Red'+ 'Gold'Shove 'Default'To 'Red'Carry 'Green'Machine Gun"
+		"es"		"Presiona 'Gold'Ctrl 'Red'+ 'Gold'Empujar 'Default'Para 'Red'Llevar 'Default'La 'Green'Ametralladora"
+	}
+	"Machine Gun Not Allowed"
+	{
+		"en"		"This machine gun is not available"
+		"es"		"Esta ametralladora no está disponible"
+	}
+	"Out Of The Game"
+	{
+		"en"		"'Blue'¡'Default'You need to be in the game to perform this action'Blue'!"
+		"es"		"'Blue'¡'Default'Es necesario que estés en el juego para realizar esta acción'Blue'!"
+	}
+	"Too Many Machine Guns"
+	{
+		"en"		"There Are Too Many 'Gold'Machine Guns, 'Green'Counter 'Default'['Red'%i'Default'/'Gold'%i'Default']"
+		"es"		"Hay Demasiadas 'Gold'Ametralladoras, 'Green'Contador 'Default'['Red'%i'Default'/'Gold'%i'Default']"
+	}
+	"Target Reached"
+	{
+		"en"		"'Red'%N 'Default'Has been hit by a freeze bullet'Red'!"
+		"es"		"'Red'%N 'Default'Ha sido alcazado por una bala de congelación'Red'!"
+	}
+	"Can't Pick Up"
+	{
+		"en"		"You cannot pick up %N's machine"
+		"es"		"No puedes recojer la ametralladora de %N"
+	}
+	"Ammo Status"
+	{
+		"en"		"Machine Gun Ammo[%d]"
+		"es"		"Munición De La Ametralladora[%d]"
+	}
+	"Reload Machine Gun"
+	{
+		"en"		"Your machine gun has no ammunition, reload it!"
+		"es"		"Tu ametralladora no tiene munición, ¡recarga!"
+	}
+	"Machine Gun Betrays Survivors"
+	{
+		"en"		"A machine gun has betrayed the survivor team"
+		"es"		"Una ametralladora ha traicionado al equipo de supervivientes"
+	}
+	"Machine Gun Betrays Infected"
+	{
+		"en"		"A machine gun has betrayed the infected team."
+		"es"		"Una ametralladora ha traicionado al equipo de infectados."
+	}
+	"Machine Gun Active State"
+	{
+		"en"		"A machine gun has come to active state"
+		"es"		"Una ametralladora ha entrado en estado activo"
+	}
+	"Damaged Machine Gun"
+	{
+		"en"		"Your machine gun has been damaged"
+		"es"		"Tu ametralladora se ha dañado"
+	}
+	"Machine Gun Power"
+	{
+		"en"		"Machine Gun Power Status [%d/%d]"
+		"es"		"Estado de poder de la ametralladora [%d/%d]"
+	}
+	"Broken Machine Gun"
+	{
+		"en"		"Your machine gun has broken!"
+		"es"		"¡Tu ametralladora se ha roto!"
+	}
+	"Machine Gun Inactive State"
+	{
+		"en"		"'Red'%N'Default''s Machine gun is idle"
+		"es"		"La ametralladora de 'Red'%N 'Default'está inactiva"
+	}
+	"Current Ammo"
+	{
+		"en"		"Ammunition Status['Gold'%d'Default'/'Red'%d'Default']"
+		"es"		"Estado De Munición['Gold'%d'Default'/'Red'%d'Default']"
+	}
+	"Without Ammunition"
+	{
+		"en"		"Your machine gun ammo has run out, Reload it!"
+		"es"		"La munición de tu ametralladora se ha terminado ¡Recargala!"
+	}
+	"Inaccessible Entity"
+	{
+		"en"		"This machine gun is 'Gold'¡'Red'Inaccessible'Gold'!"
+		"es"		"No puedes hacer uso de esta 'Gold'¡'Red'Ametralladora'Gold'!"
+	}
+	"Entity Destroyed By Special Infected"
+	{
+		"en"		"'Red'%N 'Default'Has Destroyed A Machine Gun'Gold'!"
+		"es"		"'Red'%N 'Default'Ha Destruidó Una Ametralladora'Gold'!"
+	}
+	"Ammunition Status"
+	{
+		"en"		"Ammo Status %i"
+		"es"		"Estado De Munición %i"
+	}
+	"Finished Ammunition"
+	{
+		"en"		"This Machine Gun Has No Ammo'Red'!"
+		"es"		"Esta Ametralladora No Tiene Munición'Red'!"
+	}
+	"Owner's Machine Gun"
+	{
+		"en"		"'Green'%N' 'Default'Machine Gun Has 'Red'Destroyed"
+		"es"		"'Default'La Ametralladora De 'Green'%N 'Default'Se Ha 'Red'Destruido"
+	}
+/*	""
+	{
+		"en"		""
+		"es"		""
+	}*/
+}

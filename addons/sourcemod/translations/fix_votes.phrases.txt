@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"TAG"
+	{
+		"en"			"{orange}<[{lightgreen}Votos Fix{orange}]> "
+	}
+
+	"VOTE_COULDOWN"
+	{
+		"#format"		"{1:d}"
+		"en"			"{orange}[{lightgreen}Vote{orange}] {default}No se puede convocar una votación en este momento.\n{orange}> {default}inténtelo nuevamente en {green}{1}{orange} segundo"
+	}
+
+	"VOTE_IN_PROGRESS"
+	{
+		"en"			"{orange}[{lightgreen}Vote{orange}] {default}Parece que ahora hay votación {green}activa"
+	}
+}

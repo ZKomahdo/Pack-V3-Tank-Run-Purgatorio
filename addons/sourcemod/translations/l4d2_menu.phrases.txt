@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"sm_whelp"
+	{
+		"en"			"☛ Menu de Armas"		
+		"zho"			"投票選單"
+		"chi"			"投票菜单"
+	}
+
+	"sm_mhelp"
+	{
+		"en"			"☛ Menu de Meeles"		
+		"zho"			"快速買彈"
+		"chi"			"快速买弹"
+	}
+
+	"sm_ihelp"
+	{
+		"en"			"☛ Menu de Items"		
+		"zho"			"商城"
+		"chi"			"商城"
+	}
+
+	"sm_uhelp"
+	{
+		"en"			"☛ Menu de Mejoras"		
+		"zho"			"我的SRS"
+		"chi"			"我的SRS"
+	}
+
+	"MENU"
+	{
+		"en"			"  ★ ARMAS GRATIS ★ \n \n========================\nObten armas gratis\nSolo tienes algunos intentos\nUtilizalos bien hasta\nLa Siguiente ▶ RONDA\n========================"		
+		"zho"			"選單"
+		"chi"			"菜单"
+	}
+}

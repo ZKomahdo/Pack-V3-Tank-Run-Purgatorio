@@ -1,0 +1,28 @@
+﻿/*
+	Following named colors are supported:
+	 - {white}	(use instead of \x01 )
+	 - {cyan}	(use instead of \x03 )
+	 - {orange}	(use instead of \x04 )
+	 - {green}	(use instead of \x05 )
+*/
+
+"Phrases"
+{
+	"call_airdrop"
+	{
+		"#format"	"{1:N}"
+		"en"		"{orange}[{green}BOMBARDERO{orange}] {cyan}{1} {white}summoned a bomber for the survivors"
+		"es"		"{orange}[{green}BOMBARDERO{orange}] {cyan}{1} {white}invocó un bombardero para los supervivientes"
+	}
+	"airdrop_coordinates"
+	{
+		"en"		"{orange}[{green}BOMBARDERO{orange}] {white}airdrop fell in the approximate coordinates"
+		"es"		"{orange}[{green}BOMBARDERO{orange}] {white}un avión dejo {green}suministros, {orange}corre y se el primero"
+	}
+	"open_airdrop"
+	{
+		"#format"	"{1:N}"
+		"en"		"{orange}[{green}BOMBARDERO{orange}] {cyan}{1} {white}open airdrop"
+		"es"		"{orange}[{green}BOMBARDERO{orange}] {cyan}{1} {white}abrió el airdrop"
+	}
+}

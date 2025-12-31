@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"Crawl"
+	{
+		"en"		"•Presiona W Para Arrastraste en el suelo•"
+	}
+}

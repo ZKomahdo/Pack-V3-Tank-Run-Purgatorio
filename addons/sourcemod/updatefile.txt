@@ -1,0 +1,20 @@
+"Information"
+{
+	"Version"
+	{
+		"Latest"	"4.8"
+	}
+	
+	"Notes"	"Added RPG related forward for RPG servers."
+}
+	
+"Files"
+{
+	"Plugin"	"Path_SM/plugins/l4d2_karma_kill_system.smx"
+	"Plugin"	"Path_SM/plugins/l4d2_karma_jump_discord.smx"
+	"Plugin"	"Path_SM/plugins/l4d2_karma_jump_auto.smx"
+	
+	"Source"	"Path_SM/scripting/l4d2_karma_kill_system.sp"
+	"Source"	"Path_SM/scripting/l4d2_karma_jump_discord.sp"
+	"Source"	"Path_SM/scripting/l4d2_karma_jump_auto.sp"
+}

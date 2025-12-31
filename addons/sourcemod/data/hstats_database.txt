@@ -1,0 +1,14 @@
+"UserStats"
+{
+	"STEAM_1:1:722881079"
+	{
+		"first_conn"		"1697659449"
+		"conn_time"		"0"
+		"kills"		"0"
+		"death"		"0"
+		"suicides"		"0"
+		"points"		"1000"
+		"last_conn"		"1697659449"
+		"name"		"команdo"
+	}
+}

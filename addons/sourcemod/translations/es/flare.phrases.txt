@@ -1,0 +1,47 @@
+"Phrases"
+{
+	"Flare Cmd Ground"
+	{
+		"es"		""
+	}
+	"Flare Cmd Attach"
+	{
+		"es"		""
+	}
+	"Flare Incapped"
+	{
+		"es"		""
+	}
+	"Flare Intro"
+	{
+		"es"		"Quieres conseguir {olive}VIP{default}? Unete al grupo de {green}discord {default}y {green}contactanos"
+	}
+	"Flare Invalid Args"
+	{
+		"es"		""
+	}
+	"Flare Invalid Now"
+	{
+		"es"		""
+	}
+	"Flare Invalid Place"
+	{
+		"es"		""
+	}
+	"Flare Invalid Target"
+	{
+		"es"		""
+	}
+	"Flare Max"
+	{
+		"es"		""
+	}
+	"Flare Usage"
+	{
+		"es"		""
+	}
+	"Flare Wait"
+	{
+		"es"		""
+	}
+}

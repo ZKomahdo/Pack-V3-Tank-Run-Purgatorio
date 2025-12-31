@@ -1,0 +1,98 @@
+﻿// {white}
+// {cyan}
+// {orange}
+// {green}
+
+"Phrases"
+{
+	"View_On"
+	{
+		"ru"		"{green}Отображение ведьмы {orange}включено"
+		"en"		"{orange}witch {green}view is {orange}on"
+		"es"		"{orange}★ {green}Visibilidad de {orange}Witch {green}en la espalda está {orange}activada{green}."
+		"pt"		"{green}Visibilidade da {orange}Witch {green}nas costas está {orange}ligada{green}."
+	}
+	"View_Off"
+	{
+		"ru"		"{green}Отображение ведьмы {orange}отключено"
+		"en"		"{orange}witch {green}view is {orange}off"
+		"es"		"{orange}★ {green}Visibilidad de {orange}Witch {green}en la espalda está {orange}desactivada{green}."
+		"pt"		"{green}Visibilidade da {orange}Witch {green}nas costas está {orange}desligada{green}."
+	}
+	"Witch_on_back0"
+	{
+		"#format"	"{1:s}"
+		"ru"		"{green}Ведьме захотелось почесать спинку игроку {orange}{1}"
+		"en"		"{1} put a witch on their back."
+		"es"		"{orange}★ {green}{1} {white}colocó una {orange}Witch {white} en su espalda."
+		"pt"		"{orange}{1} {green}colocou uma {orange}Witch {green}em suas costas."
+	}
+	"Witch_on_back1"
+	{
+		"#format"	"{1:s}"
+		"ru"		"{green}Ведьма залезла на спину игроку {orange}{1}"
+		"en"		"{1} put a witch on their back."
+		"es"		"{orange}★ {green}{1} {white}colocó una {orange}Witch {white} en su espalda."
+		"pt"		"{orange}{1} {green}colocou uma {orange}Witch {green}em suas costas."
+	}
+	"Witch_on_back2"
+	{
+		"#format"	"{1:s}"
+		"ru"		"{green}Ведьма щекочет спинку игроку {orange}{1}"
+		"en"		"{1} put a witch on their back."
+		"es"		"{orange}★ {green}{1} {white}colocó una {orange}Witch {white} en su espalda."
+		"pt"		"{orange}{1} {green}colocou uma {orange}Witch {green}em suas costas."
+	}
+	"Witch_on_back3"
+	{
+		"#format"	"{1:s}"
+		"ru"		"{green}Ведьма ласкает спинку игроку {orange}{1}"
+		"en"		"{1} put a witch on their back."
+		"es"		"{orange}★ {green}{1} {white}colocó una {orange}Witch {white} en su espalda."
+		"pt"		"{orange}{1} {green}colocou uma {orange}Witch {green}em suas costas."
+	}
+	"Witch_on_back4"
+	{
+		"#format"	"{1:s}"
+		"ru"		"{green}Ведьма обняла за шею игрока {orange}{1}"
+		"en"		"{1} put a witch on their back."
+		"es"		"{orange}★ {green}{1} {white}colocó una {orange}Witch {white} en su espalda."
+		"pt"		"{orange}{1} {green}colocou uma {orange}Witch {green}em suas costas."
+	}
+	"Keys1"
+	{
+		"ru"		"{green}Нажмите {orange}кнопку ctrl+E{green}, чтобы поставить ведьму"
+		"en"		"{green}{orange}Hold E for 3 seconds {green}to put the witch down and pick her up."
+		"es"		"{orange}★ {green}Presione {orange}CTRL {green}+ {orange}E {green}para colocar la {orange}Witch {green}en el suelo."
+		"pt"		"{green}Pressione {orange}CTRL+E {green}para colocar a {orange}Witch {green}no chão."
+	}
+	"Keys2"
+	{
+		"ru"		"{green}Введите {orange}!witch{green} чтобы увидеть или спрятать свою ведьму"
+		"en"		"{orange}▶ {white}!witch{orange} ◀{green}- toggle to see or hide your own witch"
+		"es"		"{orange}▶ {white}!witch{orange} ◀{green}- para ver u ocultar su {orange}Witch{green}."
+		"pt"		"{orange}!witch {green}- para ver ou ocultar sua {orange}Witch{green}."
+	}
+	"Put_back"
+	{
+		"ru"		"Вы уложили ведьму за спину"
+		"en"		"Witch is on your back"
+		"es"		"Usted puso a Witch en su espalda."
+		"pt"		"Você colocou a Witch nas suas costas."
+	}
+	"Put_down"
+	{
+		"ru"		"Вы поставили ведьму на охрану"
+		"en"		"You put the witch down"
+		"es"		"Has puesto a Witch en el suelo."
+		"pt"		"Você colocou a Witch no chão."
+	}
+	"Steal_Witch"
+	{
+		"#format"	"{1:N}"
+		"ru"		"{white}Вы не можете украсть {orange}ведьму {white}которая уже {green}кому-то принадлежит{white}. ({green}владелец{white}: {orange}{1}{white})"
+		"en"		"{white}You can't steal a witch that already {green}belongs to someone{white}. ({green}Owner{white}: {orange}{1}{white})"
+		"es"		"{orange}⚠︎ {white}No puedes robar una {orange}Witch {white}que ya {green}pertenece a alguien{white}. ({green}Dueno{white}: {orange}{1}{white})"
+		"pt"		"{white}Você não pode roubar uma {orange}Witch {white}que já {green}pertence a alguém{white}. ({green}Dono{white}: {orange}{1}{white})"
+	}
+}

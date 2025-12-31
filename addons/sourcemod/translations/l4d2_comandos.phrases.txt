@@ -1,0 +1,177 @@
+"Phrases"
+{
+	"sm_a"
+	{
+		"en"			"| !skins |"		
+		"zho"			"投票選單"
+		"chi"			"投票菜单"
+	}
+
+	"sm_b"
+	{
+		"en"			"| !hat |"		
+		"zho"			"快速買彈"
+		"chi"			"快速买弹"
+	}
+
+	"sm_c"
+	{
+		"en"			"| !lightmenu |"		
+		"zho"			"商城"
+		"chi"			"商城"
+	}
+
+	"sm_d"
+	{
+		"en"			"| !colores |"		
+		"zho"			"我的SRS"
+		"chi"			"我的SRS"
+	}
+
+	"sm_e"
+	{
+		"en"			"| !glow |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_f"
+	{
+		"en"			"| !csm |"		
+		"zho"			"前十玩家"
+		"chi"			"前十玩家"
+	}
+
+	"sm_g"
+	{
+		"en"            "| !discord |"
+		"zho"           "光效選單"
+		"chi"           "光效菜单"
+	}
+
+	"sm_h"
+	{
+		"en"            "| !topsk |"
+		"zho"           "開/關連擊特效"
+		"chi"           "开/关连击特效"
+	}
+
+	"sm_i"
+	{
+		"en"            "| !hunters |"
+		"zho"           "開/關連擊音效"
+		"chi"           "开/关连击音效"
+	}
+
+	"sm_j"
+	{
+		"en"			"| !armas |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_k"
+	{
+		"en"			"| !t1 |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_l"
+	{
+		"en"			"| !awp |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_m"
+	{
+		"en"			"| !cmd |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_n"
+	{
+		"en"			"| !boss |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_o"
+	{
+		"en"			"| !cur |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_p"
+	{
+		"en"			"| !mvp |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_q"
+	{
+		"en"			"| !damage |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_r"
+	{
+		"en"			"| !teams |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_s"
+	{
+		"en"			"| !passtank |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_t"
+	{
+		"en"			"| !respawn |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_u"
+	{
+		"en"			"| !mix |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_v"
+	{
+		"en"			"| !teamshuffle |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_w"
+	{
+		"en"			"| !votemode |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"sm_x"
+	{
+		"en"			"| !slots # |"		
+		"zho"			"帽子"
+		"chi"			"帽子"
+	}
+
+	"MENU"
+	{
+		"en"			"|★| COMANDOS |★|"		
+		"zho"			"選單"
+		"chi"			"菜单"
+	}
+}

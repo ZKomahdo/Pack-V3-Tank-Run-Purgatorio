@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"Roar"
+	{
+		"en"	"Puedes rugir presionando el botón ZOOM\n"
+	}
+}

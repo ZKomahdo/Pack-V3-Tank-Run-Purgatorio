@@ -1,0 +1,31 @@
+"Phrases"
+{
+	"ACTIVATED"
+	{
+		"en"			""
+	}
+	"DEACTIVATED"
+	{
+		"en"			""
+	}
+	"DURATIONEXTENDED"
+	{
+		"en"			"¡Se ha ampliado la duración de Vista extendida!"
+	}
+	"COMMANDUSAGE"
+	{
+		"en"			"Usage: sm_extendedsight <on|off>"
+	}
+	"ACTIVATEDPERMANENTLY"
+	{
+		"en"			"¡Visión extendida activada permanentemente!"
+	}
+	"ALREADYACTIVE"
+	{
+		"en"			"R ¡La vista extendida ya está activada!"
+	}	
+	"NOTACTIVE"
+	{
+		"en"			"T ¡La vista extendida no está activada!"
+	}
+}

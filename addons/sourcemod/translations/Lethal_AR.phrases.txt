@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"SHOOT"
+	{
+		"en"			"SHOOT"
+		"ru"			"СТРЕЛЯЙ"
+	}
+	"Charging..."
+	{
+		"en"			"CHARGING..."
+		"ru"			"ЗАРЯЖАЕТСЯ..."
+	}
+}

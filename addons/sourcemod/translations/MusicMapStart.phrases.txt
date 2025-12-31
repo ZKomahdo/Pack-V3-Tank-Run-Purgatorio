@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"StopMusic"
+	{
+		"en"		"detener la musica"
+		"ru"		"detener la musica"
+		"chi"		"detener la musica"
+		"zho"		"detener la musica"
+	}
+	"PlayAgain"
+	{
+		"en"		"Reproducir música de nuevo"
+		"ru"		"Reproducir música de nuevo"
+		"chi"		"Reproducir música de nuevo"
+		"zho"		"Reproducir música de nuevo"
+	}
+	"Volume"
+	{
+		"en"		"Volumen"
+		"ru"		"Volumen"
+		"chi"		"Volumen"
+		"zho"		"Volumen"
+	}
+	"NextVolume"
+	{
+		"en"		"Volumen para la siguiente pista:"
+		"ru"		"Volumen para la siguiente pista:"
+		"chi"		"Volumen para la siguiente pista:"
+		"zho"		"Volumen para la siguiente pista:"
+	}
+	"Mute"
+	{
+		"en"		""
+		"ru"		""
+		"chi"		""
+		"zho"		""
+	}
+	"UnMute"
+	{
+		"en"		""
+		"ru"		""
+		"chi"		""
+		"zho"		""
+	}
+	"ChooseMusic"
+	{
+		"en"		"elegir pista"
+		"ru"		"elegir pista"
+		"chi"		"elegir pista"
+		"zho"		"elegir pista"
+	}
+	"PlayMusic"
+	{
+		"en"		"Reproducir música (todos pueden escuchar)"
+		"ru"		"Reproducir música (todos pueden escuchar)"
+		"chi"		"Reproducir música (todos pueden escuchar)"
+		"zho"		"Reproducir música (todos pueden escuchar)"
+	}
+	"Music Menu"
+	{
+		"en"		"「 ✦ MENU DE MUSICA ✦ 」"
+		"ru"		"「 ✦ MENU DE MUSICA ✦ 」"
+		"chi"		"「 ✦ MENU DE MUSICA ✦ 」"
+		"zho"		"「 ✦ MENU DE MUSICA ✦ 」"
+	}
+	"Request Song"
+	{
+		"en"		"{green}[{lightgreen}MUSICA{green}] {olive}%N{default} selecciono una musica: \n{green}%s {olive}▶︎ {default}•||၊|၊၊|||၊|• {green}0:50 "
+		"ru"		"{green}[{lightgreen}MUSICA{green}] {olive}%N{default} selecciono una musica: \n{green}%s {olive}▶︎ {default}•||၊|၊၊|||၊|• {green}0:50 "
+		"chi"		"{green}[{lightgreen}MUSICA{green}] {olive}%N{default} selecciono una musica: \n{green}%s {olive}▶︎ {default}•||၊|၊၊|||၊|• {green}0:50 "
+		"zho"		"{green}[{lightgreen}MUSICA{green}] {olive}%N{default} selecciono una musica: \n{green}%s {olive}▶︎ {default}•||၊|၊၊|||၊|• {green}0:50 "
+	}
+	"Too quickly"
+	{
+		"en"		"{green}[{lightgreen}MUSICA{green}] {default}No puedes elegir un rastreador tan rápido. Espera al menos {green}%.0f{default}(seg)"
+		"ru"		"{green}[{lightgreen}MUSICA{green}] {default}No puedes elegir un rastreador tan rápido. Espera al menos {green}%.0f{default}(seg)"
+		"chi"		"{green}[{lightgreen}MUSICA{green}] {default}No puedes elegir un rastreador tan rápido. Espera al menos {green}%.0f{default}(seg)"
+		"zho"		"{green}[{lightgreen}MUSICA{green}] {default}No puedes elegir un rastreador tan rápido. Espera al menos {green}%.0f{default}(seg)"
+	}
+}

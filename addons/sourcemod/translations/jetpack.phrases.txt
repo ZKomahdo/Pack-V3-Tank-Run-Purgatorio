@@ -1,0 +1,27 @@
+﻿"Phrases"
+{
+	"Jetpack is enabled"
+	{
+		"en" ""
+	}
+	"use +jetpack"
+	{
+		"en" "para usar bind +jetpack"
+	}
+	"use duck+jump"
+	{
+		"en" ""
+	}
+	"Jetpack is enabled"
+	{
+		"en" ""
+	}
+	"Jetpack is empty"
+	{
+		"en" "•●[......]●•"
+	}
+	"Jetpack is reloaded"
+	{
+		"en" "•●[|||||||]●•"
+	}
+}

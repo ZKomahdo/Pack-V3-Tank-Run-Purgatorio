@@ -1,0 +1,108 @@
+"Phrases"
+{
+	// Valid colors: {orange} {green} {cyan} {white}
+	"GrenadeMenu_Title"
+	{
+		"en"			"▬▬▬「 ✦ ♕ ✦ 」▬▬▬\n☆Granadas prototipo☆"
+	}
+	"GrenadeMenu_Invalid"
+	{
+		"en"			"{orange}[{green}✘{orange}] {white}Necesitas una {orange}granada {white}para cambiar de {green}Poder."
+	}
+	"GrenadeMod_Mode"
+	{
+		"en"			"{orange}[{green}✘{orange}] {white}Modo de la granada: {green}"
+	}
+	"GrenadeMod_Hint"
+	{
+		"en"			"{orange}[{green}✘{orange}] {white}Cambiar: {green}equipar y sostener {orange}Shoot{white} + press {orange}Shove{white}."
+	}
+	"GrenadeMod_Hint2"
+	{
+		"en"			"{orange}[{green}✘{orange}] {white}Para Cambiar de {green}granada {white}usar comando {orange}!bom."
+	}
+	"GrenadeMod_Title_0"
+	{
+		"en"			"Normal"
+	}
+	"GrenadeMod_Title_1"
+	{
+		"en"			"Bombarda"
+	}
+	"GrenadeMod_Title_2"
+	{
+		"en"			"Agrupador"
+	}
+	"GrenadeMod_Title_3"
+	{
+		"en"			"Firework"
+	}
+	"GrenadeMod_Title_4"
+	{
+		"en"			"Humo"
+	}
+	"GrenadeMod_Title_5"
+	{
+		"en"			"Agujero negro"
+	}
+	"GrenadeMod_Title_6"
+	{
+		"en"			"Explosión"
+	}
+	"GrenadeMod_Title_7"
+	{
+		"en"			"Blindaje"
+	}
+	"GrenadeMod_Title_8"
+	{
+		"en"			"Tesla"
+	}
+	"GrenadeMod_Title_9"
+	{
+		"en"			"Químico"
+	}
+	"GrenadeMod_Title_10"
+	{
+		"en"			"Freezer"
+	}
+	"GrenadeMod_Title_11"
+	{
+		"en"			"Médico"
+	}
+	"GrenadeMod_Title_12"
+	{
+		"en"			"Vaporizador"
+	}
+	"GrenadeMod_Title_13"
+	{
+		"en"			"Extinguisher"
+	}
+	"GrenadeMod_Title_14"
+	{
+		"en"			"Radar Glow"
+	}
+	"GrenadeMod_Title_15"
+	{
+		"en"			"Anti-Gravity"
+	}
+	"GrenadeMod_Title_16"
+	{
+		"en"			"Grupo de fuego"
+	}
+	"GrenadeMod_Title_17"
+	{
+		"en"			"Balas Ramdon"
+	}
+	"GrenadeMod_Title_18"
+	{
+		"en"			"Reproches"
+	}
+	"GrenadeMod_Title_19"
+	{
+		"en"			"Ataque aéreo"
+	}
+	"GrenadeMod_Title_20"
+	{
+		"en"			"WeaponBox"
+	}
+}

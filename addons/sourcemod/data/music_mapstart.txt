@@ -1,0 +1,5 @@
+TS_SERVER/bombom.mp3 TAG- bombom
+TS_SERVER/Bortnick.mp3 TAG- Bortnick
+TS_SERVER/GOGOGO.mp3 TAG- GOGOGO
+TS_SERVER/guerrerosZ.mp3 TAG- guerrerosZ
+TS_SERVER/Sweet.mp3 TAG- Sweet

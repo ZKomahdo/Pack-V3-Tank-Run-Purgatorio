@@ -1,0 +1,17 @@
+/*
+	Following named colors are supported:
+	 - {white}	(use instead of \x01 )
+	 - {cyan}	(use instead of \x03 )
+	 - {orange}	(use instead of \x04 )
+	 - {green}	(use instead of \x05 )
+*/
+
+"Phrases"
+{
+	"FREEZE"
+	{
+		"#format"	"{1:N}"
+		"en"		"{green}[{orange}Super Pipebomb{cyan}] {cyan}{1} {white}recibió una bomba {green}Congelante."
+		"es"		"{green}[{orange}Super Pipebomb{cyan}] {cyan}{1} {white}recibió una bomba {green}Congelante."
+	}
+}

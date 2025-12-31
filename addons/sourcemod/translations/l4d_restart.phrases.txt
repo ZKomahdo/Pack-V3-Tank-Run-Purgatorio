@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"admin_warning"
+	{
+		"ru" "%s вы перезагружаете сервер, ваши данные записываются в журнале."
+		"en" "%s you reboot the server, and your data is written to the log."
+	}
+	"countdown_timer"
+	{
+		"ru" "Перезагрузка сервера через %d секунд."
+		"en" "Restart the server after %d seconds."
+	}
+	"warning_restart"
+	{
+		"ru" "Перезагрузка сервера!!!"
+		"en" "Server Restart!!!"
+	}
+}

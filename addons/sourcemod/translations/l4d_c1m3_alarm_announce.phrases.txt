@@ -1,0 +1,52 @@
+﻿/*
+	******************************************************************************************************************************************************
+
+	You can display phrases in chat with color using any of the methods below:
+
+	Using color codes:
+		•  // Default (use instead of \x01), Alt + 01 Keyboard Shortcut
+		•  // Light Green (use instead of \x03), Alt + 03 Keyboard Shortcut
+		•  // Orange (use instead of \x04), Alt + 04 Keyboard Shortcut
+		•  // Olive (use instead of \x05), Alt + 05 Keyboard Shortcut
+
+	or
+
+	Using color tags:
+		• {default} // Default (use instead of \x01)
+		• {lightgreen} // Light Green (use instead of \x03)
+		• {orange} // Orange (use instead of \x04)
+		• {olive} // Green (use instead of \x05)
+
+	******************************************************************************************************************************************************
+*/
+
+"Phrases"
+{
+	"c1m3_mall_alarm_on_glass_break"
+	{
+		"#format"		"{1:N}"
+		"en"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}broke the {olive}glass {lightgreen}and triggered the {olive}alarm"
+		"es"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}rompió el {olive}cristal {lightgreen}y activó la {olive}alarma"
+		"pt"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}quebrou o {olive}vidro {lightgreen}e disparou o {olive}alarme"
+		"pt_p"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}quebrou o {olive}vidro {lightgreen}e disparou o {olive}alarme"
+		"zho"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}打破了 {olive}玻璃 {lightgreen}並觸發了 {olive}警報"
+	}
+	"c1m3_mall_alarm_on_door_open"
+	{
+		"#format"		"{1:N}"
+		"en"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}opened the {olive}emergency door {lightgreen}and triggered the {olive}alarm"
+		"es"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}abrió la {olive}puerta de emergencia {lightgreen}y activó la {olive}alarma"
+		"pt"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}abriu a {olive}porta de emergência {lightgreen}e disparou o {olive}alarme"
+		"pt"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}abriu a {olive}porta de emergência {lightgreen}e disparou o {olive}alarme"
+		"zho"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}打開了 {olive}緊急門 {lightgreen}並觸發了 {olive}警報"
+	}
+	"c1m3_mall_alarm_on_deactivation"
+	{
+		"#format"		"{1:N}"
+		"en"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}deactivated the {olive}alarm"
+		"es"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}desactivó la {olive}alarma"
+		"pt"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}desativou o {olive}alarme"
+		"pt_p"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}desativou o {olive}alarme"
+		"zho"			"{orange}[{lightgreen}ROOT{orange}] {olive}{1} {default}停止了 {olive}警報"
+	}
+}

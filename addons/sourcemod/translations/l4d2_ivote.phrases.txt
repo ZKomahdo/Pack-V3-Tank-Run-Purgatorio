@@ -1,0 +1,182 @@
+"Phrases"
+{
+	"sm_ivote_type 0"
+	{
+		"en"			"Votar Mapa"		
+		"zho"			"投票更換地圖"
+		"chi"			"投票更换地图"
+	}
+
+    "sm_ivote_type 1"
+	{
+		"en"			"Votar Kick"		
+		"zho"			"投票踢出玩家"
+		"chi"			"投票踢出玩家"
+	}
+
+    "sm_ivote_type 2"
+	{
+		"en"			"Ban (15 min.)"		
+		"zho"			"投票封禁玩家15分鐘"
+		"chi"			"投票封禁玩家15分钟"
+	}
+
+    "sm_ivote_type 3"
+	{
+		"en"			"Votar Slay"		
+		"zho"			"投票處死玩家"
+		"chi"			"投票处死玩家"
+	}
+
+	"QUESTION_sm_ivote_type 0"
+	{
+        "#format"       "{1:s}"
+		"en"			"Cambiar mapa a: {1}?"		
+		"zho"			"更換地圖為: {1}?"
+		"chi"			"更换地图为: {1}?"
+	}
+
+    "QUESTION_sm_ivote_type 1"
+	{
+        "#format"       "{1:s}"
+		"en"			"Kick: {1}?"		
+		"zho"			"踢出: {1}?"
+		"chi"			"踢出: {1}?"
+	}
+
+    "QUESTION_sm_ivote_type 2"
+	{
+        "#format"       "{1:s}"
+		"en"			"Ban (15min.): {1}?"		
+		"zho"			"封禁(15分鐘): {1}?"
+		"chi"			"封禁(15分钟): {1}?"
+	}
+
+    "QUESTION_sm_ivote_type 3"
+	{
+        "#format"       "{1:s}"
+		"en"			"Slay: {1}?"		
+		"zho"			"處死: {1}?"
+		"chi"			"处死: {1}?"
+	}	
+	
+	"MENU"
+	{
+		"en"			"• Menu De Votaciones •\n‎ "		
+	}
+
+	"NO_PLAYER"
+	{
+		"en"			"No se puede seleccionar"		
+		"zho"			"沒有可選擇的玩家。"
+		"chi"			"没有可选择的玩家。"
+	}
+
+	"VOTE_FAILED"
+	{
+		"#format"		"{1:d},{2:d},{3:d}"
+		"en"			"Votación fallida. {GREEN}{1}{DEFAULT}%% se requiere voto. (Recibido {ORANGE}{2}{DEFAULT}%% de {CYAN}{3}{DEFAULT} votos)"
+		"zho"			"投票失敗。至少需要{ORANGE}{1}{DEFAULT}%%支持。(同意{ORANGE}{2}{DEFAULT}%%，總共{CYAN}{3}{DEFAULT}票)"
+		"chi"			"投票失败。至少需要{ORANGE}{1}{DEFAULT}%%支持。(同意{ORANGE}{2}{DEFAULT}%%，总共{CYAN}{3}{DEFAULT}票)"
+	}
+
+	"VOTE_SUCCESSFUL"
+	{
+		"#format"		"{1:d},{2:d}"
+		"en"			"Votar exitoso. (Recibido {GREEN}{1}{DEFAULT}%% de {CYAN}{2}{DEFAULT} votos)"
+		"zho"			"投票通過。(同意{GREEN}{1}{DEFAULT}%%，總共{CYAN}{2}{DEFAULT}票)"
+		"chi"			"投票通过。(同意{GREEN}{1}{DEFAULT}%%，总共{CYAN}{2}{DEFAULT}票)"
+	}
+
+	"SLAYED"
+	{
+		"#format"		"{1:s}"
+		"en"			"Asesinado {BLUE}{1}{DEFAULT}."
+		"zho"			"已處死{BLUE}{1}{DEFAULT}。"
+		"chi"			"已處死{BLUE}{1}{DEFAULT}。"
+	}
+
+	"FAILED_TO_SLAY"
+	{
+		"#format"		"{1:s}"
+		"en"			"No se pudo matar {BLUE}{1}{DEFAULT}, El objetivo está muerto."
+		"zho"			"處死{BLUE}{1}{DEFAULT}失敗，目標已死亡。"
+		"chi"			"处死{BLUE}{1}{DEFAULT}失败，目标已死亡。"
+	}
+
+    "VOTE_YES"
+    {
+		"en"			"Yes"
+		"zho"			"同意"
+		"chi"			"同意"
+    }
+
+    "VOTE_NO"
+    {
+		"en"			"No"
+		"zho"			"反對"
+		"chi"			"反对"
+    }
+
+	"VOTED"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			"{BLUE}{1}{DEFAULT} votado {2}."
+		"zho"			"{BLUE}{1}{DEFAULT}投了{2}。"
+		"chi"			"{BLUE}{1}{DEFAULT}投了{2}。"
+	}
+
+	"START_VOTE"
+	{
+		"#format"       "{1:N},{2:s},{3:s}"
+		"en"            "{BLUE}{1}{DEFAULT} comenzó {ORANGE}{2} {BLUE}{3}{DEFAULT}."
+		"zho"           "{BLUE}{1}{DEFAULT}發起了{ORANGE}{2}{BLUE}{3}{DEFAULT}。"
+		"chi"           "{BLUE}{1}{DEFAULT}发起了{ORANGE}{2}{BLUE}{3}{DEFAULT}。"
+	}
+
+	"IS_VOTING"
+	{
+		"en"            "Votación en curso ahora."
+		"zho"           "目前已有一個投票進行中。"
+		"chi"           "目前已有一个投票进行中。"
+	}
+
+
+	"KICKED"
+	{
+		"#format"		"{1:s}"
+		"en"			"KICKED {BLUE}{1}{DEFAULT}."
+		"zho"			"已踢出{BLUE}{1}{DEFAULT}。"
+		"chi"			"已踢出{BLUE}{1}{DEFAULT}。"
+	}
+
+	"KICKED_MSG"
+	{
+		"en"            "Te han expulsado. Motivo: Voto de expulsión aprobado."
+		"zho"           "您已被踢出遊戲。 原因: 踢出投票已通過。"
+		"chi"           "您已被踢出游戏。 原因: 踢出投票已通过。"
+	}
+
+	"BANNED_MSG"
+	{
+		"en"            "prohibido el acceso(15min)"
+		"zho"           "您已被封禁15分鐘。 原因: 封禁投票已通過。"
+		"chi"           "您已被封禁15分鐘。 原因: 封禁投票已通过。"
+	}
+
+	"BANNED"
+	{
+		"#format"       "{1:s}"
+		"en"            "Prohibido {BLUE}{1}{DEFAULT} for {ORANGE}15{DEFAULT} minutes."
+		"zho"           "已封禁{BLUE}{1}{DEFAULT}{ORANGE}15{DEFAULT}分鐘。"
+		"chi"           "已封禁{BLUE}{1}{DEFAULT}{ORANGE}15{DEFAULT}分钟。"
+	}
+
+	"PLEASE_WAIT"
+	{
+		"#format"       "{1:.1f}"
+		"en"            "La próxima votación necesita ser calmada. (CD: {ORANGE}{1}{DEFAULT}s)"
+		"zho"           "發起下一次投票前，需要待冷卻完成。(CD: {ORANGE}{1}{DEFAULT}s)"
+		"chi"           "发起下一次投票前，需要待冷却完成。(CD: {ORANGE}{1}{DEFAULT}s)"
+	}
+}

@@ -1,0 +1,170 @@
+"Phrases"
+{
+	"color_normal"
+	{
+		"en"			"Normal"
+		"es"			"Normal"
+		"ru"			"Стандартный"
+	}
+	"color_black"
+	{
+		"en"			"Black"
+		"es"			"Negro"
+		"ru"			"Чёрный"
+	}
+	"color_red"
+	{
+		"en"			"Red"
+		"es"			"Rojo"
+		"ru"			"Красный"
+	}
+	"color_green"
+	{
+		"en"			"Green"
+		"es"			"Verde"
+		"ru"			"Зелёный"
+	}
+	"color_blue"
+	{
+		"en"			"Blue"
+		"es"			"Azul"
+		"ru"			"Синий"
+	}
+	"color_yellow"
+	{
+		"en"			"Yellow"
+		"es"			"Amarillo"
+		"ru"			"Жёлтый"
+	}
+	"color_purple"
+	{
+		"en"			"Purple"
+		"es"			"Morado"
+		"ru"			"Пурпурный"
+	}
+	"color_cyan"
+	{
+		"en"			"Cyan"
+		"es"			"Cyan"
+		"ru"			"Голубой"
+	}
+	"color_orange"
+	{
+		"en"			"Orange"
+		"es"			"Naranja"
+		"ru"			"Оранжевый"
+	}
+	"color_pink"
+	{
+		"en"			"Pink"
+		"es"			"Rosa"
+		"ru"			"Розовый"
+	}
+	"color_olive"
+	{
+		"en"			"Olive"
+		"es"			"Olivo"
+		"ru"			"Оливковый"
+	}
+	"color_lime"
+	{
+		"en"			"Lime"
+		"es"			"Lima"
+		"ru"			"Лаймовый"
+	}
+	"color_violet"
+	{
+		"en"			"Violet"
+		"es"			"Violeta"
+		"ru"			"Фиолетовый"
+	}
+	"color_lightblue"
+	{
+		"en"			"Lightblue"
+		"es"			"Azul Claro"
+		"ru"			"Светло-синий"
+	}
+	"color_silver"
+	{
+		"en"			"Silver"
+		"es"			"Plata"
+		"ru"			"Серебряный"
+	}
+	"color_chocolate"
+	{
+		"en"			"Chocolate"
+		"es"			"Chocolate"
+		"ru"			"Шоколадный"
+	}
+	"color_saddlebrown"
+	{
+		"en"			"Saddlebrown"
+		"es"			"Marrón Silla"
+		"ru"			"Коричневый"
+	}
+	"color_indigo"
+	{
+		"en"			"Indigo"
+		"es"			"Indigo"
+		"ru"			"Индиго"
+	}
+	"color_ghostwhite"
+	{
+		"en"			"Ghostwhite"
+		"es"			"Blanco Fantasmal"
+		"ru"			"Призрачно-белый"
+	}
+	"color_thistle"
+	{
+		"en"			"Thistle"
+		"es"			"Cardo"
+		"ru"			"Чертополох"
+	}
+	"color_aliceblue"
+	{
+		"en"			"Aliceblue"
+		"es"			"Alice Azul"
+		"ru"			"Бледно-голубой"
+	}
+	"color_steelblue"
+	{
+		"en"			"Steelblue"
+		"es"			"Azul Plateado"
+		"ru"			"Стальной синий"
+	}
+	"color_teal"
+	{
+		"en"			"Teal"
+		"es"			"Café"
+		"ru"			"Бирюзовый"
+	}
+	"color_gold"
+	{
+		"en"			"Gold"
+		"es"			"Oro"
+		"ru"			"Золотой"
+	}
+	"color_tan"
+	{
+		"en"			"Tan"
+		"es"			"Bronceado"
+		"ru"			"Желтовато-коричневый"
+	}
+	"color_tomato"
+	{
+		"en"			"Tomato"
+		"es"			"Tomate"
+		"ru"			"Томатный"
+	}
+	"menu_title"
+	{
+		"en"			"• Color Menu •"
+		"es"			"• Color Menu •"
+	}
+	"choosen"
+	{
+		"#format"	"{1:s}"
+		"en"			"you have choosen {1}!"
+		"es"			"{olive}Tu {default}has {blue}elegido {default}{1} {green}!"
+	}
+}

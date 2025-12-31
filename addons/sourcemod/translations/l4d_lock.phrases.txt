@@ -1,0 +1,71 @@
+//  = 0x01 (SOH) - Use normal color from this point forward
+//  = 0x02 (STX) - Use team color up to the end of the player name
+//  = 0x03 (ETX) - Use team color from this point forward
+//  = 0x04 (EOT) - Use location color from this point forward 
+//  = 0x05 (ENQ) - Use achievement color from this point forward
+
+"Phrases"
+{
+	"[DOORLOCK] Door will open in: %i seconds! Please wait."
+	{
+		"ru"		"[DOORLOCK] Дверь будет открыта через %i секунд! Пожалуйста, ждите."
+		"en"		"[DOORLOCK] Door will open in: %i seconds! Please wait."
+		"de"		"[DOORLOCK] Door will open in: %i seconds! Please wait."
+		"es"		"[DELICIOUS] La puerta se abrirá en: %i segundos!"
+		"fr"		"[DOORLOCK] Door will open in: %i seconds! Please wait."
+	}
+	
+	"[DOORLOCK] Saferoom doors will open in %i seconds!"
+	{
+		"ru"		"[DOORLOCK] Дверь будет открыта через %i секунд!"
+		"en"		"[DOORLOCK] Saferoom doors will open in %i seconds!"
+		"de"		"[DOORLOCK] Saferoom doors will open in %i seconds!"
+		"es"		"[DELICIOUS] El juego comenzará en %i seconds!"
+		"fr"		"[DOORLOCK] Saferoom doors will open in %i seconds!"
+	}
+	
+	"[DOORLOCK] Saferoom doors are locked!"
+	{
+		"ru"		"[DOORLOCK] Дверь убежища закрыта!"
+		"en"		"[DOORLOCK] Saferoom doors are locked!"
+		"de"		"[DOORLOCK] Saferoom doors are locked!"
+		"es"		"[DELICIOUS] Puerta del refugio bloqueada!"
+		"fr"		"[DOORLOCK] Saferoom doors are locked!"
+	}
+	
+	"[DOORLOCK] Saferoom doors are unlocked!"
+	{
+		"ru"		"[DOORLOCK] Дверь убежища открыта!"
+		"en"		"[DOORLOCK] Saferoom doors are unlocked!"
+		"de"		"[DOORLOCK] Saferoom doors are unlocked!"
+		"es"		"[DELICIOUS] Puerta del refugio desbloqueada!"
+		"fr"		"[DOORLOCK] Saferoom doors are unlocked!"
+	}
+	
+	"[DOORLOCK] Saferoom doors are open!"
+	{
+		"ru"		"[DOORLOCK] Дверь убежища открыта!"
+		"en"		"[DOORLOCK] Saferoom doors are open!"
+		"de"		"[DOORLOCK] Saferoom doors are open!"
+		"es"		"[DELICIOUS] Puerta del refugio abierta!"
+		"fr"		"[DOORLOCK] Saferoom doors are open!"
+	}
+	
+	"The saferoom doors are open!"
+	{
+		"ru"		"Дверь убежища открыта!"
+		"en"		"Saferoom doors are open!"
+		"de"		"Saferoom doors are open!"
+		"es"		"Buena suerte y diviértete!"
+		"fr"		"Saferoom doors are open!"
+	}
+	
+	"%i second(s) till the saferoom doors open!"
+	{
+		"ru"		"%i секунд(ы/а) до открытия двери убежища!"
+		"en"		"%i second(s) till the saferoom doors open!"
+		"de"		"%i second(s) till the saferoom doors open!"
+		"es"		"[⚠︎]• • • •●| %i |●• • • • [⚠︎]"
+		"fr"		"%i second(s) till the saferoom doors open!"
+	}
+}

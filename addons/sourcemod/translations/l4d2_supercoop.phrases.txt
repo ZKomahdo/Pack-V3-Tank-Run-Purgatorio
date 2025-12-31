@@ -1,0 +1,1190 @@
+//  = 0x01 (SOH) - Use normal color from this point forward
+//  = 0x02 (STX) - Use team color up to the end of the player name
+//  = 0x03 (ETX) - Use team color from this point forward
+//  = 0x04 (EOT) - Use location color from this point forward 
+//  = 0x05 (ENQ) - Use achievement color from this point forward
+
+"Phrases"
+{
+	"%N have found a %s!"
+	{
+		"ru"		"%N открыл %s!"
+		"en"		"%N have found a %s!"
+		"de"		"%N hat geöffnet %s!"
+		"es"		"%N abrio una %s!"
+		"fr"		"%N a ouvert un %s!"
+	}
+	
+	"%N have found a"
+	{
+		"ru"		"%N открыл"
+		"en"		"%N have found a"
+		"de"		"%N hat geöffnet"
+		"es"		"%N abrio una"
+		"fr"		"%N a ouvert un"
+	}
+	
+	"%N have found a nextbox (%s)!"
+	{
+		"ru"		"%N открыл nextbox (%s)!"
+		"en"		"%N have found a nextbox (%s)!"
+		"de"		"%N hat nextbox geöffnet (%s)!"
+		"es"		"%N abrio una nextbox (%s)!"
+		"fr"		"%N a ouvert une nextbox (%s)!"
+	}
+	
+	"Server Informantion:"
+	{
+		"ru"		"Информация о сервере:"
+		"en"		"Server Information:"
+		"de"		"Die Informationen über den Server:"
+		"es"		"Informacion del servidor:"
+		"fr"		"Information du serveur:"
+	}
+	
+	"Host: %s | SteamGroup: %s"
+	{
+		"ru"		"Имя сервера: %s | Группа в Steam: %s"
+		"en"		"Host: %s | Steam Group: %s"
+		"de"		"Der Name des Servers: %s | Die Gruppe in steam: %s"
+		"es"		"Nombre del servidor: %s | Grupo de steam: %s"
+		"fr"		"Le nom du serveur: %s | Groupe steam: %s"
+	}
+	
+	"Server IP: %s | Config: %s"
+	{
+		"ru"		"IP адрес сервера: %s | Конфиг: %s"
+		"en"		"Server IP: %s | Config: %s"
+		"de"		"Server IP: %s | Config: %s"
+		"es"		"Servidor IP: %s | Config: %s"
+		"fr"		"Serveur IP: %s | Configuration: %s"
+	}
+		
+	"Host FPS: %d | Average ping: %d | UpTime: %s"
+	{
+		"ru"		"Хост FPS: %d | Средний пинг: %d | UpTime: %s"
+		"en"		"Host FPS: %d | Average ping: %d | UpTime: %s"
+		"de"		"Host FPS: %d | Mittler ping: %d | UpTime: %s"
+		"es"		"Host FPS: %d | Promedio ping: %d | UpTime: %s"
+		"fr"		"Host FPS: %d | Moyenne Ping: %d | UpTime: %s"
+	}
+	
+	"Server uptime is %s"
+	{
+		"ru"		"Время работы сервера: %s"
+		"en"		"Server uptime is %s"
+		"de"		"Die Arbeitszeit des Servers %s"
+		"es"		"Tiempo de actividad del servidor %s"
+		"fr"		"Temps de fonctionnement du serveur %s"
+	}
+	
+	"Ping (Current / Average):\nOutgouing: %d / %d | Incoming: %d / %d | Both: %d / %d"
+	{
+		"ru"		"Пинг (Текущие / Средний):\nИсходящий: %d / %d | Сейчас: %d / %d | Оба: %d / %d"
+		"en"		"Ping (Current / Average):\nOutgouing: %d / %d | Incoming: %d / %d | Both: %d / %d"
+		"de"		"Ping (fließen / Mittler):\ausgehend: %d / %d | jetzt: %d / %d | beide: %d / %d"
+		"es"		"Ping (Current / promedio):\hacia abajo: %d / %d | Proximos: %d / %d | Both: %d / %d"
+		"fr"		"Ping (Actuel / Moyenne):\sortant: %d / %d | entrant: %d / %d | ensemble: %d / %d"
+	}
+	
+	"Informantion:"
+	{
+		"ru"		"Информация:"
+		"en"		"Informantion:"
+		"de"		"Informantion:"
+		"es"		"Informacion:"
+		"fr"		"Informantion:"
+	}
+	
+	"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s"
+	{
+		"ru"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | Аптайм: %s"
+		"en"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s"
+		"de"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s"
+		"es"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s"
+		"fr"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s"
+	}
+	
+	"Difficulty: %s x %s | Players: %i"
+	{
+		"ru"		"Сложность: %s x %s | Игроков на сервере: %i"
+		"en"		"Difficulty: %s x %s | Players: %i"
+		"de"		"Komplexität: %s x %s | Die spieler: %i"
+		"es"		"Dificultad: %s x %s | Jugadores: %i"
+		"fr"		"Difficultée: %s x %s | Joueurs: %i"
+	}
+	
+	"Difficulty: %s x %s | Players: %i | Live Survivors: %i"
+	{
+		"ru"		"Сложность: %s x %s | Игроков на сервере: %i | %i"
+		"en"		"Difficulty: %s x %s | Players: %i | %i"
+		"de"		"Komplexität: %s x %s | Die spieler: %i | %i"
+		"es"		"Dificultad: %s x %s | Jugadores: %i | %i"
+		"fr"		"Difficultée: %s x %s | Joueurs: %i | %i"
+	}
+	
+	"Tank HP: %i | Witch HP: %i | Zombie HP: %i"
+	{
+		"ru"		"Танк ХП: %i | Ведьма ХП: %i | Зомби ХП: %i"
+		"en"		"Tank HP: %i | Witch HP: %i | Zombie HP: %i"
+		"de"		"Tank HP: %i | Witch HP: %i | Zombi HP: %i"
+		"es"		"Tank HP: %i | Witch HP: %i | Zombi HP: %i"
+		"fr"		"Tank HP: %i | Witch HP: %i | Zombi HP: %i"
+	}
+	
+	"Tank HP: "
+	{
+		"ru"		"Танк ХП: "
+		"en"		"Tank HP: "
+		"de"		"Tank HP: "
+		"es"		"Tank HP: "
+		"fr"		"Tank HP: "
+	}
+	
+	"| Witch HP: %i | Zombie HP: %i"
+	{
+		"ru"		"| Ведьма ХП: %i | Зомби ХП: %i"
+		"en"		"| Witch HP: %i | Zombie HP: %i"
+		"de"		"| Witch HP: %i | Zombi HP: %i"
+		"es"		"| Witch HP: %i | Zombi HP: %i"
+		"fr"		"| Witch HP: %i | Zombi HP: %i"
+	}
+
+	"Tank HPA: %i | Witch HP: %i | Zombie HP: %i"
+
+	{
+		"ru"		"Танк ХП: %i | Ведьма ХП: %i | Зомби ХП: %i"
+		"en"		"Tank HP: %i | Witch HP: %i | Zombie HP: %i"
+		"de"		"Tank HP: %i | Witch HP: %i | Zombi HP: %i"
+		"es"		"Tank HP: %i | Witch HP: %i | Zombi HP: %i"
+		"fr"		"Tank HP: %i | Witch HP: %i | Zombi HP: %i"
+	}
+
+	"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i \nCharger HP: %i | Spitter HP: %i | Jockey HP: %i"
+	{
+		"ru"		"Охотник ХП: %i | Курильщик ХП: %i | Толстяк ХП: %i \nГромила ХП: %i | Плевальщица ХП: %i | Жокей ХП: %i"
+		"en"		"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i \nCharger HP: %i | Spitter HP: %i | Jockey HP: %i"
+		"de"		"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i \nCharger HP: %i | Spitter HP: %i | Jockey HP: %i"
+		"es"		"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i \nCharger HP: %i | Spitter HP: %i | Jockey HP: %i"
+		"fr"		"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i \nCharger HP: %i | Spitter HP: %i | Jockey HP: %i"
+	}
+	
+	"+ Owner"
+	{
+		"ru"		"+ Владелец"
+		"en"		"+ Owner"
+		"de"		"+ Besitzer"
+		"es"		"+ Propietario"
+		"fr"		"+ Possesseur"
+	}
+	
+	"+ Admin"
+	{
+		"ru"		"+ Администратор"
+		"en"		"+ Admin"
+		"de"		"+ Admin"
+		"es"		"+ Administración"
+		"fr"		"+ Administrateur"
+	}
+	
+	"+ Moderator"
+	{
+		"ru"		"+ Модератор"
+		"en"		"+ Moderator"
+		"de"		"+ Moderator"
+		"es"		"+ Moderator"
+		"fr"		"+ Moderator"
+	}
+	
+	"+ VIP"
+	{
+		"ru"		"+ VIP"
+		"en"		"+ VIP"
+		"de"		"+ VIP"
+		"es"		"+ VIP"
+		"fr"		"+ VIP"
+	}
+	
+	"+ Player"
+	{
+		"ru"		"+ Игрок"
+		"en"		"+ Player"
+		"de"		"+ Player"
+		"es"		"+ Player"
+		"fr"		"+ Player"
+	}
+	
+	"- Owner"
+	{
+		"ru"		"- Владелец"
+		"en"		"- Owner"
+		"de"		"- Besitzer"
+		"es"		"- Propietario"
+		"fr"		"- Possesseur"
+	}
+	
+	"- Admin"
+	{
+		"ru"		"- Администратор"
+		"en"		"- Admin"
+		"de"		"- Admin"
+		"es"		"- Administración"
+		"fr"		"- Administrateur"
+	}
+	
+	"- Moderator"
+	{
+		"ru"		"- Модератор"
+		"en"		"- Moderator"
+		"de"		"- Moderator"
+		"es"		"- Moderator"
+		"fr"		"- Moderator"
+	}
+	
+	"- VIP"
+	{
+		"ru"		"- VIP"
+		"en"		"- VIP"
+		"de"		"- VIP"
+		"es"		"- VIP"
+		"fr"		"- VIP"
+	}
+	
+	"- Player"
+	{
+		"ru"		"- Игрок"
+		"en"		"- Player"
+		"de"		"- Player"
+		"es"		"- Player"
+		"fr"		"- Player"
+	}
+	
+	"Player"
+	{
+		"ru"		"Игрок"
+		"en"		"Player"
+		"de"		"Player"
+		"es"		"Player"
+		"fr"		"Player"
+	}
+	
+	"Grenade Launcher Damage: %d"
+	{
+		"ru"		"Урон от гранатомёта: %d"
+		"en"		"Grenade Launcher Damage: %d"
+		"de"		"Der Granatwerfer der Verlust: %d"
+		"es"		"Daño del Lanza Granadas: %d"
+		"fr"		"Dommages du lanceur de grenade: %d"
+	}
+	
+	"Grenade Launcher Damage: %d. Server time: %s"
+	{
+		"ru"		"Урон от гранатомёта: %d. Время сервера: %s"
+		"en"		"Grenade Launcher Damage: %d. Server time: %s"
+		"de"		"Der Granatwerfer der Verlust: %d. Server time: %s"
+		"es"		"Daño del Lanza Granadas: %d. Server time: %s"
+		"fr"		"Dommages du lanceur de grenade: %d. Server time: %s"
+	}
+	
+	"Vote access denied"
+	{
+		"ru"		"\"Голосование\" доступ запрещен"
+		"en"		"\"Vote\" access denied"
+		"de"		"\"Abstimmung\" Der Zugang ist untersagt"
+		"es"		"\"Voto\" acceso denegado"
+		"fr"		"\"Vote\" Accés Refusé"
+	}
+	
+	"Vote access denied. Target is Admin"
+	{
+		"ru"		"\"Голосование\" доступ запрещен. Вы не можете кикнуть админа."
+		"en"		"\"Vote\" access denied. Target is Admin"
+		"de"		"\"Abstimmung\" Der Zugang ist untersagt. Target is Admin"
+		"es"		"\"Voto\" acceso denegado. Target is Admin"
+		"fr"		"\"Vote\" Accés Refusé. Target is Admin"
+	}
+	
+	
+	"Vote access denied [%d < %d]"
+	{
+		"ru"		"\"Голосование\" доступ запрещен [%d < %d]"
+		"en"		"\"Vote\" access denied [%d < %d]"
+		"de"		"\"Abstimmung\" Der Zugang ist untersagt [%d < %d]"
+		"es"		"\"Voto\" acceso denegado [%d < %d]"
+		"fr"		"\"Vote\" Accés Refusé [%d < %d]"
+	}
+	
+	"Vote access denied [%d > %d]"
+	{
+		"ru"		"\"Голосование\" доступ запрещен [%d > %d]"
+		"en"		"\"Vote\" access denied [%d > %d]"
+		"de"		"\"Abstimmung\" Der Zugang ist untersagt [%d > %d]"
+		"es"		"\"Voto\" acceso denegado [%d > %d]"
+		"fr"		"\"Vote\" Accés Refusé [%d > %d]"
+	}
+	
+	"Vote access granted"
+	{
+		"ru"		"\"Голосование\" доступ разрешен"
+		"en"		"\"Vote\" access granted"
+		"de"		"\"Abstimmung\" Der Zugang ist erlaubt"
+		"es"		"\"Voto\" acceso concedido"
+		"fr"		"\"Vote\" Accés autorisé"
+	}
+	
+	"%N started the voting"
+	{
+		"ru"		"%N начал голосование"
+		"en"		"%N started the voting"
+		"de"		"%N Abstimmung angefangen"
+		"es"		"%N comenzo la votacion"
+		"fr"		"%N a demarré un vote"
+	}
+	
+	"[VIP] Vote access granted"
+	{
+		"ru"		"[VIP] \"Голосование\" доступ разрешен"
+		"en"		"[VIP] \"Vote\" access granted"
+		"de"		"[VIP] \"Abstimmung\" Der Zugang ist erlaubt"
+		"es"		"[VIP] \"Voto\" acceso concedido"
+		"fr"		"[VIP] \"Vote\" accés autorisé"
+	}
+	
+	"Vote access denied [this campaign is forbidden]"
+	{
+		"ru"		"\"Vote\" Отказано в доступе [эта кампания заблокирована]"
+		"en"		"\"Vote\" access denied [this campaign is forbidden]"
+		"de"		"\"Abstimmung\" Es ist den Zugang abgesagt [diese Kampagne ist ausgesondert]"
+		"es"		"\"Voto\" acceso denegado [esta campaña está prohibida]"
+		"fr"		"\"Vote\" Accés Refusé [cette campagne est interdite]"
+	}
+	
+	"Warning! This campaign is forbidden!\n\"Vote\" access granted"
+	{
+		"ru"		"{red}Внимание! Эта кампания заблокирована!\n\"Голосование\" доступ разрешен"
+		"en"		"{red}Warning! This campaign is forbidden!\n\"Vote\" access granted"
+		"de"		"{red}Warning! Diese Kampagne ist ausgesondert!\n\"Abstimmung\" der zugang ist erlaubt"
+		"es"		"{red}Warning! Esta campaña está prohibida!\n\"Voto\" acceso concedido"
+		"fr"		"{red}Warning! Cette campagne est interdite!\n\"Vote\" accés autorisé"
+	}
+	
+	"No players in the statistics yet"
+	{
+		"ru"		"Нет игроков в статистике"
+		"en"		"No players in the statistics yet"
+		"de"		"Keine Spieler in der Statistik noch"
+		"es"		"No hay jugadores en las estadísticas aún"
+		"fr"		"Pas de joueurs encore les statistiques"
+	}
+	
+	"Your points: %d"
+	{
+		"ru"		"Ваши очки: %d"
+		"en"		"Your points: %d"
+		"de"		"Ihre Punkte: %d"
+		"es"		"Sus puntos: %d"
+		"fr"		"Vos points: %d"
+	}
+	
+	"You have no rank yet"
+	{
+		"ru"		"У вас нет ранга"
+		"en"		"You have no rank yet"
+		"de"		"Sie haben keinen Rang"
+		"es"		"No tienes rank todavía"
+		"fr"		"Vous n'avais pas encor de classement"
+	}
+
+	"Your rank: %d of %d"
+	{
+		"ru"		"Ваш ранг: %d из %d"
+		"en"		"Your rank: %d of %d"
+		"de"		"Ihr Rang: %d von %d"
+		"es"		"Su rank: %d de %d"
+		"fr"		"Votre place: %d sur %d"
+	}
+	
+	"Rank: %i of %i. Points: %i"
+	{
+		"ru"		"Ваш ранг: %i из %i. Ваши очки: %i"
+		"en"		"Your rank: %i of %i. Your points: %i"
+		"de"		"Ihr Rang: %i von %i. Ihre Punkte: %i"
+		"es"		"Su rank: %i de %i. Sus puntos: %i"
+		"fr"		"Votre place: %i sur %i. Vos points: %i"
+	}
+
+	"Map points multiplier: %s, Alive Players: %d"
+	{
+		"ru"		"Сложность карты: %s, Выживших игроков: %d"
+		"en"		"Map points multiplier: %s, Alive Players: %d"
+		"de"		"Die Komplexität der Karte: %s, Der überlebenden Spieler: %d"
+		"es"		"Puntos de mapa multiplicados: %s, jugadores vivos: %d"
+		"fr"		"Difficultée de la MAP: %s, Joueurs vivants: %d"
+	}
+
+	"Map total points: %d"
+	{
+		"ru"		"Всего получено очков на карте: %d"
+		"en"		"Map total points: %d"
+		"de"		"Die Punkte für die Karte: %d"
+		"es"		"Total de puntos en el mapa: %d"
+		"fr"		"Point total de la Map: %d"
+	}
+
+	"Map best player: %s (rank: %d; points: %d, %d)"
+	{
+		"ru"		"Лучший игрок за карту: %s (ранг: %d; очков: %d, %d)"
+		"en"		"Map best player: %s (rank: %d; points: %d, %d)"
+		"de"		"Der beste Spieler für die Karte: %s (Rang: %d; Der Punkte: %d, %d)"
+		"es"		"El mejor jugador del mapa: %s (rank: %d; points: %d, %d)"
+		"fr"		"Meilleur joueur de la Map: %s (classement: %d; points: %d, %d)"
+	}
+	
+	"Map best player:"
+	{
+		"ru"		"Лучший игрок за карту:"
+		"en"		"Map best player:"
+		"de"		"Der beste Spieler für die Karte:"
+		"es"		"El mejor jugador del mapa:"
+		"fr"		"Meilleur joueur de la Map:"
+	}
+	
+	"(rank: %d; points: %d)"
+	{
+		"ru"		"(ранг: %d; очков: %d)"
+		"en"		"(rank: %d; points: %d)"
+		"de"		"(Rang: %d; Der Punkte: %d)"
+		"es"		"(rank: %d; points: %d)"
+		"fr"		"(classement: %d; points: %d)"
+	}
+
+	"Map worst player: %s (rank: %d; points: %d, %d)"
+	{
+		"ru"		"Худший игрок за карту: %s (ранг: %d; очков: %d, %d)"
+		"en"		"Map worst player: %s (rank: %d; points: %d, %d)"
+		"de"		"Der schlimmste Spieler für die Karte: %s (Rang: %d; Der Punkte: %d, %d)"
+		"es"		"El peor jugador del mapa: %s (rank: %d; points: %d, %d)"
+		"fr"		"Pire joueur de la Map: %s (Classement: %d; Points: %d, %d)"
+	}
+	
+	"Map worst player:"
+	{
+		"ru"		"Худший игрок за карту:"
+		"en"		"Map worst player:"
+		"de"		"Der schlimmste Spieler für die Karte:"
+		"es"		"El peor jugador del mapa:"
+		"fr"		"Pire joueur de la Map:"
+	}
+	
+	"(rank: %d; points: %d)"
+	{
+		"ru"		"(ранг: %d; очков: %d)"
+		"en"		"(rank: %d; points: %d)"
+		"de"		"(Rang: %d; Der Punkte: %d)"
+		"es"		"(rank: %d; points: %d)"
+		"fr"		"(Classement: %d; Points: %d)"
+	}
+
+	"Your map points: %d (%d)"
+	{
+		"ru"		"Ваши очки за карту: %d (%d)"
+		"en"		"Your map points: %d (%d)"
+		"de"		"Ihre Punkte für die Karte: %d (%d)"
+		"es"		"Sus puntos del mapa: %d (%d)"
+		"fr"		"Vos points sur la Map: %d (%d)"
+	}
+
+	"Your map points: %d"
+	{
+		"ru"		"Ваши очки за карту: %d"
+		"en"		"Your map points: %d"
+		"de"		"Ihre Punkte für die Karte: %d"
+		"es"		"Sus puntos del mapa: %d"
+		"fr"		"Vos points sur la Map: %d"
+	}
+
+	"Your level as admin %d, as player %d"
+	{
+		"ru"		"Ваш уровень как администратора %d, как игрок %d"
+		"en"		"Your level as admin %d, as player %d"
+		"de"		"Ihr Niveau wie des Verwalters %d, Wie der Spieler %d"
+		"es"		"Su nivel de administrador %d, como jugador %d"
+		"fr"		"Votre niveau d'administration %d, en tant que %d"
+	}
+	
+	"Tankbox access : banned"
+	{
+		"ru"		"Tankbox доступ: запрещён"
+		"en"		"Tankbox access: banned"
+		"de"		"Zugang Tankbox: untersagt"
+		"es"		"Acceso Tankbox: prohibido"
+		"fr"		"Accés Tankbox: interdit"
+	}
+	
+	"Tankbox access : allowed"
+	{
+		"ru"		"Tankbox доступ: разрешен"
+		"en"		"Tankbox access: allowed"
+		"de"		"Zugang Tankbox: erlaubt"
+		"es"		"Acceso Tankbox: permitido"
+		"fr"		"Accés Tankbox: autorisé"
+	}
+	
+	"DB Read Time: %d second(s)"
+	{
+		"ru"		"DB Время чтения: %d секунд(а)"
+		"en"		"DB Read Time: %d second(s)"
+		"de"		"DB Die Zeit der Lektüre: %d der Sekunden(s)"
+		"es"		"DB Tiempo de lectura: %d segundos(s)"
+		"fr"		"Temps de lecture DB: %d seconde(s)"
+	}
+
+	"Name: %N | Status: %s | Level: %d"
+	{
+		"ru"		"Имя: {blue}%N | Статус: %s | Уровень: {blue}∆ %d"
+		"en"		"Name: {blue}%N | Status: %s | Level: {blue}∆ %d"
+		"de"		"Name: {blue}%N | Status: %s | Stand: {blue}∆ %d"
+		"es"		"Nombre: {blue}%N | Estado: %s | Nivel: {blue}∆ %d"
+		"fr"		"Nom: {blue}%N | Statut: %s | Niveau: {blue}∆ %d"
+	}
+	
+	"Name: %N | Status: %s | Level: %s"
+	{
+		"ru"		"Имя: {blue}%N | Статус: %s | Уровень: {blue}∆ %s"
+		"en"		"Name: {blue}%N | Status: %s | Level: {blue}∆ %s"
+		"de"		"Name: {blue}%N | Status: %s | Stand: {blue}∆ %s"
+		"es"		"Nombre: {blue}%N | Estado: %s | Nivel: {blue}∆ %s"
+		"fr"		"Nom: {blue}%N | Statut: %s | Niveau: {blue}∆ %s"
+	}
+	
+	"Name: %N | Status: %s"
+	{
+		"ru"		"Имя: {blue}%N | Статус: %s"
+		"en"		"Name: {blue}%N | Status: %s"
+		"de"		"Name: {blue}%N | Status: %s"
+		"es"		"Nombre: {blue}%N | Estado: %s"
+		"fr"		"Nom: {blue}%N | Statut: %s"
+	}
+	
+	"Rank: %d | Points: %d"
+	{
+		"ru"		"Ранг: %d | Очки: %d"
+		"en"		"Rank: %d | Points: %d"
+		"de"		"Rang: %d | Punkte: %d"
+		"es"		"Rank: %d | Puntos: %d"
+		"fr"		"Classement: %d | Points: %d"
+	}
+	
+	"Rank: %d Points: %d"
+	{
+		"ru"		"Ранг: %d Очки: %d"
+		"en"		"Rank: %d Points: %d"
+		"de"		"Rang: %d Punkte: %d"
+		"es"		"Rank: %d Puntos: %d"
+		"fr"		"Classement: %d Points: %d"
+	}
+	
+	"Health: %d"
+	{
+		"ru"		"Здоровье: %d"
+		"en"		"Health: %d"
+		"de"		"Gesundheit: %d"
+		"es"		"Salud: %d"
+		"fr"		"Vie: %d"
+	}
+	
+	"Location: %s | Group: %s"
+	{
+		"ru"		"Расположение: %s | Группа: %s"
+		"en"		"Location: %s | Group: %s"
+		"de"		"Anordnung: %s | Gruppe: %s"
+		"es"		"Ubicacion: %s | Grupo: %s"
+		"fr"		"Emplacement: %s | Groupe: %s"
+	}
+	
+	"Smoker health: %d"
+	{
+		"ru"		"{red}Курильщик Здоровье: %d"
+		"en"		"{red}Smoker health: %d"
+		"de"		"{red}Smoker Gesundheit: %d"
+		"es"		"{red}Smoker Salud: %d"
+		"fr"		"{red}Smoker Vie: %d"
+	}
+	
+	"Boomer health: %d"
+	{
+		"ru"		"{red}Толстяк Здоровье: %d"
+		"en"		"{red}Boomer health: %d"
+		"de"		"{red}Boomer Gesundheit: %d"
+		"es"		"{red}Boomer Salud: %d"
+		"fr"		"{red}Boomer Vie: %d"
+	}
+	
+	"Jockey health: %d"
+	{
+		"ru"		"{red}Жокей Здоровье: %d"
+		"en"		"{red}Jockey health: %d"
+		"de"		"{red}Jockey Gesundheit: %d"
+		"es"		"{red}Jockey Salud: %d"
+		"fr"		"{red}Jockey Vie: %d"
+	}
+	
+	"Hunter health: %d"
+	{
+		"ru"		"{red}Охотник Здоровье: %d"
+		"en"		"{red}Hunter health: %d"
+		"de"		"{red}Hunter Gesundheit: %d"
+		"es"		"{red}Hunter Salud: %d"
+		"fr"		"{red}Hunter Vie: %d"
+	}
+	
+	"Spitter health: %d"
+	{
+		"ru"		"{red}Плевальщица Здоровье: %d"
+		"en"		"{red}Spitter health: %d"
+		"de"		"{red}Spitter Gesundheit: %d"
+		"es"		"{red}Spitter Salud: %d"
+		"fr"		"{red}Spitter Vie: %d"
+	}
+	
+	"Charger health: %d"
+	{
+		"ru"		"{red}Громила Здоровье: %d"
+		"en"		"{red}Charger health: %d"
+		"de"		"{red}Charger Gesundheit: %d"
+		"es"		"{red}Charger Salud: %d"
+		"fr"		"{red}Charger Vie: %d"
+	}
+	
+	"Tank health: %d"
+	{
+		"ru"		"{red}Танк Здоровье: %d"
+		"en"		"{red}Tank health: %d"
+		"de"		"{red}Tank Gesundheit: %d"
+		"es"		"{red}Tank Salud: %d"
+		"fr"		"{red}Tank Vie: %d"
+	}
+	
+	"%N attacked %N (%i TK)"
+	{
+		"ru"		"{blue}%N атаковал {blue}%N [%i ТК]"
+		"en"		"{blue}%N attacked {blue}%N [%i TK]"
+		"de"		"{blue}%N attacked {blue}%N [%i TK]"
+		"es"		"{blue}%N attacked {blue}%N [%i TK]"
+		"fr"		"{blue}%N attacked {blue}%N [%i TK]"
+	}
+	
+	"%N vomited %N (%i TK)"
+	{
+		"ru"		"%N атаковал %N (%i ТК)"
+		"en"		"%N attacked %N (%i TK)"
+		"de"		"%N attacked %N (%i TK)"
+		"es"		"%N attacked %N (%i TK)"
+		"fr"		"%N attacked %N (%i TK)"
+	}
+	
+	"%N (%s) has been banned [%i TK]"
+	{
+		"ru"		"%N (%s) был забанен [%i ТК]"
+		"en"		"%N (%s) has been banned [%i ТК]"
+		"de"		"%N (%s) has been banned [%i ТК]"
+		"es"		"%N (%s) has been banned [%i ТК]"
+		"fr"		"%N (%s) has been banned [%i ТК]"
+	}
+	
+	"Auto Voteban"
+	{
+		"ru"		"Автоголосование за Бан"
+		"en"		"Auto Voteban"
+		"de"		"Auto Voteban"
+		"es"		"Auto Voteban"
+		"fr"		"Auto Voteban"
+	}
+	
+	"%i TK. (Rank: %d Points: %d)"
+	{
+		"ru"		"%i ТК. (Ранг: %d Очки: %d)"
+		"en"		"%i ТК. (Rank: %d Points: %d)"
+		"de"		"%i ТК. (Rang: %d Punkte: %d)"
+		"es"		"%i ТК. (Rank: %d Puntos: %d)"
+		"fr"		"%i ТК. (Classement: %d Points: %d)"
+	}
+	
+	"Failed to connect to database"
+	{
+		"ru"		"Ошибка соединения с базой данных"
+		"en"		"Failed to connect to database"
+		"de"		"Failed to connect to database"
+		"es"		"Failed to connect to database"
+		"fr"		"Failed to connect to database"
+	}
+	
+	"Rank: %d Points: %d Map points: %d"
+	{
+		"ru"		"Ранг: %d Очки: %d Очки за карту: %d"
+		"en"		"Rank: %d Points: %d Map points: %d"
+		"de"		"Rang: %d Punkte: %d Punkte für die Karte: %d"
+		"es"		"Rank: %d Puntos: %d Puntos del mapa: %d"
+		"fr"		"Classement: %d Points: %d Points sur la Map: %d"
+	}
+	
+	"Your points: %d , Your map points: %d"
+	{
+		"ru"		"Ваши очки: %d , Ваши очки за карту: %d"
+		"en"		"Your points: %d , Your map points: %d"
+		"de"		"Ihre Punkte: %d , Ihre Punkte für die Karte: %d"
+		"es"		"Sus puntos: %d , Sus puntos del mapa: %d"
+		"fr"		"Vos points: %d , Vos points sur la Map: %d"
+	}
+	
+	"SetPoints"
+	{
+		"#format"	"{1:s},{2:d}"
+		"ru"		"Поинты игрока:{blue} {1}, увеличены на: {2}"
+		"en"		"Point for player:{blue} {1} set to: {2}"
+		"de"		"Point for player:{blue} {1} set to: {2}"
+		"es"		"Point for player:{blue} {1} set to: {2}"
+		"fr"		"Point for player:{blue} {1} set to: {2}"
+	}
+	
+	"[Bingobox] %N got"
+	{
+		"ru"		"[БингоБокс]{blue} %N получил"
+		"en"		"[Bingobox]{blue} %N got"
+		"de"		"[Bingobox]{blue} %N got"
+		"es"		"[Bingobox]{blue} %N got"
+		"fr"		"[Bingobox]{blue} %N got"
+	}
+	
+	"points"
+	{
+		"ru"		"очков"
+		"en"		"points"
+		"de"		"points"
+		"es"		"points"
+		"fr"		"points"
+	}
+	
+	"%N used his Medkit to revive %N !"
+	{
+		"ru"		"%N использовал аптечку для воскрешения %N !"
+		"en"		"%N used his Medkit to revive %N !"
+		"de"		"%N used his Medkit to revive %N !"
+		"es"		"%N used his Medkit to revive %N !"
+		"fr"		"%N used his Medkit to revive %N !"
+	}
+	
+	"Using First Aid Kit to Revive %N"
+	{
+		"ru"		"Использование аптечки для воскрешения %N"
+		"en"		"Using First Aid Kit to Revive %N"
+		"de"		"Using First Aid Kit to Revive %N"
+		"es"		"Using First Aid Kit to Revive %N"
+		"fr"		"Using First Aid Kit to Revive %N"
+	}
+	
+	"You are temporarily invulnerable!"
+	{
+		"ru"		"Вы бессмертны на некоторое время!"
+		"en"		"You are temporarily invulnerable!"
+		"de"		"You are temporarily invulnerable!"
+		"es"		"You are temporarily invulnerable!"
+		"fr"		"You are temporarily invulnerable!"
+	}
+	
+	"You are no longer invulnerable!"
+	{
+		"ru"		"Вы больше не бессмертны!"
+		"en"		"You are no longer invulnerable!"
+		"de"		"You are no longer invulnerable!"
+		"es"		"You are no longer invulnerable!"
+		"fr"		"You are no longer invulnerable!"
+	}
+	
+	"%N FAINT! Use Medkit to revive within %d secs!"
+	{
+		"ru"		"%N погиб! Используйте для его воскрешения аптеку до истечения %d секунд!"
+		"en"		"%N FAINT! Use Medkit to revive within %d secs!"
+		"de"		"%N FAINT! Use Medkit to revive within %d secs!"
+		"es"		"%N FAINT! Use Medkit to revive within %d secs!"
+		"fr"		"%N FAINT! Use Medkit to revive within %d secs!"
+	}
+	
+	"Get close to his Body (Blinking light) Select Medkit: press Crouch+Use for %d seconds"
+	{
+		"ru"		"Подойдите близко к его телу (мигающий маячок), возьмите аптечку: жмите клавишы Ctrl+E %d секунд"
+		"en"		"Get close to his Body (Blinking light) Select Medkit: press Crouch+Use for %d seconds"
+		"de"		"Get close to his Body (Blinking light) Select Medkit: press Crouch+Use for %d seconds"
+		"es"		"Get close to his Body (Blinking light) Select Medkit: press Crouch+Use for %d seconds"
+		"fr"		"Get close to his Body (Blinking light) Select Medkit: press Crouch+Use for %d seconds"
+	}
+	
+	"[DOORLOCK] Door will open in: %i seconds! Please wait."
+	{
+		"ru"		"[DOORLOCK] Дверь будет открыта через %i секунд! Пожалуйста, ждите."
+		"en"		"[DOORLOCK] Door will open in: %i seconds! Please wait."
+		"de"		"[DOORLOCK] Door will open in: %i seconds! Please wait."
+		"es"		"[DOORLOCK] Door will open in: %i seconds! Please wait."
+		"fr"		"[DOORLOCK] Door will open in: %i seconds! Please wait."
+	}
+	
+	"[DOORLOCK] Saferoom doors will open in %i seconds!"
+	{
+		"ru"		"[DOORLOCK] Дверь будет открыта через %i секунд!"
+		"en"		"[DOORLOCK] Saferoom doors will open in %i seconds!"
+		"de"		"[DOORLOCK] Saferoom doors will open in %i seconds!"
+		"es"		"[DOORLOCK] Saferoom doors will open in %i seconds!"
+		"fr"		"[DOORLOCK] Saferoom doors will open in %i seconds!"
+	}
+	
+	"[DOORLOCK] Saferoom doors are locked!"
+	{
+		"ru"		"[DOORLOCK] Дверь убежища закрыта!"
+		"en"		"[DOORLOCK] Saferoom doors are locked!"
+		"de"		"[DOORLOCK] Saferoom doors are locked!"
+		"es"		"[DOORLOCK] Saferoom doors are locked!"
+		"fr"		"[DOORLOCK] Saferoom doors are locked!"
+	}
+	
+	"[DOORLOCK] Saferoom doors are unlocked!"
+	{
+		"ru"		"[DOORLOCK] Дверь убежища открыта!"
+		"en"		"[DOORLOCK] Saferoom doors are unlocked!"
+		"de"		"[DOORLOCK] Saferoom doors are unlocked!"
+		"es"		"[DOORLOCK] Saferoom doors are unlocked!"
+		"fr"		"[DOORLOCK] Saferoom doors are unlocked!"
+	}
+	
+	"[DOORLOCK] Saferoom doors are open!"
+	{
+		"ru"		"[DOORLOCK] Дверь убежища открыта!"
+		"en"		"[DOORLOCK] Saferoom doors are open!"
+		"de"		"[DOORLOCK] Saferoom doors are open!"
+		"es"		"[DOORLOCK] Saferoom doors are open!"
+		"fr"		"[DOORLOCK] Saferoom doors are open!"
+	}
+	
+	"The saferoom doors are open!"
+	{
+		"ru"		"Дверь убежища открыта!"
+		"en"		"Saferoom doors are open!"
+		"de"		"Saferoom doors are open!"
+		"es"		"Saferoom doors are open!"
+		"fr"		"Saferoom doors are open!"
+	}
+	
+	"%i second(s) till the saferoom doors open!"
+	{
+		"ru"		"%i секунд(ы/а) до открытия двери убежища!"
+		"en"		"%i second(s) till the saferoom doors open!"
+		"de"		"%i second(s) till the saferoom doors open!"
+		"es"		"%i second(s) till the saferoom doors open!"
+		"fr"		"%i second(s) till the saferoom doors open!"
+	}
+	
+	"KICK_MESSAGE"
+	{
+		"ru"		"Пожалуйста, смените свой игровой ник"
+		"en"		"Please change your nickname"
+		"de"		"Please change your nickname"
+		"es"		"Please change your nickname"
+		"fr"		"Please change your nickname"
+	}
+	
+	"Hint You're suffering from a toxic Cloud!"
+	{
+		"ru"		"Вы находитесь в токсичном дыме!"
+		"en"		"You're suffering from a toxic Cloud!"
+		"de"		"You're suffering from a toxic Cloud!"
+		"es"		"You're suffering from a toxic Cloud!"
+		"fr"		"You're suffering from a toxic Cloud!"
+	}
+	
+	"Chat You're suffering from a toxic Cloud!"
+	{
+		"ru"		"Вы находитесь в токсичном дыме!"
+		"en"		"You're suffering from a toxic Cloud!"
+		"de"		"You're suffering from a toxic Cloud!"
+		"es"		"You're suffering from a toxic Cloud!"
+		"fr"		"You're suffering from a toxic Cloud!"
+	}
+	
+	"%N has more than 65 hp!"
+	{
+		"ru"		"Игрок %N не нуждается в лечении (больше 65 хп)!"
+		"en"		"%N has more than 65 hp!"
+		"de"		"%N has more than 65 hp!"
+		"es"		"%N has more than 65 hp!"
+		"fr"		"%N has more than 65 hp!"
+	}
+	
+	"Chat %N has more than 65 hp!"
+	{
+		"ru"		"Игрок %N не нуждается в лечении (больше 65 хп)!"
+		"en"		"%N has more than 65 hp!"
+		"de"		"%N has more than 65 hp!"
+		"es"		"%N has more than 65 hp!"
+		"fr"		"%N has more than 65 hp!"
+	}
+	
+	"Car Alarm Triggered by %N"
+	{
+		"ru"		"Сигнализация авто сработала благодаря игроку %N"
+		"en"		"Car Alarm Triggered by %N"
+		"de"		"Car Alarm Triggered by %N"
+		"es"		"Car Alarm Triggered by %N"
+		"fr"		"Car Alarm Triggered by %N"
+	}
+	
+	"[AFK] Player %N was moved to Spectator team."
+	{
+		"ru"		"[AFK] Игрок %N перемещён в наблюдатели."
+		"en"		"[AFK] Player %N was moved to Spectator team."
+		"de"		"[AFK] Player %N was moved to Spectator team."
+		"es"		"[AFK] Player %N was moved to Spectator team."
+		"fr"		"[AFK] Player %N was moved to Spectator team."
+	}
+	
+	"You will be moved to the Spectators in 15 seconds"
+	{
+		"ru"		"Вы перейдёте в наблюдатели через 15 секунд"
+		"en"		"You will be moved to the Spectators in 15 seconds"
+		"de"		"You will be moved to the Spectators in 15 seconds"
+		"es"		"You will be moved to the Spectators in 15 seconds"
+		"fr"		"You will be moved to the Spectators in 15 seconds"
+	}
+	
+	"You were stuck Connecting for too long"
+	{
+		"ru"		"Вы очень долго подключаетесь к серверу"
+		"en"		"You were stuck Connecting for too long"
+		"de"		"You were stuck Connecting for too long"
+		"es"		"You were stuck Connecting for too long"
+		"fr"		"You were stuck Connecting for too long"
+	}
+	
+	"Your playtime on this map: %d"
+	{
+		"ru"		"Ваше игровое время за текущую карту: %d минут(а/ы)"
+		"en"		"Your playtime on this map: %d minute(s)"
+		"de"		"Your playtime on this map: %d minute(s)"
+		"es"		"Your playtime on this map: %d minute(s)"
+		"fr"		"Your playtime on this map: %d minute(s)"
+	}
+	
+	"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s (panel)"
+	{
+		"ru"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | Аптайм: %s"
+		"en"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s"
+		"de"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s"
+		"es"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s"
+		"fr"		"L4D2°•Rus Coop-25°•(Hardmod v0.4.34) | UpTime: %s"
+	}
+	
+	"Difficulty: %s x %s | Players: %i (panel)"
+	{
+		"ru"		"Сложность: %s x %s | Игроков на сервере: %i"
+		"en"		"Difficulty: %s x %s | Players: %i"
+		"de"		"Komplexität: %s x %s | Die spieler: %i"
+		"es"		"Dificultad: %s x %s | Jugadores: %i"
+		"fr"		"Difficultée: %s x %s | Joueurs: %i"
+	}
+	
+	"Difficulty: %s x %s | Players: %i | Live Survivors: %i (panel)"
+	{
+		"ru"		"Сложность: %s x %s | Игроков на сервере: %i | %i"
+		"en"		"Difficulty: %s x %s | Players: %i | %i"
+		"de"		"Komplexität: %s x %s | Die spieler: %i | %i"
+		"es"		"Dificultad: %s x %s | Jugadores: %i | %i"
+		"fr"		"Difficultée: %s x %s | Joueurs: %i | %i"
+	}
+	
+	"Tank HP: %i | Witch HP: %i | Zombie HP: %i (panel)"
+	{
+		"ru"		"Танк ХП: %i | Ведьма ХП: %i | Зомби ХП: %i"
+		"en"		"Tank HP: %i | Witch HP: %i | Zombie HP: %i"
+		"de"		"Tank HP: %i | Witch HP: %i | Zombi HP: %i"
+		"es"		"Tank HP: %i | Witch HP: %i | Zombi HP: %i"
+		"fr"		"Tank HP: %i | Witch HP: %i | Zombi HP: %i"
+	}
+	
+	"Tank HP: (panel)"
+	{
+		"ru"		"Танк ХП: "
+		"en"		"Tank HP: "
+		"de"		"Tank HP: "
+		"es"		"Tank HP: "
+		"fr"		"Tank HP: "
+	}
+	
+	"| Witch HP: %i | Zombie HP: %i (panel)"
+	{
+		"ru"		"| Ведьма ХП: %i | Зомби ХП: %i"
+		"en"		"| Witch HP: %i | Zombie HP: %i"
+		"de"		"| Witch HP: %i | Zombi HP: %i"
+		"es"		"| Witch HP: %i | Zombi HP: %i"
+		"fr"		"| Witch HP: %i | Zombi HP: %i"
+	}
+
+	"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i (panel)"
+	{
+		"ru"		"Охотник ХП: %i | Курильщик ХП: %i | Толстяк ХП: %i"
+		"en"		"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i"
+		"de"		"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i"
+		"es"		"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i"
+		"fr"		"Hunter HP: %i | Smoker HP: %i | Boomer HP: %i"
+	}
+
+	"Charger HP: %i | Spitter HP: %i | Jockey HP: %i (panel)"
+	{
+		"ru"		"Громила ХП: %i | Плевальщица ХП: %i | Жокей ХП: %i"
+		"en"		"Charger HP: %i | Spitter HP: %i | Jockey HP: %i"
+		"de"		"Charger HP: %i | Spitter HP: %i | Jockey HP: %i"
+		"es"		"Charger HP: %i | Spitter HP: %i | Jockey HP: %i"
+		"fr"		"Charger HP: %i | Spitter HP: %i | Jockey HP: %i"
+	}
+	
+	"Grenade Launcher Damage: %d. Server time: %s (panel)"
+	{
+		"ru"		"Урон от гранатомёта: %d. Время сервера: %s"
+		"en"		"Grenade Launcher Damage: %d. Server time: %s"
+		"de"		"Der Granatwerfer der Verlust: %d. Server time: %s"
+		"es"		"Daño del Lanza Granadas: %d. Server time: %s"
+		"fr"		"Dommages du lanceur de grenade: %d. Server time: %s"
+	}
+	
+	"CurrentMap: %s (panel)"
+	{
+		"ru"		"Текущая карта: %s"
+		"en"		"CurrentMap: %s"
+		"de"		"CurrentMap: %s"
+		"es"		"CurrentMap: %s"
+		"fr"		"CurrentMap: %s"
+	}
+	
+	"CurrentMap: %s"
+	{
+		"ru"		"Текущая карта: %s"
+		"en"		"CurrentMap: %s"
+		"de"		"CurrentMap: %s"
+		"es"		"CurrentMap: %s"
+		"fr"		"CurrentMap: %s"
+	}
+	
+	"Player %N reached the safe room"
+	{
+		"ru"		"Игрок {blue}%N дошел до убежища!"
+		"en"		"Player {blue}%N reached the safe room!"
+		"de"		"Player {blue}%N reached the safe room!"
+		"es"		"Player {blue}%N reached the safe room!"
+		"fr"		"Player {blue}%N reached the safe room!"
+	}
+	
+	"Players reached the safe room"
+	{
+		"ru"		"Игроки дошли до убежища!"
+		"en"		"Players reached the safe room!"
+		"de"		"Players reached the safe room!"
+		"es"		"Players reached the safe room!"
+		"fr"		"Players reached the safe room!"
+	}
+	
+	"Player {blue}%N vomited you! [%i vomitTK]"
+	{
+		"ru"		"Игрок {blue}%N попал в Вас банкой блевоты! [%i vomitTK]"
+		"en"		"Player {blue}%N vomited you! [%i vomitTK]"
+		"de"		"Player {blue}%N vomited you! [%i vomitTK]"
+		"es"		"Player {blue}%N vomited you! [%i vomitTK]"
+		"fr"		"Player {blue}%N vomited you! [%i vomitTK]"
+	}
+	
+	"You vomited {blue}%N ! [%i vomitTK]"
+	{
+		"ru"		"Вы попали банкой блевоты в игрока {blue}%N ! [%i vomitTK]"
+		"en"		"You vomited {blue}%N ! [%i vomitTK]"
+		"de"		"You vomited {blue}%N ! [%i vomitTK]"
+		"es"		"You vomited {blue}%N ! [%i vomitTK]"
+		"fr"		"You vomited {blue}%N ! [%i vomitTK]"
+	}
+	
+	"%N has been slayed [%i vomitTK]"
+	{
+		"ru"		"{blue}%N был убит сервером [%i vomitTK]"
+		"en"		"{blue}%N has been slayed [%i vomitTK]"
+		"de"		"{blue}%N has been slayed [%i vomitTK]"
+		"es"		"{blue}%N has been slayed [%i vomitTK]"
+		"fr"		"{blue}%N has been slayed [%i vomitTK]"
+	}
+	
+	"Auto Voteslay {blue}%N [%i vomitTK]"
+	{
+		"ru"		"Автоголосование за убийство игрока {blue}%N [%i vomitTK]"
+		"en"		"Auto Voteslay player {blue}%N [%i vomitTK]"
+		"de"		"Auto Voteslay player {blue}%N [%i vomitTK]"
+		"es"		"Auto Voteslay player {blue}%N [%i vomitTK]"
+		"fr"		"Auto Voteslay player {blue}%N [%i vomitTK]"
+	}
+	
+	"You can't join spectator team with a good weapon and a live tank"
+	{
+		"ru"		"Вы не можете уйти в зрители при живом танке!"
+		"en"		"You can't join spectator team with a live tank!"
+		"de"		"You can't join spectator team with a live tank!"
+		"es"		"You can't join spectator team with a live tank!"
+		"fr"		"You can't join spectator team with a live tank!"
+	}
+	
+	"It took %s to finish this map!"
+	{
+		"ru"		"Игрокам потребовалось %s чтобы пройти карту!"
+		"en"		"It took %s to finish this map!"
+		"de"		"It took %s to finish this map!"
+		"es"		"It took %s to finish this map!"
+		"fr"		"It took %s to finish this map!"
+	}
+	
+	"%ih %im %.1fs"
+	{
+		"ru"		"%iч %iм %.1fс"
+		"en"		"%ih %im %.1fs"
+		"de"		"%ih %im %.1fs"
+		"es"		"%ih %im %.1fs"
+		"fr"		"%ih %im %.1fs"
+	}
+	
+	"%i min %.1f sec"
+	{
+		"ru"		"%i мин %.1f сек"
+		"en"		"%i min %.1f sec"
+		"de"		"%i min %.1f sec"
+		"es"		"%i min %.1f sec"
+		"fr"		"%i min %.1f sec"
+	}
+	
+	"%.1f seconds"
+	{
+		"ru"		"%.1f секунд"
+		"en"		"%.1f seconds"
+		"de"		"%.1f seconds"
+		"es"		"%.1f seconds"
+		"fr"		"%.1f seconds"
+	}
+
+	"Player %N reached the safe room!"
+	{
+		"en"			"{default}Player {blue}%N {default}Reached {olive}The Safe Room!"
+		"es"			"{olive}[{green}RUSH{olive}] {blue}El jugador {green}[ {olive}%N {green}] {blue}fue el primero en llegar a la {olive}Abitacion segura"
+	}
+
+	"Players reached the safe room!"
+	{
+		"en"			"Players reached the Safe Room!"
+		"es"			""
+	}
+}
+
+//  = 0x01 (SOH) - Use normal color from this point forward
+//  = 0x02 (STX) - Use team color up to the end of the player name
+//  = 0x03 (ETX) - Use team color from this point forward
+//  = 0x04 (EOT) - Use location color from this point forward 
+//  = 0x05 (ENQ) - Use achievement color from this point forward

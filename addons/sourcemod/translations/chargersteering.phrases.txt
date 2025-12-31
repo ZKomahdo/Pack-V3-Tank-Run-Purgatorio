@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"ChargerSteering_Mouse"
+	{
+		"en"			"Utilice el ratón para cambiar de dirección mientras carga."
+	}
+	"ChargerSteering_Strafe"
+	{
+		"en"			"Usa MOVER IZQUIERDA/DERECHA (teclas A/D) para ametrallar mientras cargas."
+	}
+	"ChargerSteering_Both"
+	{
+		"en"			"Utilice el mouse o (teclas A/D) para cambiar de dirección mientras carga."
+	}
+}

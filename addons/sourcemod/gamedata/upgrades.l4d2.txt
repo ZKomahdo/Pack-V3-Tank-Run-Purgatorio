@@ -1,0 +1,16 @@
+"Games"
+{
+	"left4dead2"
+	{
+		
+		"Signatures"
+		{
+			"AddUpgrade"
+			{
+				"library"	"server"
+				"linux"	"@_ZN13CTerrorPlayer10AddUpgradeE19SurvivorUpgradeType"
+				"windows" "\xA1****\x83***\x57\x8B\xF9\x0F*****\x8B***\x56\x51\xE8****\x8B\xF0\x83\xC4\x04"
+			}
+		}
+	}
+}

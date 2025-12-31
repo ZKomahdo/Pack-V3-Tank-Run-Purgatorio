@@ -1,0 +1,301 @@
+﻿//		********************************************************************************
+//
+//      |======================|
+//      |== MULTICOLORS.INI ===|
+//      |======================|
+//
+//	Puedes cambiar el color de las frases para el chat con cualquiera de los
+//	siguientes métodos:
+//
+//	Usando colores con códigos:
+//		•  // Blanco      (usar en lugar de \x01), Alt + 01 Keyboard Shortcut
+//		•   // Verde Claro (usar en lugar de \x03), Alt + 03 Keyboard Shortcut
+//		•   // Naranja     (usar en lugar de \x04), Alt + 04 Keyboard Shortcut
+//		•   // Verde       (usar en lugar de \x05), Alt + 05 Keyboard Shortcut
+//
+//	o
+//
+//	Usando colores con etiquetas:
+//		• {default}    // Blanco      (usar en lugar de \x01)
+//		• {lightgreen} // Verde Claro (usar en lugar de \x03)
+//		• {orange}     // Naranja     (usar en lugar de \x04)
+//		• {olive}      // Verde       (usar en lugar de \x05)
+//
+//		********************************************************************************
+"Phrases"
+{
+	"WH_Prefix"
+	{
+		"en"		"[Weapon]"
+		"es"		"[Armas]"
+	}
+	"Weapon Helping Undead"
+	{
+		"en"		"You must be alive to use this Command!"
+		"es"		"Debes estar vivo para usar este Comando!"
+	}
+	"Weapon Helping Only Survivors"
+	{
+		"en"		"Only Survivors Are Allowed To Get A Weapon!"
+		"es"		"Solo los Supervivintes pueden obtener Armas!"
+	}
+	"Weapon Helping Can't Recived"
+	{
+		"en"		"You Can't Recieve Weapons Any More.!"
+		"es"		"Ya NO Puedes Recivir Más Armas!"
+	}
+	"Weapon Helping"
+	{
+		"en"		"You Have Recieved a/an"
+		"es"		"Acabas de Recibir un/una"
+	}
+	"End_Chat"
+	{
+		"es"		"!"
+		"en"		"!"
+	}
+	"Weapons_Helping_Menu"
+	{
+		"#format"	"{1:d}"
+		"en"		"☛ WEAPONS :\n \n| N° of Attemps: {1} |\n "
+		"es"		"☛ ARMAS : \n \n======================== \n|    {1} Intentos    |\n========================"
+	}
+	"AWP"
+	{
+		"en"		"AWP"
+		"es"		"AWP"		
+	}
+	"SHOTGUN"
+	{
+		"en"		"Shotgun"
+		"es"		"Escopeta"
+	}
+	"AUTOMATIC_SHOTGUN"
+	{
+		"en"		"Auto Shotgun"
+		"es"		"Escopeta Auto"
+	}
+	"CRHOM_SHOTGUN"
+	{
+		"en"		"Crhom Shotgun"
+		"es"		"Escopeta Crom"
+	}
+	"SPAS_SHOTGUN"
+	{
+		"en"		"Spas Shotgun"
+		"es"		"Escopeta Espas"
+	}
+	"SMG"
+	{
+		"en"		"SMG"
+		"es"		"SMG"
+	}
+	"SILENCED_SMG"
+	{
+		"en"		"SMG Silenced"
+		"es"		"SMG Silenciada"
+	}
+	"RIFLE"
+	{
+		"en"		"Rifle"
+		"es"		"Rifle"
+	}
+	"AK_47"
+	{
+		"en"		"Rifle AK-47"
+		"es"		"Rifle AK-47"
+	}
+	"RIFLE_552"
+	{
+		"en"		"Rifle 552"
+		"es"		"Rifle 552"
+	}
+	"HUNTING"
+	{
+		"en"		"Hunting Rifle"
+		"es"		"Rifle de Caza"
+	}
+	"MILITARY"
+	{
+		"en"		"Sniper Military"
+		"es"		"Franco. Militar"
+	}
+	"MP5"
+	{
+		"en"		"MP5"
+		"es"		"MP5"
+	}
+	"SCOUT"
+	{
+		"en"		"SCOUT"
+		"es"		"SCOUT"
+	}
+	"SCAR"
+	{
+		"en"		"SCAR"
+		"es"		"SCAR"
+	}
+	"GRENADE_LAUNCHER"
+	{
+		"en"		"GrenadeLauncher"
+		"es"		"Lanzagranadas"
+	}
+	"M60"
+	{
+		"en"		"M60"
+		"es"		"M60"
+	}
+	"Melees_Helping_Menu"
+	{
+		"#format"	"{1:d}"
+		"en"		"➥ MELEES :\n \n| N° of Attemps: {1} |\n "
+		"es"		"☛ MELEES :\n \n======================== \n|    {1} Intentos    |\n========================"
+	}
+	"GUITAR"
+	{
+		"en"		"Guitar"
+		"es"		"Guitarra"
+	}
+	"AXE"
+	{
+		"en"		"Fire Axe"
+		"es"		"Hacha"
+	}
+	"CROWBAR"
+	{
+		"en"		"Crowbar"
+		"es"		"Palanca"
+	}
+	"PAN"
+	{
+		"en"		"Fire Pan"
+		"es"		"Sartén"
+	}
+	"CBAT"
+	{
+		"en"		"Cricket Bat"
+		"es"		"Bate de Cricket"
+	}
+	"BBAT"
+	{
+		"en"		"Baseball Ball"
+		"es"		"Bate de Beisboll"
+	}
+	"KATANA"
+	{
+		"en"		"Katana"
+		"es"		"Katana"
+	}
+	"GOLF"
+	{
+		"en"		"Golf Club"
+		"es"		"Palo de Golf"
+	}
+	"MACHETE"
+	{
+		"en"		"Machete"
+		"es"		"Machete"
+	}
+	"TONFA"
+	{
+		"en"		"Tonfa"
+		"es"		"Tonfa"
+	}
+	"CHAINSAW"
+	{
+		"en"		"Chainsaw"
+		"es"		"Motosierra"
+	}
+	"KNIFE"
+	{
+		"en"		"Knife"
+		"es"		"Cuchillo"
+	}
+	"SHOVEL"
+	{
+		"en"		"Shovel"
+		"es"		"Pala"
+	}
+	"PITCH"
+	{
+		"en"		"Pitchfork"
+		"es"		"Horca"
+	}
+	"Items_Helping_Menu"
+	{
+		"#format"	"{1:d}"
+		"en"		"➥ ITEMS :\n \n| N° of Attemps: {1} |\n "
+		"es"		"☛ ARTÍCULOS :\n \n======================== \n|    {1} Intentos    |\n========================"
+	}
+	"AIDKIT"
+	{
+		"en"		"First Aid Kit"
+		"es"		"Botiquín"
+	}
+	"DESFIBRILATOR"
+	{
+		"en"		"Desfibrilator"
+		"es"		"Desfibrilador"
+	}
+	"PILLS"
+	{
+		"en"		"Pills"
+		"es"		"Píldora"
+	}
+	"ADRENALINE"
+	{
+		"en"		"Adrenaline"
+		"es"		"Adrenalina"
+	}
+	"MOLOTOV"
+	{
+		"en"		"Molotov"
+		"es"		"Molotov"
+	}
+	"PIPEBOMB"
+	{
+		"en"		"Pipe bomb"
+		"es"		"Bomba Casera"
+	}
+	"VOMITJAR"
+	{
+		"en"		"Vomitjar"
+		"es"		"Vomitona"
+	}
+	"Upgrades_Helping_Menu"
+	{
+		"#format"	"{1:d}"
+		"en"		"➥ UPGRADES :\n \n| N° of Attemps: {1} |\n "
+		"es"		"☛ MEJORAS :\n \n======================== \n|    {1} Intentos    |\n========================"
+	}
+	"LASER"
+	{
+		"en"		"Laser"
+		"es"		"Mira Laser"
+	}
+	"AMMO"
+	{
+		"en"		"Munition"
+		"es"		"Munición"
+	}
+	"INCENDIARY"
+	{
+		"en"		"Incendiary Ammo"
+		"es"		"Munición Incendiaria"
+	}
+	"EXPLOSIVE"
+	{
+		"en"		"Explisve Ammo"
+		"es"		"Munición Explosiva"
+	}
+	"UINCENDIARY"
+	{
+		"en"		"Incendiary Ammo Pack"
+		"es"		"Pack de Munición Incendiaria"
+	}
+	"UEXPLOSIVE"
+	{
+		"en"		"Explisve Ammo Pack"
+		"es"		"Pack de Munición Explosiva"
+	}
+}

@@ -1,0 +1,521 @@
+"Phrases"
+{
+	"WelcomeMessageHint"
+	{
+		"en"	"• ● Komahdo ϟ Perkmod ● •"
+	}
+
+	"WelcomeMessageChat"
+	{
+		"en"	"¡Bienvenido a Perkmod! Si no aparece el menú, escribe !perks para verlo."
+	}
+
+	"BonusDamageText"
+	{
+		"en"	"daño adicional"
+	}
+
+	"SpritSuccessMessage"
+	{
+		"en"	"¡Te has revivido a ti mismo!"
+	}
+
+	"SpiritTimerFinishedMessage"
+	{
+		"en"	"¡Te sientes lo suficientemente fuerte como para revivir de nuevo!"
+	}
+
+	"UnbreakableHint"
+	{
+		"en"	"salud extra"
+	}
+
+	"GrenadierCarryHint"
+	{
+		"en"	"Tú llevas"
+	}
+
+	"GrenadierCantTake2Grenades_A"
+	{
+		"en"	"Sólo recogiste uno"
+	}
+
+	"GrenadierCantTake2Grenades_B"
+	{
+		"en"	"Lanza tu segunda granada antes de recoger otra."
+	}
+
+	"GrenadierCounter_A"
+	{
+		"en"	"Tienes"
+	}
+
+	"GrenadierCounter_B"
+	{
+		"en"	"izquierda"
+	}
+
+	"HelpingHandDonorHint"
+	{
+		"en"	"dio salud temporal adicional a"
+	}
+
+	"HelpingHandReceiverHint"
+	{
+		"en"	"¡Te dio salud temporal adicional!"
+	}
+
+	"BarfBaggedMobHint"
+	{
+		"en"	"¡Se ha convocado a una turba más grande!"
+	}
+
+	"JuggernautHint"
+	{
+		"en"	"¡Tu salud ha mejorado!"
+	}
+
+	"MetabolicHint"
+	{
+		"en"	"¡Tu velocidad ha aumentado!"
+	}
+
+	"StormCallerHint"
+	{
+		"en"	"¡Se ha convocado una ola de zombies!"
+	}
+
+	"MapPerksPanel"
+	{
+		"en"	"Tus ventajas para esta ronda"
+	}
+
+	"PyroDescriptionPanel"
+	{
+		"en"	"llevar 2 granadas en lugar de 1"
+	}
+
+	"SpiritDescriptionPanel"
+	{
+		"en"	"Auto-revivir al incapacitar a un compañero de equipo, tiempo de reutilización"
+	}
+
+	"DoubleTapDescriptionPanel"
+	{
+		"en"	"dispara más rápido"
+	}
+
+	"SleighOfHandDescriptionPanel"
+	{
+		"en"	"recargar más rápido"
+	}
+
+	"NotSet"
+	{
+		"en"	"No establecido"
+	}
+
+	"ChemReliantDescriptionPanel"
+	{
+		"en"	"Salud temporal adicional con pastillas"
+	}
+
+	"HelpingHandDescriptionPanel"
+	{
+		"en"	"dar un colchón de salud adicional"
+	}
+
+	"PackRatDescriptionPanel"
+	{
+		"en"	"llevar más munición en el GL"
+	}
+
+	"HardToKillDescriptionPanel"
+	{
+		"en"	"más salud cuando está incapacitado"
+	}
+
+	"BarfBaggedDescriptionPanel"
+	{
+		"en"	"El vómito atrae a más zombis"
+	}
+
+	"DeadWreckeningDescriptionPanel"
+	{
+		"en"	"Los vómitos llamados zombis hacen más daño."
+	}
+
+	"MotionSicknessDescriptionPanel"
+	{
+		"en"	"corre más rápido, corre mientras vomitas"
+	}
+
+	"BodySlamDescriptionPanel"
+	{
+		"en"	"daño mínimo por rebote"
+	}
+
+	"EfficientKillerDescriptionPanel"
+	{
+		"en"	"daño triturado adicional"
+	}
+
+	"GrasshopperDescriptionPanel"
+	{
+		"en"	"saltar más lejos"
+	}
+
+	"OldSchoolDescriptionPanel"
+	{
+		"en"	"daño de garra adicional"
+	}
+
+	"StormCallerDescriptionPanel"
+	{
+		"en"	"Ola de zombis en el punto de aparición"
+	}
+
+	"InitialMenuPanel1"
+	{
+		"en"	"➥ Clasificacion De Perks"
+	}
+
+	"InitialMenuPanel2"
+	{
+		"en"	"Apreta [1] Para Config Perks"
+	}
+
+	"InitialMenuPanel3"
+	{
+		"en"	"➤ Personalizar ventajas"
+	}
+
+	"InitialMenuPanel4"
+	{
+		"en"	"Apreta [2] Para aleatorio Perks"
+	}
+
+	"InitialMenuPanel5"
+	{
+		"en"	"No puedes cambiarlos después"
+	}
+
+	"InitialMenuPanel6"
+	{
+		"en"	"➤ Beneficios aleatorios"
+	}
+
+	"InitialMenuPanel7"
+	{
+		"en"	"De lo contrario Usa lo que quieras"
+	}
+
+	"InitialMenuPanel8"
+	{
+		"en"	"Si ya tienes todo listo"
+	}
+
+	"InitialMenuPanel9"
+	{
+		"en"	"Apreta [3] Para Empezar "
+	}
+
+	"InitialMenuPanel10"
+	{
+		"en"	"¡JUEGA AHORA!"
+	}
+
+	"ThanksForChoosingMessage"
+	{
+		"en"	"• ● Gracias & Diviértete ● •"
+	}
+
+	"ChooseSubMenuPanel"
+	{
+		"en"	"Seleccione un submenú para elegir un beneficio"
+	}
+
+	"DoneNagPanel1"
+	{
+		"en"	"Para que tus beneficios funcionen"
+	}
+
+	"DoneNagPanel2"
+	{
+		"en"	"Debes hacer clic en 'Hecho'"
+	}
+
+	"DoneNagPanel3"
+	{
+		"en"	"Hecho"
+	}
+
+	"ConfirmNagPanel1"
+	{
+		"en"	"➤ Estas seguro mi King ?"
+	}
+
+	"ConfirmNagPanel2"
+	{
+		"en"	"Una vez confirmado no podrás cambiar"
+	}
+
+	"ConfirmNagPanel3"
+	{
+		"en"	"¡Tus beneficios hasta la próxima ronda!"
+	}
+
+	"ConfirmNagPanel4"
+	{
+		"en"	"CONFIRMAR"
+	}
+
+	"ConfirmNagPanel5"
+	{
+		"en"	"Si cancelas recuerda que tu"
+	}
+
+	"ConfirmNagPanel6"
+	{
+		"en"	"Los beneficios no tendrán efecto hasta"
+	}
+
+	"ConfirmNagPanel7"
+	{
+		"en"	"¡Has pulsado confirmar!"
+	}
+
+	"ConfirmNagPanel8"
+	{
+		"en"	"CANCELAR"
+	}
+
+	"ConfirmedMessage"
+	{
+		"en"	"Has confirmado tus opciones de ventajas.\nPara consultar tus ventajas, escribe !perks."
+	}
+
+	"YourPerksPanel"
+	{
+		"en"	"Perkmod: Tus ventajas para esta ronda"
+	}
+
+	"DoubleTapDescriptionText"
+	{
+		"en"	"Velocidad de disparo más rápida"
+	}
+
+	"DisplayDisabledText"
+	{
+		"en"	"desactivado"
+	}
+
+	"PyroDescriptionText1"
+	{
+		"en"	"Recoger una granada te da dos"
+	}
+
+	"PyroDescriptionText2"
+	{
+		"en"	"Empiezas la ronda con 2 granadas"
+	}
+
+	"SpiritDescriptionText"
+	{
+		"en"	"Cuando un compañero de equipo caiga, revivirás"
+	}
+
+	"SpritDescriptionText2"
+	{
+		"en"	"colchón de salud adicional, tiempo de reutilización"
+	}
+
+	"ChemReliantDescriptionText"
+	{
+		"en"	"salud adicional al tomar pastillas."
+	}
+
+	"ChemReliantDescriptionText2"
+	{
+		"en"	"Empiezas la ronda con pastillas extra"
+	}
+
+	"HardToKillDescriptionText"
+	{
+		"en"	"Cuando estás incapacitado tienes"
+	}
+
+	"HardToKillDescriptionText2"
+	{
+		"en"	"más colchón de salud"
+	}
+
+	"SqueezerDescriptionText"
+	{
+		"en"	"Tu lengua causa daño adicional mientras te ahogas."
+	}
+
+	"MartialArtistDescriptionPanelCoop"
+	{
+		"en"	"corre más rápido"
+	}
+
+
+	"AdrenalGlandsHint"
+	{
+		"en"	"¡Puedes atacar más rápido!"
+	}
+
+	"DoubleTroubleHint1"
+	{
+		"en"	"¡Tu salud se ha reducido y ha aparecido otro tanque!"
+	}
+
+	"DoubleTroubleHint2"
+	{
+		"en"	"¡Tienes menos salud y ninguna de tus ventajas de tanque funcionará!"
+	}
+
+	"MartialArtistDescriptionPanel"
+	{
+		"en"	"Doble swing, la mitad de la fatiga del empujón"
+	}
+
+	"MartialArtistDescriptionPanel1"
+	{
+		"en"	"Puedes golpear dos veces en rápida sucesión con un arma cuerpo a cuerpo."
+	}
+
+	"MartialArtistDescriptionPanel2"
+	{
+		"en"	"y tienes una penalización máxima por empujón reducida"
+	}
+
+	"HelpingHandDescriptionPanel2"
+	{
+		"en"	"Revive a otros más rápido, otorga un búfer de salud adicional"
+	}
+
+	"AcidVomitDescriptionPanel"
+	{
+		"en"	"Los sobrevivientes pierden hud por vómito, enfriamiento más corto"
+	}
+
+	"TongueTwisterDescriptionPanel"
+	{
+		"en"	"lengua más rápida y más larga"
+	}
+
+	"TongueTwisterDescriptionPanel1"
+	{
+		"en"	"la lengua dispara más rápido"
+	}
+
+	"TongueTwisterDescriptionPanel2"
+	{
+		"en"	"el rango de la lengua se amplía"
+	}
+
+	"TongueTwisterDescriptionPanel3"
+	{
+		"en"	"la lengua tira más rápido"
+	}
+
+	"DragAndDropDescriptionPanel"
+	{
+		"en"	"Tiempo de recuperación mucho más corto y liberación manual con el botón MELEE"
+	}
+
+	"SpeedDemonDescriptionPanel"
+	{
+		"en"	"velocidad adicional"
+	}
+
+	"AdrenalGlandsDescriptionPanelShort"
+	{
+		"en"	"atacar más rápido"
+	}
+
+	"AdrenalGlandsDescriptionPanel1"
+	{
+		"en"	"golpear más rápido"
+	}
+
+	"AdrenalGlandsDescriptionPanel2"
+	{
+		"en"	"lanzar piedras más rápido"
+	}
+
+	"AdrenalGlandsDescriptionPanel3"
+	{
+		"en"	"no puede frustrarse"
+	}
+
+	"DoubleTroubleDescriptionPanel"
+	{
+		"en"	"segundo tanque en el desove"
+	}
+
+	"DoubleTroubleDescriptionPanel2"
+	{
+		"en"	"reducción de la salud para ambos"
+	}
+
+	"RideLikeTheWindDescriptionPanel"
+	{
+		"en"	"Conduce más rápido"
+	}
+
+	"FroggerDescriptionPanel"
+	{
+		"en"	"distancia de salto y"
+	}
+
+	"GhostRiderDescriptionPanel"
+	{
+		"en"	"invisibilidad"
+	}
+
+	"TwinSpitfireDescriptionPanel"
+	{
+		"en"	"escupir dos veces seguidas"
+	}
+
+	"ScatteringRamDescriptionPanel"
+	{
+		"en"	"Salud adicional y aleja a los supervivientes."
+	}
+
+	"SpeedingBulletDescriptionPanel"
+	{
+		"en"	"Carga más rápido"
+	}
+	"LittleLeaguerDescriptionPanel"
+	{
+		"en"	"desovar con un bate de béisbol"
+	}
+	"MegaAdhesiveDescriptionPanel"
+	{
+		"en"	"Retarda a los sobrevivientes"
+	}
+	"SmokeItDescriptionPanel"
+	{
+		"en"	"Puede caminar mientras tira de los sobrevivientes"
+	}
+
+
+
+	"DoubleTapRestrictionWarning"
+	{
+		"en"	"SOLO SEMI AUTOMÁTICO"
+	}
+	
+	"MartialArtistDescriptionPanel_noreduc"
+	{
+		"en"	"triple swing"
+	}
+	"SpiritBWWarning"
+	{
+		"en"	"Advertencia: ¡¡¡Ahora tu salud está en BLANCO Y NEGRO!!!"
+	}
+}

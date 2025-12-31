@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"VoteMode_Force"
+	{
+		"en"	"Modo de juego de fuerza:"
+	}
+	"VoteMode_Vote"
+	{
+		"en"	"✦ Votación De Modo De Juego ✦"
+	}
+	"VoteMode_Pass"
+	{
+		"en"	"Un administrador ha aprobado la votación actual."
+	}
+	"VoteMode_Veto"
+	{
+		"en"	"Un administrador ha finalizado la votación actual."
+	}
+	"VoteMode_InProgress"
+	{
+		"en"	"No se puede iniciar la votación, ya está en curso!"
+	}
+	"VoteMode_Started"
+	{
+		"en"	"Se inició una votación para cambiar el modo de juego a:"
+	}
+	"VoteMode_Change"
+	{
+		"en"	"Cambiar el modo de juego a:"
+	}
+	"VoteMode_Voted"
+	{
+		"en"	"Se votó por cambiar el modo de juego."
+	}
+	"VoteMode_Changing"
+	{
+		"en"	"Cambiando a"
+	}
+	"VoteMode_Restarting"
+	{
+		"en"	"El mapa se reiniciará en 3 segundos..."
+	}
+}

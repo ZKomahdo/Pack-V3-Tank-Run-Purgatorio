@@ -1,0 +1,54 @@
+/*
+	******************************************************************************************************************************************************
+
+	You can display phrases in chat with color using any of the methods below:
+
+	Using color codes:
+		•  // Default (use instead of \x01), Alt + 01 Keyboard Shortcut
+		•  // Light Green (use instead of \x03), Alt + 03 Keyboard Shortcut
+		•  // Orange (use instead of \x04), Alt + 04 Keyboard Shortcut
+		•  // Olive (use instead of \x05), Alt + 05 Keyboard Shortcut
+
+	or
+
+	Using color tags:
+		• {default} // Default (use instead of \x01)
+		• {lightgreen} // Light Green (use instead of \x03)
+		• {orange} // Orange (use instead of \x04)
+		• {olive} // Green (use instead of \x05)
+
+	******************************************************************************************************************************************************
+*/
+
+"Phrases"
+{
+	"Spit"
+	{
+		"#format"	"{1:i}"
+		"en"		"{olive}You {lightgreen}spat{olive} and will {orange}die{olive} in {orange}{1}{olive} second(s)"
+		"es"		"{olive}|> {orange}morirás{default} en {orange}{1}{default} segundo(s)"
+		"hu"		"{olive}Köpsz {lightgreen}aztán{olive} meghalsz {orange}{1}{olive} másodpercen {orange}belül{olive}"
+		"pt"		"{olive}Você {lightgreen}cuspiu{olive} e {orange}morrerá{olive} em {orange}{1}{olive} segundo(s)"
+		"pt_p"		"{olive}Você {lightgreen}cuspiu{olive} e {orange}morrerá{olive} em {orange}{1}{olive} segundo(s)"
+		"ro"		"{olive}Ai {lightgreen}scuipat{olive} si vei {orange}muri{olive} in {orange}{1}{olive} secunde"
+	}
+	"Spit Countdown"
+	{
+		"#format"	"{1:i}"
+		"en"		"{olive}You {lightgreen}spat{olive} and will {orange}die{olive} in {orange}{1}{olive} second(s)"
+		"es"		"{olive}|> {orange}morirás{default} en {orange}{1}{default} segundo(s)"
+		"hu"		"{olive}Köpsz {lightgreen}aztán{olive} meghalsz {orange}{1}{olive} másodpercen {orange}belül{olive}"
+		"pt"		"{olive}Você {lightgreen}cuspiu{olive} e {orange}morrerá{olive} em {orange}{1}{olive} segundo(s)"
+		"pt_p"		"{olive}Você {lightgreen}cuspiu{olive} e {orange}morrerá{olive} em {orange}{1}{olive} segundo(s)"
+		"ro"		"{olive}Ai {lightgreen}scuipat{olive} si vei {orange}muri{olive} in {orange}{1}{olive} secunde"
+	}
+	"Dead By Spit"
+	{
+		"en"		"{olive}You were {orange}killed{olive} by the side effect of the {lightgreen}spit{olive}"
+		"es"		"{orange}[{lightgreen}ROOT{orange}] {default}Usted murió por protección de {orange}campeo"
+		"hu"		"{olive}Meghaltál {orange}a{olive} köpés mellékhatása {lightgreen}miatt{olive}"
+		"pt"		"{olive}Você foi {orange}morto{olive} pelo efeito colateral do {lightgreen}cuspe{olive}"
+		"pt_p"		"{olive}Você foi {orange}morto{olive} pelo efeito colateral do {lightgreen}cuspe{olive}"
+		"ro"		"{olive}Ai fost {orange}ucis{olive} din cauza ca ai {lightgreen}scuipat{olive}"
+	}
+}

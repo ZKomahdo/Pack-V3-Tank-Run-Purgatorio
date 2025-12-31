@@ -1,0 +1,915 @@
+//Category Vehicles Vehiculos
+models/props_vehicles/airport_baggage_cart2.mdl TAG- Casillero de equipaje del aeropuerto
+models/props_vehicles/airport_baggage_tractor.mdl TAG- Carro de equipaje del aeropuerto
+models/props_vehicles/airport_catering_truck.mdl TAG- Camión de catering para aeropuerto
+models/props_vehicles/airport_fuel_truck.mdl TAG- Camión de combustible del aeropuerto
+models/props_vehicles/car002b_physics.mdl TAG- Auto destruido(Movible)
+models/props_trailers/trailer_small01.mdl TAG- Trailer
+models/props_vehicles/trailer002a.mdl TAG- Trailer movible
+models/props_vehicles/van001a_physics.mdl TAG- Van Destruido(Movible)
+models/props_vehicles/ambulance.mdl TAG- Ambulancia
+models/props_vehicles/army_truck.mdl TAG- Camión militar
+models/props_vehicles/tire001c_car.mdl TAG- Llanta
+models/props_vehicles/boat_fishing.mdl TAG- barco de pesca
+models/props_vehicles/boat_fishing02_static.mdl TAG- bote de rescate
+models/props_vehicles/boat_rescue_tug_sunshine.mdl TAG-barco de virgil (penetración)
+models/props_vehicles/boat_rescue_tug.mdl TAG-barco de virgil-con luz (penetración)
+models/props_vehicles/sailboat.mdl TAG- Velero- c7
+models/props_vehicles/boat_ski.mdl TAG- esquí acuático
+models/props_urban/boat002.mdl TAG- barco
+models/lostcoast/props_wasteland\boat_drydock01a.mdl TAG- Barco viejo Last Stand
+models/lostcoast/props_wasteland\boat_fishing01a.mdl TAG- Barco de Pesca
+models/lostcoast/props_wasteland/boat_wooden01a_static.mdl TAG- Barco maderero a
+models/lostcoast/props_wasteland/boat_wooden03a_static.mdl TAG- Barco maderero b
+models/props_vehicles/boat_trailer20ft.mdl TAG- solo barco esqueleto
+models/props_vehicles/bus01.mdl TAG- Bus 1
+models/props_vehicles/bus01_2.mdl TAG- bus 01_2
+models/rollercoaster/coaster_car.mdl TAG- Auto de Montaña rusa
+models/props_waterfront/tour_bus.mdl TAG- Star Bus- c6
+models/props_vehicles/cara_69sedan.mdl TAG- Coche 69
+models/props_vehicles/cara_82hatchback.mdl TAG- Hatchback 82
+models/props_vehicles/cara_82hatchback_wrecked.mdl TAG- Hatchback destrozado 82
+models/props_vehicles/cara_84sedan.mdl TAG- Coche 84
+models/props_vehicles/cara_95 sedan.mdl TAG- Coche 95
+models/props_vehicles/cara_95sedan_wrecked.mdl TAG- Coche siniestrado 95
+models/props_vehicles/zapastl.mdl TAG- Automotive- zapastl
+models/props_vehicles/utility_truck.mdl TAG- misceláneas vehículo-sin ventanas
+models/props_vehicles/taxi_cab.mdl TAG- Taxi-sin ventanas
+models/props_vehicles/ceda_trailer_closed.mdl TAG- Remolque grande CEDA
+models/props_vehicles/cement_truck01.mdl TAG- Camión de cemento
+models/props_vehicles/church_bus01.mdl TAG- autobús de la iglesia
+models/props_vehicles/deliveryvan.mdl TAG- furgoneta de reparto-sin ventanas
+models/props_vehicles/deliveryvan_armored.mdl TAG- vehículo blindado modificado- c9m2
+models/props_vehicles/flatnose_truck.mdl TAG- camión de cabeza plana
+models/props_vehicles/flatnose_truck_wrecked.mdl TAG- Camión de cabeza plana siniestrado
+models/props_vehicles/floodlight_generator_nolight.mdl TAG- generador-sin luz
+models/props_vehicles/floodlight_generator_pose01_static.mdl TAG- generador- con luz
+models/props_vehicles/generatortrailer01.mdl TAG- remolque generador
+models/props_vehicles/c130.mdl avión TAG-c130 (penetración)
+models/lighthouse/b_airplane01.mdl TAG-Aircraft (penetración)
+models/props_vehicles/chopper_generic.mdl TAG- helicóptero estándar
+models/props_vehicles/helicopter_news_downed.mdl TAG- helicóptero estrellado
+models/props_vehicles/helicopter_rescue.mdl TAG-rescate helicóptero-c5m5 (penetración)
+models/props_vehicles/helicopter_rescue_smashed.mdl TAG-rescate helicóptero se estrelló-c5 (penetración)
+models/props_vehicles/hmmwv.mdl TAG-180 vehículos militares 
+models/props_vehicles/hmmwv_supply.mdl TAG-180-Vehículo militar(abre la puerta)
+models/props_vehicles/humvee.mdl TAG- Hummer militar-sin ventanas
+models/props_vehicles/humvee_lighton.mdl TAG- Hummer militar-Sin ventanas-Enciende las luces
+models/props_vehicles/longnose_truck.mdl TAG- cabeza de camión-blanco-sin ventanas
+models/props_vehicles/semi_truck3.mdl TAG- cabeza de camión-rojo-sin ventanas
+models/props_vehicles/m119howitzer_01.mdl TAG- Cañón
+models/props_vehicles/news_van.mdl TAG- Novedades coche-sin ventanas
+models/props_vehicles/van.mdl TAG- coche caja blanca-sin ventanas
+models/props_vehicles/pickup_dually.mdl TAG- camión de marcha atrás-sin ventanas
+models/props_vehicles/pickup_truck_2004.mdl TAG- minivan 2004
+models/props_vehicles/pickup_truck_78.mdl TAG- minivan 78
+models/props_vehicles/police_car_city.mdl TAG- Police car- city
+models/props_vehicles/police_car_rural.mdl TAG- Police Car-Country
+models/props_vehicles/police_car.mdl TAG- Coche de policía- sin ventanas
+models/props_vehicles/police_car_lights_on.mdl TAG- coche de policía-sin ventanas-luz encendida
+models/props_vehicles/police_car_opentrunk.mdl TAG- coche de policía-sin ventanas-compartimento trasero abierto
+models/props_vehicles/racecar.mdl TAG- Coche de carreras de Jimmy Gibbs Junior
+models/props_vehicles/racecar_damaged.mdl TAG- Coche dañado de Jimmy Gibbs Junior
+models/props_vehicles/semi_trailer.mdl TAG- camión portacontenedores
+models/props_vehicles/semi_trailer_freestanding.mdl TAG-camión contenedor-soporte para latas
+models/props_vehicles/semi_trailer_wrecked.mdl TAG- camión contenedor-abajo
+models/props_vehicles/suv_2001.mdl TAG- Coche multifunción 2001
+models/props_vehicles/tanker001a.mdl TAG- Camión cisterna explosivo-Sin cabeza
+models/props_vehicles/taxi_city.mdl TAG- Taxi-City
+models/props_vehicles/taxi_rural.mdl TAG- Taxi-Rural
+models/props_vehicles/tractor01.mdl TAG- Tractor
+models/props_fairgrounds/foodcart.mdl TAG- Carrito de comida
+models/props/cs_assault/forklift.mdl TAG- Carretilla elevadora
+models/props/cs_assault/forklift_brokenlift.mdl TAG- Carretilla golpeada(sin llantas)
+models/props_equipment/construction_lift.mdl TAG- elevador de obra
+models/props_fairgrounds/bumpercar.mdl TAG- Parque de atracciones-Bumper Cars
+models/props_fairgrounds/bumpercar_wpole.mdl TAG- Parque de atracciones- Coches de choque- Con antena
+models/props_fairgrounds/coaster_car01.mdl TAG- Parque de atracciones-Montaña rusa
+models/props_fairgrounds/kiddyland_ridecar.mdl TAG- Parque de atracciones- Coche
+models/props_fairgrounds/kiddyland_ridetrain.mdl TAG- Parque de atracciones-Tren pequeño
+models/props_vehicles/train_box.mdl TAG- Caja de tren
+models/props_vehicles/train_box_open.mdl Vagón de tren con TAG abierto
+models/props_vehicles/train_box_small.mdl TAG- vagón de tren- pequeño
+models/props_vehicles/train_boxwreck.mdl TAG- vagón de tren destrozado
+models/props_vehicles/train_enginecar.mdl TAG- Vagón motor de tren
+models/props_vehicles/train_flatcar.mdl TAG- un extremo del vagón plano
+models/props_vehicles/train_flatcar_small.mdl TAG-un extremo del vagón-más largo
+models/props_vehicles/train_orecar.mdl TAG- tren de mineral
+models/props_vehicles/train_tank.mdl TAG- Tren cisterna
+models/props_vehicles/train_tank_small.mdl TAG- Tren tanque- Pequeño
+models/props_trainstation/train_transporter.mdl TAG-Tren para el transporte de coches
+models/props_unique/subwaycar_all_onetexture.mdl TAG- vagón de metro
+models/props_industrial/construction_crane.mdl TAG- Grúa de construcción-Super grande
+models/props_debris/airliner_wreckage1.mdl TAG- Cabeza de aeronave siniestrada
+models/props_debris/airliner_wreckage2.mdl TAG- Ala de aeronave siniestrada
+models/props_debris/airliner_wreckage3.mdl TAG- Aeronave siniestrada-Fuselaje
+models/props_vehicles/airliner_finale_left.mdl TAG- medio plano-izquierda
+models/props_vehicles/airliner_finale_right.mdl TAG-half plane-right
+
+//Category Foliage Plantas
+models/props_foliage/cedar01.mdl TAG- Arbol de cedro (penetración)
+models/props_foliage/cedar_medium01.mdl TAG- Arbol de cedro medio (Penetración)
+models/props_foliage/cedar_large01.mdl TAG- Árbol de cedro grande (penetración)
+models/props_foliage/cedar_large_spawn.mdl TAG- Cedro-Grande-Marchito (Penetración)
+models/props_foliage/swamp_fallentree01_bare.mdl TAG- Tronco de árbol de pantano roto
+models/props_foliage/fallentree_dry01.mdl TAG-tronco de árbol caído
+models/props_foliage/fallentree_dry02.mdl TAG- Tronco de árbol caído-Tres secciones
+models/props_foliage/tree_trunk_fallen.mdl TAG- madera muerta caída
+models/props_foliage/forestrock_cluster01.mdl TAG- Escombro de piedra A
+models/props_foliage/forestrock_cluster02.mdl TAG- Escombro de piedra B
+models/props_foliage/forestrock_single01.mdl TAG- Escombro de Piedra C
+models/props_foliage/hedge_128.mdl TAG- Hedge- 128 unidades
+models/props_foliage/hedge_256_128high.mdl TAG- Hedge- 256x128 unidades
+models/props_foliage/urban_palm01_medium.mdl TAG- Palm-Medium-Wind
+models/props_foliage/flower_barrel.mdl TAG- barril de flores
+models/props_foliage/mall_pot_large01.mdl TAG- plantas en macetas de centro comercial-grandes
+models/props_foliage/mall_pot_square01.mdl TAG- plantas en macetas de centro comercial-rectángulo
+models/props_foliage/urban_pot_square01.mdl TAG- Plantas en maceta-Rectángulo-Más grande
+models/props_foliage/urban_pot_bigplant01.mdl TAG- Plantas en maceta-Flores y plantas 1
+models/props_foliage/urban_pot_clay01.mdl TAG- Plantas en maceta-Flores y plantas 2
+models/props_foliage/urban_pot_clay02.mdl TAG- Plantas en maceta-Flores y plantas 3
+models/props_foliage/urban_pot_clay03.mdl TAG- Plantas en maceta-Flores y plantas 4
+models/props_foliage/urban_pot_fancy01.mdl TAG- Plantas en maceta-Flores y plantas 5
+models/props_foliage/mall_bigleaves_plant01.mdl TAG- centro comercial planta a (penetración)
+models/props_foliage/mall_bigleaves_plant01_medium.mdl TAG- mall plant a-short (penetración)
+models/props_foliage/mall_bigleaves_plant02.mdl TAG- centro comercial planta b (penetración)
+models/props_foliage/mall_bigleaves_plant02_medium.mdl TAG- mall plant b-short (penetración)
+models/props_foliage/mall_bigleaves_plant03.mdl TAG- centro comercial planta c (penetración)
+models/props_foliage/mall_bigleaves_plant03_dirt.mdl TAG- planta comercial c-suelo (penetración)
+models/props_foliage/mall_bigleaves_plant03_medium.mdl TAG- mall plant c-short (penetración)
+models/props_foliage/mall_big_plant01.mdl TAG- mall planta d (penetración)
+models/props_foliage/mall_big_plant01_dirt.mdl TAG- planta de centro comercial d-suelo (penetración)
+models/props_foliage/mall_small_palm01.mdl TAG- plantas de centro comercial e (penetración)
+models/props_foliage/mall_small_palm01_medium.mdl TAG- centro comercial e-short (penetrante)
+models/props_foliage/mall_small_palm01_cluster.mdl TAG- centro comercial e-three (penetración) 
+models/props_foliage/mall_small_palm01_cluster_medium.mdl TAG- mall plant e-three-short (penetrante)
+models/props_foliage/mall_grass_bush01.mdl TAG- mall grass (penetración)
+models/props_foliage/mall_grass_bush01_dirt.mdl TAG- centro comercial césped-suelo (penetración)
+models/props_foliage/mall_tree_large01.mdl TAG- mall tree-large
+models/props_foliage/mall_tree_medium01.mdl TAG- mall tree- medium
+models/props_foliage/mall_palm01.mdl TAG- Mall Palm-Large
+models/props_foliage/mall_palm01_medium.mdl TAG- Mall Palm-Medium
+models/props_foliage/mall_palmplant02.mdl TAG- mall palm- small
+models/props_foliage/oak_tree01.mdl TAG-Oak-Large
+models/props_foliage/old_tree01.mdl TAG-Árbol viejo-Grande
+models/props_foliage/swamp_cypress_dry01.mdl TAG- Ciprés de pantano-Marchito
+models/props_foliage/swamp_cypress_knee02.mdl TAG- Raíz de respiración de ciprés de pantano-Vertical
+models/props_foliage/swamp_cypress_large01_grnd.mdl TAG- Swamp Cypress-Large
+models/props_foliage/swamp_cypress_medium_grnd01.mdl TAG- Swamp Cypress-Medium
+models/props_foliage/swamp_cypress_small01.mdl TAG- árboles de pantano-pequeños
+models/props_foliage/swamp_shrubwall_256_deep.mdl TAG- Muro de arbustos de pantano 1-256 unidades-Recto
+models/props_foliage/swamp_shrubwall_256a.mdl TAG- Muro de arbustos de pantano-256 unidades-Curvado
+models/props_foliage/swamp_shrubwall_512_deep.mdl TAG- Muro de arbustos de pantano-512 unidades-Arco
+models/props_foliage/swamp_shrubwall_block_512.mdl TAG- Muro de arbustos de pantano-512 unidades-Redondo
+models/props_foliage/swamp_shrubwall_block_512_deep.mdl TAG- Pantano Arbusto-512 Unidades-Ovalado
+models/props_foliage/shrub_small.mdl TAG- arbustos- pequeño- forma de papel (penetración)
+models/props_foliage/mall_fern01.mdl TAG- mall bush-small (penetración) 
+models/props_foliage/mall_bush01.mdl TAG- mall bush-medium (penetración) 
+models/props_foliage/mall_bush02.mdl TAG- mall bush-large (penetración)
+models/props_foliage/urban_fern01.mdl TAG- arbustos urbanos-pequeños (penetración) 
+models/props_foliage/urban_bush01.mdl TAG- arbustos urbanos-medio (penetración) 
+models/props_foliage/urban_bush02.mdl TAG- arbustos urbanos-grande (penetración)
+models/props_foliage/urban_hedge_256_128_high.mdl TAG-hedge- 256x128 altura
+models/props_foliage/urban_hedge_128_64_high.mdl TAG-hedge- 128x64 altura
+models/props_foliage/tree_city01.mdl TAG- Árboles urbanos
+models/props_foliage/tree_deciduous_01a.mdl TAG- Árboles urbanos-hojas caídas
+models/props_foliage/tree_dry02.mdl TAG- Árboles urbanos-marchitos
+models/props_foliage/trees_cluster01.mdl TAG- Árboles urbanos-tres a
+models/props_foliage/trees_cluster02.mdl TAG- árboles urbanos-tres b
+models/props_foliage/urban_streetpalm01_small.mdl TAG- árbol de la calle-pequeño
+models/props_foliage/urban_streettree01_medium.mdl TAG- Árbol de la calle-Medio
+models/props_foliage/urban_tree_giant01_medium.mdl TAG- Árbol del cielo
+models/lighthouse/b_burnedcedar01_01.mdl TAG- Cedro quemado (Penetración)
+models/lighthouse/b_burnedtree01_01.mdl TAG- árboles quemados a-sin quemar
+models/lighthouse/b_burnedtree01_02.mdl TAG- árboles quemados a-cuerpo inferior quemado
+models/lighthouse/b_burnedtree01_03.mdl TAG- árboles quemados a-cuerpo superior quemado
+models/lighthouse/b_burnedtree01_04.mdl TAG- árboles quemados a-quemados todos
+models/lighthouse/b_burnedtree02_01.mdl TAG- árboles quemados b-no quemados
+models/lighthouse/b_burnedtree02_02.mdl TAG- árboles quemados b-cuerpo inferior quemado
+models/lighthouse/b_burnedtree02_03.mdl TAG- árboles quemados b-cuerpo superior quemado
+models/lighthouse/b_burnedtree02_04.mdl TAG- árboles quemados b-quemados todos
+models/lighthouse/b_burnedtree03_01.mdl TAG- árboles quemados c-sin quemar
+models/lighthouse/b_burnedtree03_02.mdl TAG- árboles quemados c-cuerpo inferior quemado
+models/lighthouse/b_burnedtree03_03.mdl TAG- árboles quemados c-cuerpo superior quemado
+models/lighthouse/b_burnedtree03_04.mdl TAG- árboles quemados c-quemados todos
+models/lighthouse/b_fallentree01_01.mdl TAG- árboles quemados-caídos-sin quemar
+models/lighthouse/b_fallentree01_03.mdl TAG- árboles quemados-caídos-medio quemados
+models/lighthouse/b_fallentree01_02.mdl TAG- árboles quemados-caídos-quemados todos
+models/props_foliage/swamp_cluster01.mdl TAG- Selva del pantano-Tres rocas grandes + Tres árboles
+models/props_foliage/swamp_cluster_water.mdl TAG- Selva del pantano-Tres rocas grandes + Tres árboles-Húmedo
+models/props_unique/haybails_single.mdl TAG- Bale
+models/props_unique/haybails_farmhouse.mdl TAG- Una gran pila de balas de paja, solo media cara
+models/props_plants/corndry_split02.mdl TAG- campo de arroz de maíz- c12m5 (penetración)
+models/props_plants/corndry_split01.mdl TAG- campo de arroz de maíz- aplanamiento- c12m5 (penetración)
+models/props_foliage/tree_trunk_chunk01.mdl TAG- Bloque de árbol muerto 1 (rompible)
+models/props_foliage/tree_trunk_chunk02.mdl TAG- Dead Tree Chunk 2 (rompible)
+models/props_foliage/tree_trunk_chunk03.mdl TAG- Dead Tree Chunk 3 (rompible)
+models/props_foliage/tree_trunk_chunk04.mdl TAG- Dead Tree Chunk 4 (rompible)
+models/props_foliage/tree_trunk_chunk05.mdl TAG- Dead Tree Chunk 5 (rompible)
+models/props_foliage/tree_trunk_chunk06.mdl TAG- Bloque de árbol muerto 6 (rompible)
+
+//Category Interior Interior
+models/props/cs_militia/bar01.mdl TAG- Mesa de Bar
+models/props/cs_militia/table_shed.mdl Mesa de Madera
+models/props/cs_militia/militiawindow01.mdl TAG- Par de Ventanas
+models/props/cs_militia/crate_extralargemill.mdl TAG- Caja de Madera
+models/props/cs_militia/shelves_wood.mdl TAG- Estanteria 
+models/props/cs_office/shelves_metal.mdl TAG- Estanteria de Metal
+models/props/cs_militia/television_console01.mdl TAG- Televisor viejo
+models/props_interiors/door_sliding_breakable01.mdl TAG- Puerta enrollable de hierro (rompible)
+models/Props_doors/doormain01_airport.mdl TAG- puerta de madera-aeropuerto (rompible)
+models/props_doors/doormain01_airport_small_02.mdl TAG- Fragmentos de puertas de madera (rompibles)
+models/props_doors/checkpoint_door_-01.mdl TAG- puerta de seguridad- punto de partida
+models/props_doors/checkpoint_door_-02.mdl TAG- Puerta de seguridad
+models/props/de_prodigy/tirestack2.mdl TAG- LLantas ataras
+models/props/cs_militia/television_console01.mdl TAG- Television antigua
+models/lighthouse/checkpoint_door_lighthouse01.mdl TAG- Iniciar puerta de seguridad-Mapa de faro
+models/lighthouse/checkpoint_door_lighthouse02.mdl TAG- terminal puerta de seguridad-mapa del faro
+models/props_doors/doorfreezer01.mdl TAG- Puerta de Hierro Invencible
+models/props_unique/subwaycar_all_onetexture_enddoor.mdl TAG- puerta del vagón de metro- con manija de puerta (el tanque se puede romper)
+models/props_unique/subwaycar_all_onetexture_sidedoor.mdl TAG- puerta del vagón de metro-sin manija (el tanque se puede romper)
+models/props_furniture/desk1.mdl TAG- mesa de muebles
+models/props_interiors/furniture_desk01a.mdl TAG- mesa de muebles (rompible)
+models/props_furniture/heavy_table.mdl TAG- mesa larga de madera 1
+models/props_furniture/it_mkt_table2.mdl TAG- mesa larga de madera 2
+models/props_interiors/table_console.mdl TAG-mesa de madera larga-con cajón
+models/props_wasteland/controlroom_desk001b.mdl TAG- mesa de hierro- sala de control- larga
+models/props_interiors/industrial_table01.mdl TAG- Mesa de Hierro-Industrial-Larga
+models/props_interiors/coffee_table_oval.mdl TAG- mesa de centro-ovalada
+models/props_interiors/coffee_table_rectangular.mdl TAG- mesa de centro- rectángulo
+models/props_interiors/desk_executive.mdl TAG- escritorio
+models/props_interiors/desk_metal.mdl TAG- escritorio de hierro
+models/props_interiors/dining_table_round.mdl TAG-wooden table-round
+models/props_interiors/dinning_table_oval.mdl TAG- mesa de madera- ovalada
+models/props_interiors/side_table_square.mdl TAG-mesa pequeña-cuadrada
+models/props_interiors/table_bedside.mdl TAG-mesa pequeña-rectangular
+models/props_interiors/table_end.mdl TAG-mesa pequeña-esquina cuadrada
+models/props_interiors/table_cafeteria.mdl TAG- una mesa en la esquina de la cafetería
+models/props_interiors/table_folding.mdl TAG- Mesas plegables
+models/gibs/hgibs.mdl TAG- Craneo
+models/props/de_train/de_train_horizontalcoolingtank_nophong.mdl TAG- Tanque grande de No Mercy
+models/props_interiors/table_folding_folded.mdl TAG- Mesa plegable- guardar (rompible)
+models/props_interiors/table_kitchen.mdl TAG- mesa-cocina
+models/props_interiors/table_motel.mdl TAG- mesa-restaurante (rompible)
+models/props_urban/round_table001.mdl TAG- mesa redonda-blanco
+models/props_interiors/bench01a.mdl TAG- Banco de madera
+models/props_interiors/bench_subway.mdl TAG- silla larga de piedra- metro
+models/props_interiors/boothfastfood01.mdl TAG- asiento largo-restaurante
+models/props_interiors/ottoman01.mdl TAG- Cojín para silla
+models/props_furniture/cafe_barstool1.mdl TAG- silla redonda de madera- cafe (rompible)
+models/props_furniture/chair2.mdl TAG- Silla (rompible)
+models/props_furniture/hotel_chair.mdl TAG- Sillas-Hotel
+models/props_interiors/patio_chair2_white.mdl TAG- Silla-estilo europeo blanco
+models/props_urban/plastic_chair001.mdl TAG- Silla-Plástico Blanco
+models/props_interiors/picnic_bench_toddler.mdl TAG- mesas y sillas de exterior
+models/props_interiors/bookcase_48_96.mdl TAG- librería larga
+models/props_interiors/bookcasehutch01.mdl TAG- librería larga- capa de almacenamiento
+models/props_interiors/bookcase_64_96.mdl TAG- librería larga-grande
+models/props_furniture/armario1.mdl TAG- armario
+models/props_furniture/cafe_cabinet1.mdl TAG- armario grande
+models/props_furniture/inn_mailbox1.mdl TAG- estantería grande
+models/props_furniture/kitchen_cabinet1.mdl TAG- mueble con estantes-cocina-doble piso
+models/props_furniture/kitchen_countertop1.mdl TAG-mueble-encimera-cocina
+models/props_furniture/kitchen_shelf1.mdl TAG- librero- cocina
+models/props_furniture/shelf1.mdl TAG- armario pequeño
+models/props_furniture/dresser1.mdl TAG- Armario de muebles 
+models/props_furniture/drawer1.mdl TAG- mueble cajonera (rompible)
+models/props_interiors/dresser_short.mdl TAG- Cajonera-tres capas
+models/props_interiors/dresser_tall.mdl TAG- Cómoda-5 capas
+models/props_interiors/file_cabinet1_group.mdl TAG- armario cajón archivador- hierro
+models/props_interiors/shelvinggrocery01.mdl TAG- Gabinete de alimentos con repisa-7mo piso
+models/props_interiors/shelvingstore01.mdl TAG- Gabinete de Alimentos con Estante-Cuarto Piso
+models/props_mall/mall_display_04.mdl TAG- escaparate pequeño del centro comercial
+models/props_mall/mall_display_03.mdl TAG- Gabinete de exhibición de información de carteles del centro comercial
+models/props_mall/mall_display_07.mdl TAG- Gabinete de productos básicos del centro comercial
+models/props_mall/mall_display_08.mdl TAG- Gabiente grande de Centro comercial
+models/lighthouse/props/wooden_cabinet.mdl TAG- Cabina de armario de madera
+models/props_unique/guncabinet_no_door_static.mdl TAG- Armario de madera para armas (estado sólido)
+models/props_unique/guncabinet01_main.mdl TAG- armario de armas de hierro
+models/props_urban/plastic_icechest001_static.mdl TAG- Congelador de plástico (estado sólido)
+models/props_interiors/lamp_floor.mdl TAG- lámpara de mesa alargada
+models/props_urban/hotel_lamp001.mdl TAG- lámpara de mesa- hotel
+models/props_furniture/lamp1.mdl TAG- lámpara de mesa
+models/props_interiors/furniture_lamp01a.mdl TAG- lámpara de mesa- muebles
+models/props_interiors/lamp_floor_arch.mdl TAG- lámpara de mesa- curvada
+models/props_interiors/lamp_floor_gib1.mdl TAG- lámpara de mesa- sin lámpara
+models/props_interiors/lamp_floor_gib2.mdl TAG- pantalla de lámpara de mesa 1
+models/props_interiors/lamp_table01_gib2.mdl TAG- pantalla de lámpara de mesa 2
+models/props_interiors/lamp_table02_gib2.mdl TAG- pantalla de lámpara de mesa 3
+models/props_interiors/lamp_table01.mdl TAG- lámpara de mesa 01
+models/props_interiors/lamp_table02.mdl TAG- lámpara de mesa 02
+models/props_interiors/lamp_table02_gib1.mdl TAG- lámpara de mesa-sin lámpara
+models/props_urban/light_fixture01.mdl TAG- Araña
+models/props_interiors/couch.mdl TAG- sofa a
+models/props_interiors/sofa.mdl TAG- sofa b
+models/props_interiors/sofa01.mdl TAG- sofa c
+models/props_interiors/sofa02.mdl TAG- sofa d
+models/props_interiors/sofa_chair.mdl TAG- sofa-single a
+models/props_interiors/sofa_chair01.mdl TAG- sofa-single b
+models/props_interiors/sofa_chair02.mdl TAG- sofa-single c
+models/props_interiors/bed.mdl TAG- cama
+models/props_interiors/bed_houseboat.mdl TAG- Cama-Casa flotante
+models/props_interiors/bed_motel.mdl TAG- Bed- Hotel
+models/props_interiors/baby_crib.mdl TAG- Cuna
+models/props_interiors/kids_bed.mdl TAG- Cama individual
+models/props/effects/tankwall_64_2_112.mdl TAG- Señal de garra para infectado
+models/props_windows/window_industrial.mdl TAG- ventana de rejilla de vidrio (rompible)
+models/props/cs_militia/militiawindow02_breakable_chunk_01.mdl TAG- Chalet ventana rota 1 (rompible)
+models/props/cs_militia/militiawindow02_breakable_chunk_02.mdl TAG- Chalet ventana rota 2 (rompible)
+models/props/cs_militia/militiawindow02_breakable_chunk_03.mdl TAG- Chalet ventana rota 3 (rompible)
+models/props/cs_militia/militiawindow02_breakable_chunk_04.mdl TAG- Chalet ventana rota 4 (rompible)
+models/props/cs_militia/militiawindow02_breakable.mdl TAG- Ventana completa del chalet (rompible)
+models/props_vents/ventbreakable01.mdl TAG- Ventana de aire del tubo de ventilación (rompible)
+models/props_interiors/table_picnic.mdl TAG- Mesa de picnic (rompible)
+models/props_interiors/table_picnic_break01.mdl TAG- Mesa de picnic-Broken 1
+models/props_interiors/table_picnic_break02.mdl TAG- Mesa de picnic-Broken 2
+models/props_interiors/table_picnic_break03.mdl TAG- Mesa de picnic-Broken 3
+models/props_interiors/table_picnic_break04.mdl TAG- Mesa de picnic-Broken 4
+models/props_interiors/table_picnic_break05.mdl TAG- Mesa de picnic-Broken 5
+models/props_interiors/table_picnic_break06.mdl TAG- Mesa de picnic-Broken 6
+models/props_interiors/table_picnic_break07.mdl TAG- Mesa de picnic-Broken 7
+models/props_interiors/table_picnic_break08.mdl TAG- Mesa de picnic-Broken 8
+models/props_interiors/table_picnic_break09.mdl TAG- Mesa de picnic-Broken 9
+models/props_interiors/table_picnic_break10.mdl TAG- Mesa de picnic-Broken 10
+models/props_interiors/table_picnic_break11.mdl TAG- Mesa de picnic-Broken 11
+models/props_doors/checkpoint_door_-02_static.mdl TAG- Puerta de refugio
+models/props_equipment/diesel_pump2.mdl TAG- Generador Last Stand
+
+//Category Exterior
+models/props_urban/fence_cover001_128.mdl TAG- Cubierta de cerca
+models/props_urban/fence_cover001_256.mdl TAG- Cubierta de cerca x2
+models/lostcoast/props_wasteland\gate01b.mdl TAG- Rejilla
+models/props_urban/wood_fence001_256.mdl TAG- Cerca de Jardin
+models/props_misc/military_sign01_2.mdl TAG- Cartel de peligro
+models/props_doors/door_urban_48_118_damaged_boarded.mdl TAG- Puerta bloqueada
+models/props_equipment/cargo_container04.mdl TAG- Contenedor grande
+models/props_urban/outhouse001.mdl TAG- Baño portatil
+models/props_misc/gazebo.mdl TAG- Carpa
+models/props_misc/fairground_tent_board.mdl TAG- Toldo cerrado
+models/props_fortifications/barricade001_128_reference.mdl TAG- Barricada 1
+models/props_fortifications/barricade001_64_reference.mdl TAG- Barricada 2
+models/props_fortifications/barricade_gate001_64_reference.mdl TAG- Barricada 3
+models/lighthouse/props/estuary_bridge_arch_small.mdl TAG- Tunel
+models/props_canal/canal_bars004.mdl TAG- Reja de canal de tunel
+models/lighthouse/props/wooden_gate.mdl TAG- Puerta de madera
+models/lighthouse/props/wooden_cabinet.mdl TAG- Baño de madera
+models/props_fortifications/concrete_block001_128_reference.mdl TAG- Bloqueo de concreto
+models/props_cemetery/crypts_top02.mdl TAG- Cruz de cementerio
+models/props_exteriors/fence002.mdl TAG- valla de madera muy larga
+models/lostcoast/props_wasteland/boat_wooden01a_static.mdl TAG- Bote de madera
+models/props_docks/marina_dock.mdl TAG- Muelle de pantanos
+models/props_misc/triage_tent.mdl TAG- Toldo grande
+models/props_fairgrounds/coaster_gate.mdl TAG- Puerta de la montaña rusa (penetración)
+models/props_fortifications/concrete_barrier01.mdl TAG- Muro de hormigón(sacrificio)
+models/props_junk/trashcluster01a.mdl TAG- Bolsas de basura
+models/props_unique/airport/atlas.mdl TAG- Estatua de Hércules sosteniendo el modelo de la tierra
+models/lighthouse/props/wooden_bridge_c.mdl TAG- Puente de The Last Stand
+models/props_industrial/brickpallets_break02.mdl TAG- Fuerte de Ladrillos
+models/props_fortifications/concrete_wall001_96_reference.mdl TAG- Muro de hormigón más grande (fácil de usar)
+models/props_urban/fence_gate001_256.mdl TAG- Puerta de valla urbana (fácil de usar)
+models/props_fortifications/barricade_gate001_64_reference.mdl TAG- barricada-capa única sin asa (fácil de usar)
+models/props_fortifications/barricade001_64_reference.mdl TAG-roadblock-single layer
+models/props_fortifications/barricade001_128_reference.mdl TAG-barricada-doble capa
+models/props_fairgrounds/ferris_wheel_01.mdl TAG- Textura de rueda de la fortuna
+models/props_mall/information_desk.mdl TAG- Dead center tabla de informacion 
+models/props_debris/wood_barricade.mdl TAG- Madera de barricada pequeña
+models/props_mall/mall_escalator.mdl TAG- Escalera mecánica- Centro comercial
+models/props_mall/mall_kiosk.mdl TAG- quiosco del centro comercial A
+models/props_mall/mall_kioskb.mdl TAG- quiosco del centro comercial B
+models/props_mall/mall_kioskc.mdl TAG- quiosco C del centro comercial
+models/props_wasteland/exterior_fence002b.mdl TAG- Cerca de alambre de púas-capa única más corta
+models/props_wasteland/exterior_fence002c.mdl TAG- Valla de alambre de púas-capa única
+models/props_wasteland/exterior_fence002d.mdl TAG- Valla de alambre de púas-Doble capa
+models/props_wasteland/exterior_fence002e.mdl TAG- Cerca de alambre de púas-Cuatro capas
+models/props_rooftop/billboard06.mdl TAG- Cartel gigante
+models/props_rooftop/billboard03.mdl TAG- Cartel de Burger tank
+models/props_street/police_barricade.mdl TAG- barricada con marco de hierro-primer piso
+models/props_street/police_barricade2.mdl TAG- barricada con marco de hierro-tres pisos
+models/props_street/police_barricade3.mdl TAG- Barricada con marco de hierro-Sexto piso
+models/props_street/police_barricade_368in.mdl TAG- Barricada con marco de hierro-Octavo piso
+models/props_street/police_barricade_496in.mdl TAG- Barricada con marco de hierro-Décimo piso
+models/props_street/police_barricade4.mdl TAG- Barricada con marco de hierro-Duodécimo piso
+models/lostcoast/props_wasteland/gate01a.mdl TAG- Verja de hierro puerta a
+models/lostcoast/props_wasteland/gate01b.mdl TAG- verja de hierro puerta b
+models/props_doors/roll-up_door_full.mdl TAG- Puerta enrollable- Cuerpo completo
+models/props_mill/lift01_cagedoor02.mdl TAG- Puerta telescópica elevador-c4m2 (penetración)
+models/props_street/barricade_door_01.mdl TAG- Puerta de agencia militar- c9m1
+models/props_urban/fence_768_collapsed.mdl TAG- Vallas con refugios caídos- c4m5
+models/props_urban/gate_wall001_64.mdl TAG- Urban Wall-64 unidades
+models/props_urban/gate_wall001_128.mdl TAG- muro urbano- 128 unidades
+models/props_urban/gate_wall001_256.mdl TAG- muro urbano- 256 unidades
+models/props_urban/gate_wall002_128.mdl TAG- muro cerco urbano- 128 unidades
+models/props_urban/wood_fence001_64.mdl TAG- Valla de madera urbana a-64 unidades
+models/props_urban/wood_fence001_128.mdl TAG- Valla de madera urbana a-128 unidades
+models/props_urban/wood_fence001_256.mdl TAG- Valla de madera urbana a-256 unidades
+models/props_urban/wood_fence002_64.mdl TAG- Valla de madera urbana b-64 unidades
+models/props_urban/wood_fence002_128.mdl TAG- Valla de madera urbana b-128 unidades
+models/props_urban/wood_fence002_256.mdl TAG- Valla de madera urbana b-256 unidades
+models/props_urban/gate_wall003_32.mdl TAG- Cerco de protección wall-32 unidades
+models/props_urban/gate_wall003_64.mdl TAG- Cerco de protección wall-64 unidades
+models/props_urban/gate_wall003_128.mdl TAG- Refugio valla pared-128 unidades
+models/props/cs_militia/silo_01.mdl TAG- TAG- 2 Silos grandes
+models/props_cemetery/cemetery_gate_128.mdl TAG- Cerca de alambre de púas-con púas
+models/props_unique/wooden_barricade.mdl TAG- Wooden Barricade-Perfect
+models/props_unique/wooden_barricade_break1.mdl TAG- barricadas de madera-bajo daño
+models/props_unique/wooden_barricade_break2.mdl TAG- Wooden Barricade-Damaged
+models/props_unique/wooden_barricade_break3.mdl TAG- barricadas de madera-daño alto
+models/props_fortifications/concrete_block001_128_reference.mdl TAG- bloque de hormigón
+models/props_fortifications/concrete_barrier001_96_reference.mdl TAG- Barrera de choque de hormigón
+models/props_fortifications/concrete_barrier001_128_reference.mdl TAG- Barrera de choque de hormigón-más larga
+models/props_exteriors/guardrail128a.mdl TAG- barandilla de carretera
+models/props_exteriors/roadsidefence_64.mdl TAG- valla de carretera-capa única
+models/props_exteriors/roadsidefence_512.mdl TAG- valla de carretera-ocho capas
+models/lighthouse/props/wall_144_324.mdl TAG- wall- 144X324 unidades
+models/props_update/brick_128.mdl TAG- Brick Wall-128 unidades
+models/props_update/brick_256.mdl TAG- Brick Wall-256 unidades
+models/props_update/concrete_128.mdl TAG- muro de hormigón- 128 unidades
+models/props_update/concrete_256.mdl TAG- Muro de cemento- 256 unidades
+models/props_update/plywood_128.mdl TAG- pared de madera- 128 unidades
+models/props_update/plywood_256.mdl TAG- pared de madera- 256 unidades
+models/props_update/whitebrick_128.mdl TAG-Pared de ladrillo blanco-128 unidades
+models/props_update/whitebrick_256.mdl TAG-Pared de ladrillo blanco-256 unidades
+models/props_update/wood_128.mdl TAG- Paredes de madera- 128 unidades
+models/props_update/wood_256.mdl TAG- pared de madera- 256 unidades
+models/props_interiors/concretepillar01.mdl TAG- Barra de acero de cemento para sótano (el tanque se puede interrumpir)
+models/props_interiors/concretepiller01_dm01.mdl TAG- fractura de barra de acero de cemento para sótano
+models/props_interiors/constructionwalls02checkpoint.mdl TAG- Pared de columna de acero para edificios con agujeros
+models/props_interiors/constructionwalls03.mdl TAG- Muros de columna de acero para edificios-4
+models/props_cemetery/crypts_wall.mdl TAG- Muro de piedra engrosada-Cementerio
+models/props_exteriors/lighthouserailing_02_a.mdl TAG- barandilla de faro (rompible)
+models/props_exteriors/wood_post001.mdl TAG- poste de madera
+models/props_exteriors/wood_railing004c.mdl TAG- Barandilla de madera recta
+models/props_exteriors/wood_railing004d.mdl TAG- Barandilla de madera-esquinas grandes
+models/props_exteriors/wood_railing001.mdl TAG- Barandilla de madera-trapezoide blanco (rompible)
+models/props_exteriors/wood_railing002.mdl TAG- Barandilla de madera-esquina blanca
+models/lighthouse/wood_post.mdl TAG- poste de madera
+models/lighthouse/wood_post_large.mdl TAG- poste de madera largo
+models/props_buildings/warehouse_beam_01.mdl TAG- Pilares de madera- Almacén
+models/props_docks/dock02_pole02a.mdl TAG- Poste de madera- Muelle
+models/props_windows/brick_window03_pillar.mdl TAG- pilar de mármol
+models/props_cemetery/cemetery_column.mdl TAG- Columna de piedra-Cementerio
+models/props_buildings/barn_supports_bases.mdl TAG- Ocho pilares de piedra-Granero
+models/lighthouse/props/junkyard_column.mdl TAG- Columna cuadrada- Desguace
+models/props_street/phonepole1_tall.mdl TAG- poste de teléfono
+models/props_c17/utilitypole01d.mdl TAG- poste telefónico
+models/props_debris/barricade_short02a.mdl TAG- escombros, tierra y piedra a
+models/props_debris/barricade_short03a.mdl TAG- escombros, tierra y piedra b
+models/props_debris/barricade_short04a.mdl TAG- escombros, tierra y piedra c
+models/props_wasteland/rock_moss01.mdl TAG- Dashi 1
+models/props_wasteland/rock_moss02.mdl TAG- Dashi 2
+models/props_wasteland/rock_moss03.mdl TAG- Dashi 3
+models/props_wasteland/rock_moss04.mdl TAG- Dashi 4
+models/props_wasteland/rock_moss05.mdl TAG- Dashi 5
+models/props_wasteland/rockcliff07b.mdl TAG- Dashi 6
+models/props/cs_militia/militiarock01.mdl TAG- Dashi 7
+models/props/cs_militia/militiarock02.mdl TAG- Dashi 8
+models/props/cs_militia/militiarock03.mdl TAG- Dashi 9
+models/props/cs_militia/militiarock04.mdl TAG- Dashi 10
+models/props/cs_militia/militiarock05.mdl TAG- Dashi 11
+models/props/cs_militia/militiarock06.mdl TAG- Dashi 12
+models/props_wasteland/rockcliff_cluster03b.mdl TAG- Dos rocas grandes a
+models/props_wasteland/rockcliff_cluster03b_caves.mdl TAG- Dos rocas grandes b
+models/props_wasteland/rockcliff_cluster03c.mdl TAG- dos grandes + una pequeña roca
+models/props_foliage/swamp_rock02.mdl TAG- Piedra musgosa-Dos
+models/props_foliage/rock_coast02_ls1.mdl TAG- Cantos rodados costeros a
+models/props_foliage/rock_coast02_ls2.mdl TAG- Coastal Boulders b
+models/lostcoast/props_wasteland/rock_coast02a.mdl TAG- Coastal Boulders c
+models/props_wasteland/rock_cliff01.mdl TAG- enorme pared de roca a
+models/props_wasteland/rockcliff_cluster01a.mdl TAG- enorme pared de roca b
+models/props_wasteland/rockcliff_cluster02c.mdl TAG- enorme pared de roca c
+models/props_wasteland/rockcliff_cluster03a.mdl TAG- enorme pared de roca d
+models/props_wasteland/rockcliff_cluster03a_river.mdl TAG- enorme pared de roca e
+models/props_street/trafficlight01.mdl TAG- Semáforo de calle- Grande
+models/props_c17/lamppost03a_on.mdl TAG-Farola-Enciende la lámpara
+models/props_c17/lamppost03a_off.mdl TAG-Farola-Apaga la luz
+models/props_exteriors/guardshack.mdl TAG- sala de guardia
+models/props_unique/ticketbooth.mdl TAG- taquilla
+models/props_mill/elevator01_cage.mdl TAG- Elevator-c4m2
+models/lighthouse/diesel_pump.mdl TAG- bomba diésel
+models/props_rooftop/train_signalbox_01.mdl TAG- Caja de señalización del tren
+models/props_rooftop/vent_large1.mdl TAG- Caja de voltaje del tubo de ventilación
+models/props_unique/generator_short.mdl TAG-generador-turbina
+models/props_c17/subtion_circuitbreaker03.mdl TAG- Central eléctrica-Disyuntor
+models/props_c17/subestación_transformador01a.mdl TAG- Transformador-Central Eléctrica
+models/props_c17/subtion_transformer01b.mdl TAG- Medición de borde de transformador de planta de energía
+models/props_unique/generator.mdl TAG- generador grande a-c8m2
+models/props_unique/generator01.mdl TAG- generador grande b-c8m2
+models/props_wasteland/coolingtank01.mdl TAG- torre de enfriamiento- ovalada
+models/props_wasteland/coolingtank02.mdl TAG- torre de enfriamiento- redondo largo
+models/props_street/watertower01.mdl TAG-torre de agua-grande
+models/props_buildings/watertower_001a.mdl TAG- Torre de agua- Gran altura
+models/props_rooftop/rooftank01.mdl TAG- Tanque de almacenamiento de agua grande
+models/props_wasteland/powertower01.mdl TAG- Torre de alta tensión
+models/props_unique/sandtower02.mdl TAG- Torre de arena
+models/props_mill/tank_medium01.mdl TAG- torre de agua cilíndrica- c4
+models/props_equipment/cargo_container01.mdl TAG- contenedor
+models/props_equipment/cargo_container02.mdl Contenedor TAG-open
+models/props_unique/hospital05_rooftop_cube01.mdl TAG- Base generosa- c8m5
+models/props_mill/pipeset32d_128a.mdl TAG- tubos grandes-128 unidades
+models/props_mill/pipeset32d_256a.mdl TAG-large pipe-256 unidades
+models/props_mill/pipeset32d_512a.mdl TAG-large pipe-512 unidades
+models/props_wasteland/prison_pipes002a.mdl TAG- Tubería de agua a granel
+models/props_unique/greenhouse_pipewall.mdl TAG- tubería grande 1
+models/props_unique/greenhouseboiler_all.mdl TAG- tubería grande 2
+models/props_industrial/oil_pipes.mdl TAG- Tubería de drenaje
+models/props_unique/pumpstation01.mdl TAG- Tubería de drenaje de techo
+models/props_industrial/pumpstation_pipes01.mdl TAG- Tubería de drenaje
+models/props_industrial/pumpvertical01.mdl TAG- Máquina de tratamiento de aguas residuales
+models/props_industrial/sluicegate.mdl TAG- Puerta de desagüe- c8m2
+models/lighthouse/props/junkyard_big_pipe.mdl TAG- Tubería de drenaje subterránea grande
+models/props_canal/canal_bars004.mdl TAG- Orificio de drenaje del paso subterráneo
+models/props_swamp/boardwalk_128.mdl TAG- Muelle puente de madera-pantano-128 unidades
+models/props_swamp/boardwalk_256.mdl TAG- Muelle puente de madera-pantano-256 unidades
+models/props_docks/dock_broken01a_256.mdl TAG- Puente de madera para muelle-grande-c10m5
+models/props_vehicles/bridgecollapse_part01.mdl TAG- puente de madera- c12m3 (penetración)
+models/lighthouse/props/wooden_bridge_a.mdl TAG- puente de madera- zócalo
+models/lighthouse/props/wooden_bridge_c.mdl TAG- puente de madera- c14m1
+models/props_unique/rope_bridge.mdl TAG- puente colgante
+models/props_exteriors/train_truss01.mdl TAG- Truss de tren
+models/props_equipment/scaffolding.mdl TAG- Andamio para la construcción del aeropuerto a
+models/props_equipment/scaffolding_norails.mdl TAG- andamio de construcción de aeropuerto b
+models/props_lighting/lights_industrialcluster01a.mdl TAG- Iluminación del aeropuerto-no encendida
+models/props_misc/fire_exit_crushed.mdl TAG- Escalera de escape estrellada + escombros, tierra y piedra-c8m1 (penetración)
+models/lighthouse/b_waterwheel01.mdl TAG- Rueda hidráulica-Herramientas de riego
+models/lighthouse/waterwheelengine_01.mdl TAG- motor de rueda hidráulica 1
+models/lighthouse/waterwheelengine_02.mdl TAG- motor de rueda hidráulica 2
+models/props_industrial/dumpsterconstruction01.mdl TAG- Proyecto de construcción de contenedor- c11m2
+models/lighthouse/junkyard_crane_arm.mdl TAG- Grúa de desguace- Boom
+models/lighthouse/junkyard_crane_base.mdl TAG- Junkyard Crane-Base
+models/lighthouse/junkyard_crane_magnet.mdl TAG-Imán de grúa de depósito de chatarra (penetración)
+models/lighthouse/props/estuary_bridge_arch_big.mdl TAG- Gran arco de puente del estuario
+models/lighthouse/props/estuary_bridge_arch_small.mdl TAG- pequeño arco del puente del estuario
+models/lighthouse/props/estuary_bridge_corrug.mdl TAG- estuario puente arco techo corrugado
+models/lighthouse/props/wheelhouse_dock.mdl TAG- Suelo de madera para caseta de timón
+models/props_fairgrounds/kiddyland_ridestructure_closed.mdl TAG- cobertizo cerrado para parques de atracciones
+models/props_misc/fairground_tent_closed.mdl TAG- carpa para parque de atracciones
+models/lighthouse/puntales/estuary_bridge_beams.mdl TAG- viga de arco del puente del estuario
+models/lighthouse/props/wheelhouse_ceiling01.mdl TAG- Esqueleto de techo de madera de timonera a
+models/lighthouse/props/wheelhouse_ceiling02.mdl TAG- Esqueleto de techo de madera de timonera b
+models/lighthouse/puntales/ceiling_metal_beams.mdl TAG- Vigas de metal para techo
+models/props_unique/airport_greenhouse.mdl TAG- El enorme esqueleto de invernadero del primer nivel del aeropuerto
+models/props_fairgrounds/slide.mdl TAG- Diapositiva del parque de atracciones
+models/lighthouse/junkyard_crane_arm.mdl TAG- modelo de Grua
+models/props_cemetery/grave_01.mdl TAG- Tombstone 1 (rompible)
+models/props_cemetery/grave_02.mdl TAG- Tombstone 2 (rompible)
+models/props_cemetery/grave_03.mdl TAG- Tombstone 3 (rompible)
+models/props_cemetery/grave_04.mdl TAG- Tombstone 4 (rompible)
+models/props_cemetery/grave_05.mdl TAG- Tombstone 5 (rompible)
+models/props_cemetery/grave_06.mdl TAG- Tombstone 6 (rompible)
+models/props_cemetery/grave_07.mdl TAG- Tombstone 7 (rompible)
+models/props_cemetery/grave_08.mdl TAG- Tombstone 8
+models/props_unique/subwaytracks01_a.mdl TAG-rail a
+models/props_unique/subwaytracks01_b.mdl TAG-rail b
+models/props_unique/subwaytracks01_c.mdl TAG-rail c
+models/props_unique/subwaytracks01_d.mdl TAG-rail d
+models/props_unique/subwaytracks01_e.mdl TAG-rail e
+models/props_unique/subwaytracks01_f.mdl TAG-rail f
+models/props_unique/subwaytracks01_g.mdl TAG-rail g
+models/props_unique/subwaytracks01_h.mdl TAG-rail h
+models/props_placeable/wrong_way.mdl TAG- Camino bloqueado
+
+//Category Decorative Decorativa 
+models/props_downtown/sign_oneway.mdl TAG- Señal de salida Izquierda
+models/props_highway/highway_sign004.mdl TAG- Señal de salida A
+models/props_highway/highway_sign005.mdl TAG- Señal de salida A
+models/props_waterfront/sign_underriver_folding01.mdl TAG- Señal de restaurante
+models/props_downtown/sign_stop.mdl TAG- Señal de STOP
+models/props_highway/highway_sign007.mdl TAG- Cartel de salida 1
+models/props/cs_office/exit_ceiling.mdl TAG- Cartel de salida A
+models/props/cs_office/exit_wall.mdl TAG- Cartel de salida B
+models/props_highway/highway_sign005.mdl TAG- Cartel salida a 35mph
+models/props_urban/pool_ladder001.mdl TAG- Escalera pequeña de Tobogan
+models/props_c17/metalladder001.mdl TAG- Escalera para superviviente A
+models/props_equipment/metalladder002.mdl TAG- Escalera para superviviente B
+models/props_c17/metalladder005.mdl TAG- Escalera para superviviente C
+models/props/cs_office/ladder1.mdl  TAG- Escalera de oficina
+models/props/cs_assault/ladder_tall.mdl TAG- Escalera con seguro
+models/props/cs_militia/ladderrung.mdl TAG- Escalera poco común
+models/props/de_train/ladderaluminium.mdl TAG- Escalera de metal
+models/w_models/weapons/w_cola.mdl TAG- Botellas de Cola
+models/props_collectables/backpack.mdl TAG- Mochila de explorador
+models/items/l4d_gift.mdl TAG- Regalo de Navidad
+models/props_junk/gnome.mdl TAG- Gnomo
+models/props_fairgrounds/giraffe.mdl TAG- Jirafa de juguete
+models/props_fairgrounds/alligator.mdl TAG- Juguete de cocodrilo
+models/props_fairgrounds/snake.mdl TAG- serpiente de juguete
+models/props_fairgrounds/elephant.mdl TAG- Elefante sentado juguete
+models/props_interiors/teddy_bear.mdl TAG- osito de peluche
+models/props_junk/gascan001a.mdl TAG- Gasolina
+models/props_unique/wooden_barricade_gascans.mdl TAG- Paquete de Gasolina
+models/props_placeable/gascan_trophy.mdl TAG- Trofeo de gasolina
+models/props/cs_office/fire_extinguisher.mdl TAG- Extintor
+models/bunny/b_signboard01.mdl TAG- Logo de Aguas turbulentas
+models/props_unique/spawn_apartment/coffeeammo.mdl TAG- Ammo Push (modelo L4D)
+models/props/terror/ammo_stack.mdl TAG- Ammo Push (modelo L4D2)
+models/props/de_prodigy/ammo_can_02.mdl TAG- modelo de caja de munición
+models/w_models/weapons/w_pistol_B.mdl TAG- modelo de pistola
+models/w_models/weapons/w_smg_uzi.mdl TAG- Modelo de ametralladora Uzi
+models/w_models/weapons/w_shotgun.mdl TAG- Modelo de escopeta de madera
+models/w_models/weapons/w_rifle_m16a2.mdl TAG- Modelo de rifle M16
+models/w_models/weapons/w_autoshot_m4super.mdl TAG- modelo de escopeta automática
+models/w_models/weapons/w_sniper_mini14.mdl TAG- Modelo de escopeta 
+models/w_models/weapons/w_eq_Medkit.mdl TAG- modelo de kit de tratamiento
+models/w_models/weapons/w_eq_painpills.mdl TAG- Modelo Painpill
+models/w_models/weapons/w_eq_pipebomb.mdl TAG- modelo de bomba casera
+models/w_models/weapons/w_eq_molotov.mdl TAG- Modelo de botella de fuego
+models/props_junk/gascan001a.mdl TAG- Modelo Gascan
+models/props_equipment/oxygentank01.mdl TAG- modelo de tanque de oxígeno
+models/props_junk/propanecanister001a.mdl TAG- Modelo de barril de gas
+models/w_models/weapons/w_desert_eagle.mdl TAG- Modelo Desert Eagle
+models/w_models/weapons/w_smg_a.mdl TAG- Modelo de ametralladora silenciadora
+models/w_models/weapons/w_pumpshotgun_A.mdl TAG- modelo de escopeta de hierro
+models/w_models/weapons/w_shotgun_spas.mdl TAG- Modelo de escopeta de combate
+models/w_models/weapons/w_sniper_military.mdl TAG- modelo de rifle de francotirador militar
+models/w_models/weapons/w_desert_rifle.mdl TAG- Modelo de rifle de tres disparos
+models/w_models/weapons/w_rifle_ak47.mdl TAG- Modelo de rifle AK47
+models/w_models/weapons/w_smg_mp5.mdl TAG- Modelo de metralleta MP5
+models/w_models/weapons/w_sniper_scout.mdl TAG- Modelo de rifle de francotirador SCOUT
+models/w_models/weapons/w_sniper_awp.mdl TAG- Modelo de rifle de francotirador AWP
+models/w_models/weapons/w_rifle_sg552.mdl TAG- Modelo de rifle SG552
+models/w_models/weapons/w_m60.mdl TAG- Modelo de ametralladora M60
+models/w_models/weapons/w_grenade_launcher.mdl TAG- modelo de lanzagranadas
+models/w_models/weapons/w_eq_defibrillator.mdl TAG- modelo de dispositivo de descarga eléctrica
+models/w_models/weapons/w_eq_adrenaline.mdl TAG- Modelo de Adrenalina
+models/weapons/melee/w_riotshield.mdl TAG- Modelo de Escudo de policia
+models/w_models/weapons/w_eq_bile_flask.mdl TAG- modelo de botella de bilis
+models/weapons/melee/w_cricket_bat.mdl TAG- modelo de murciélago de cricket
+models/weapons/melee/w_crowbar.mdl TAG- modelo de palanca
+models/weapons/melee/w_electric_guitar.mdl TAG- modelo de guitarra eléctrica
+models/weapons/melee/w_katana.mdl TAG- Modelo Katana
+models/weapons/melee/w_machete.mdl TAG- modelo de machete
+models/weapons/melee/w_tonfa.mdl TAG- modelo de bastón
+models/weapons/melee/w_frying_pan.mdl TAG- Modelo Pan
+models/weapons/melee/w_fireaxe.mdl TAG- modelo de hacha
+models/weapons/melee/w_bat.mdl TAG- modelo de murciélago
+models/weapons/melee/w_golfclub.mdl TAG- modelos de palos de golf
+models/w_models/weapons/w_knife_t.mdl TAG- modelo de cuchillo
+models/weapons/melee/w_pitchfork.mdl TAG- Modelo de Pitchfork
+models/weapons/melee/w_shovel.mdl TAG- modelo de pala
+models/weapons/melee/w_chainsaw.mdl TAG- modelo de motosierra
+models/w_models/weapons/w_eq_explosive_ammopack.mdl TAG- Modelo altamente explosivo
+models/w_models/weapons/w_eq_incendiary_ammopack.mdl TAG- modelo de paquete de llamas
+models/props_junk/explosive_box001.mdl TAG- modelo de caja pirotécnica
+models/props_fairgrounds/arcadegame01.mdl TAG- consola de juegos del parque de atracciones
+models/props_fairgrounds/front_speaker.mdl TAG- Altavoz de concierto
+models/props_fairgrounds/strongmangame_tower.mdl TAG- Juego de Mostacho
+models/props_fairgrounds/strongman_almondo.mdl TAG- Cartel amigo de mostacho
+models/props_fairgrounds/strongman_baby.mdl TAG- Bebe Mostacho
+models/props_fairgrounds/strongman_cashew.mdl TAG- Anciano Mostacho
+models/props_fairgrounds/strongman_lilpeanut.mdl TAG- Mani cansado
+models/props_fairgrounds/strongman_moustachio.mdl TAG- Mostacho Pesas
+models/props_interiors/dryer.mdl TAG- Secadora
+models/props_interiors/washer.mdl TAG- lavadora
+models/props_urban/shopping_cart001.mdl TAG- Super carrito de compras
+models/props_industrial/construction_crane_leverbody.mdl TAG- cuadro eléctrico
+models/props_interiors/refrigerator03.mdl TAG- frigorífico
+models/props_interiors/refrigerator02_main.mdl TAG-frigorífico-sin puerta
+models/props_interiors/toaster_static.mdl TAG- Tostadora (estado sólido)
+models/props_unique/processor_tank.mdl TAG- caldera
+models/props_unique/grocerystorechiller01.mdl TAG- Congelador Super Comercial
+models/props_furniture/piano.mdl TAG- piano
+models/deadbodies/dead_male_sittingchair.mdl TAG- Gerente muerto en silla
+models/props_fairgrounds/fairgrounds_flagpole01.mdl TAG- Asta de bandera
+models/props_junk/barrel_fire.mdl TAG- barril de petróleo
+models/props_interiors/fridge_mini.mdl TAG- Mini frigorífico
+models/props_interiors/magazine_rack.mdl TAG- Gabinete semanal
+models/props_interiors/makeshift_stove_battery.mdl TAG- Batería temporal para estufa
+models/props_interiors/printer.mdl TAG- Copiadora
+models/props_c17/consolebox01a.mdl TAG- caja de consola
+models/props_interiors/water_cooler.mdl TAG- dispensador de agua-oficina
+models/props_interiors/stove02.mdl TAG- hornillo
+models/props/cs_office/microwave_static.mdl TAG- horno microondas (estado sólido)
+models/props_industrial/wire_spool_01.mdl TAG- bobina de cable
+models/props_industrial/wire_spool_02.mdl TAG- carrete de cable-sin cable
+models/props_collectables/mushrooms_glowing.mdl TAG- Hongo brillante
+models/lighthouse/props/wood_chunks02.mdl TAG- Tres piezas de madera
+models/lighthouse/props/wood_chunks03.mdl TAG- un trozo de madera rota
+models/lighthouse/props/wood_chunks04.mdl TAG- la mitad de la madera rota
+models/lighthouse/props/wood_plank_128.mdl TAG- una pieza de madera
+models/props_interiors/luggagecarthotel01.mdl TAG- Portaequipajes hotel
+models/props_interiors/bbq_grill.mdl TAG- parrilla de barbacoa
+models/props_buildings/warehouse_roofbeams.mdl TAG- viga de techo
+models/props_fairgrounds/mic_stand.mdl TAG- micrófono
+models/props_urban/ashtray_stand001.mdl TAG- Cenicero
+models/props_fairgrounds/fairgrounds_banner02.mdl TAG- Banner
+models/props_junk/wheelbarrow01a_static.mdl TAG- Carretilla de empuje (estado sólido)
+models/props/cs_assault/handtruck.mdl TAG- carro
+models/props_interiors/sawhorse.mdl TAG- Sawhorse
+models/props_c17/hospital_surgerytable01.mdl TAG- mesa de operaciones
+models/props_urban/gas_meter.mdl TAG- Contador de gas
+models/props_interiors/ac_wallunit.mdl TAG- Aire acondicionado
+models/props_interiors/airportdeparturerampcontrol01.mdl TAG- Instrumentos
+models/props_wasteland/prison_sprinkler001a.mdl TAG- Tuberías de agua-Rociadores
+models/props_wasteland/prison_switchbox001a.mdl TAG-water pipe-converter
+models/props_fortifications/orange_cone001_reference.mdl TAG- cono triangular
+models/props_unique/mopbucket01.mdl TAG- Fregona con cubeta para exprimir agua
+models/props_urban/tire001.mdl TAG- Neumático
+models/props_windows/window_stained_glass_broken01_reference.mdl TAG- vidrio de iglesia
+models/props/cs_militia/caseofbeer01.mdl TAG- caja de cerveza
+models/props_interiors/waterbottle.mdl TAG- cubo de agua
+models/props_urban/plastic_bucket001.mdl TAG- cubo blanco
+models/props_interiors/refrigerator02_freezerdoor.mdl TAG-frigorífico-puerta a puerta
+models/props_interiors/refrigerator02_lowerdoor.mdl TAG- frigorífico- puerta inferior
+models/props_interiors/mounteddeerhead01.mdl TAG- Espécimen de cabeza de ciervo
+models/props_interiors/paper_towel_dispenser.mdl TAG- dispensador de papel higiénico
+models/props_interiors/paper_tray.mdl TAG- cuadro de archivo
+models/props_interiors/phone_motel.mdl TAG- teléfono
+models/props_interiors/pot01a.mdl TAG- tetera
+models/props_interiors/shelf1_clutter01d.mdl TAG- Colocación de elementos de estantería
+models/props_interiors/styrofoam_cups.mdl TAG- tazas apiladas (movibles)
+models/props_interiors/waterheater.mdl TAG- calentador de agua
+models/props_unique/wheelchair01.mdl TAG- Silla de ruedas
+models/props_interiors/tv.mdl TAG- TV
+models/props_interiors/medicalcabinet02.mdl TAG- armario médico
+models/props_c17/computer01_keyboard.mdl TAG- teclado
+models/props_interiors/corkboardverticle01.mdl TAG- tablón de anuncios
+models/props_urban/picture_frame001.mdl TAG- una imagen 1
+models/props_interiors/painting_landscape01.mdl TAG- una pintura 2
+models/props_unique/zombiebreakwallexteriorairport01_main.mdl TAG- Fondos de pantalla-Aeropuerto
+models/props_unique/zombiebreakwallexteriorairportoffices01_main.mdl TAG- Papel tapiz-Oficina del aeropuerto
+models/props/de_nuke/electricalbox01.mdl TAG- Dos cajas eléctricas grandes, solo la mitad
+models/props/de_nuke/electricalbox02.mdl TAG- Dos pequeñas cajas eléctricas-solo media cara
+models/props_interiors/closet_clothes.mdl TAG- percha-con ropa
+models/props_interiors/clothing_pile1.mdl TAG- Ropa que cae al suelo 1
+models/props_interiors/clothing_pile2.mdl TAG- Ropa que cae al suelo 2
+models/props_interiors/clothing_pile3.mdl TAG- Ropa que cae al suelo 3
+models/props_interiors/clothing_pile4.mdl TAG- Ropa que cae al suelo 4
+models/props_interiors/clothing_pile5.mdl TAG- Ropa que cae al suelo 5
+models/props_junk/food_pile01.mdl TAG- Vertedero de basura en el suelo a
+models/props_junk/food_pile02.mdl TAG- Botadero de basura en el suelo
+models/props_junk/food_pile03.mdl TAG- vertedero de basura en el suelo c
+models/props_interiors/toilet.mdl TAG- inodoro
+models/props_interiors/toilet_b.mdl TAG- Inodoro abierto a
+models/props_interiors/toilet_c.mdl TAG- Inodoro abierto b
+models/props_interiors/toiletpaperroll.mdl TAG- papel higiénico
+models/props_interiors/dvd_player.mdl TAG- Reproductor de DVD
+models/props_interiors/vcr.mdl TAG- DVD
+models/props_interiors/bathtub1.mdl TAG- Bañera a
+models/props_interiors/bath01.mdl TAG- bañera b
+models/props_interiors/Bathroomsink01.mdl TAG- lavabo de baño
+models/props_interiors/drinking_fountain.mdl TAG- Bebedero-Tipo de boquilla
+models/props_c17/furnituresink001a.mdl TAG- Fregadero para muebles
+models/props_interiors/sink_industrial01.mdl TAG- lavar fregadero-plancha
+models/props/cs_office/fire_extinguisher.mdl TAG- extintor 
+models/props_furniture/fireplace2.mdl TAG- chimenea tradicional
+models/props_interiors/fog03_industrial.mdl TAG- Estufa + Horno
+models/props_interiors/fog04_industrial.mdl TAG- congelador grande
+models/props_rooftop/satellitedish_large01.mdl TAG- antena satelital
+models/props_wasteland/prison_conduit001a.mdl TAG- Torre de alto voltaje- Cable
+models/lighthouse/book_roku.mdl TAG- Libro-Doodle
+models/lighthouse/vela.mdl TAG- vela 
+models/lighthouse/mate/mate_sanclemente.mdl TAG- cuenco de té
+models/lighthouse/mate/mate_termo.mdl TAG- botella de agua para té
+models/lighthouse/mate/mate_yerba.mdl TAG- bolsita de té
+models/lighthouse/checkpoint_door_lighthouse01_plank.mdl TAG- tablón de puerta de seguridad c14
+models/extras/info_speech_australium.mdl TAG- Consejos dorados para el habla (penetración)
+models/props_debris/paintbucket01_static.mdl TAG- cubo de pintura (sólido)
+models/props_interiors/dish_soap_static.mdl TAG- agente lavavajillas (sólido)
+models/props_interiors/soap_dispenser_static.mdl TAG- dispensador de jabón (sólido)
+models/props_junk/garbage_glassbottle003a_static.mdl TAG- Botella de vidrio para basura (sólida)
+models/props_junk/garbage_plasticbottle001a_static.mdl TAG- Botella plástica de basura (sólida)
+models/props_junk/metalbucket01a_static.mdl TAG- cubo de metal (sólido)
+models/props_junk/metalbucket02a_static.mdl TAG- cubo de metal grande (sólido)
+models/props_junk/metal_paintcan001b_static.mdl TAG- bote de pintura (sólido)
+models/props_misc/mirror-1_static.mdl TAG- Espejo mágico (estado sólido)
+models/props_street/garbage_can_static.mdl TAG- bote de basura (estado sólido)
+models/props_urban/buoy003.mdl TAG- flotador de playa
+models/props_vehicles/carparts_axel01a_static.mdl TAG- piezas de automóvil- ax (sólido)
+models/props_vehicles/carparts_door01a_static.mdl TAG- piezas de coche- puerta de coche (estado sólido)
+models/props_vehicles/carparts_tire01a_static.mdl TAG- piezas de automóvil- llanta hueca (maciza) 
+models/props_vehicles/carparts_wheel01a_static.mdl TAG- autopartes- llantas macizas (macizas)
+models/lighthouse/props/wheelhouse_window_bars.mdl TAG- Ventanas de la timonera
+models/lighthouse/props/brick_broken_wall_debris.mdl TAG- ladrillos dispersos
+models/props_signs/sign_truckstop_01_lettera.mdl TAG- luz de neón letra A (penetración)
+
+//Category Misc Variedad
+models/props/cs_assault/box_stack1.mdl TAG- Pila de cajas
+models/props/cs_assault/box_stack2.mdl TAG- Pila de cajas 2
+models/props7cs_militia/boxes_frontroom.mdl TAG- Frontera de cajas
+models/props/cs_assault/washer_box.mdl TAG- Una caja
+models/props_fairgrounds/swan_boat.mdl TAG- Cisne del amor
+models/props_junk/dumpster.mdl TAG- Bote de basura verde(Tank)
+models/props_junk/dumpster_2.mdl TAG- Bote de basura blanco(Tank)
+models/props/cs_militia/footlocker01_closed.mdl TAG- Cofre cerrado
+models/props/cs_militia/footlocker01_open.mdl TAG- Cofre abierto
+models/deadbodies/charger/charger_lynched.mdl TAG- Charger Colgado
+models/props_exteriors/wood_stairs_swamp.mdl TAG- escalera de madera de pantano-5 peldaños
+models/props_exteriors/wood_stairs_120_swamp.mdl TAG- escalera de madera de pantano-15 peldaños
+models/props_exteriors/wood_stairs_40.mdl TAG- escalera de madera-5 peldaños (fácil de usar)
+models/props_exteriors/wood_stairs_wide_48.mdl TAG- Escaleras de madera anchas-6 peldaños
+models/props_exteriors/wood_porchsteps_01.mdl TAG- Escaleras de madera-10 peldaños (fácil de usar)
+models/props_exteriors/wood_stairs_120.mdl TAG- Escaleras de madera-15 peldaños (fácil de usar)
+models/props_buildings/barn_steps.mdl TAG- Escaleras de madera-15 peldaños-con pasamanos
+models/props_c17/metalladder001.mdl TAG- Ladder-8th order
+models/props_collectables/coin.mdl TAG- Moneda coleccionable
+models/apoyos_exterior/stairs_house_01.mdl TAG- Escaleras en la casa-18 escalones
+models/lighthouse/props/wooden_steps_a.mdl TAG- escalones de madera huecos-4tos escalones
+models/lighthouse/props/wooden_steps_b.mdl TAG- escalones de madera huecos-5to escalón
+models/lighthouse/props/wooden_bridge_b.mdl TAG- Escaleras de puente de madera-4 ° piso
+models/props_exteriors/concrete_plant01_stairs_platform.mdl TAG- plataforma de escaleras-piso 12
+models/props/cs_office/shelves_metal1.mdl TAG- Estante-Colocar a
+models/props/cs_office/shelves_metal2.mdl TAG- Shelf-Place b
+models/props_industrial/warehouse_shelf001.mdl TAG- pila de carga 1
+models/props_industrial/warehouse_shelf002.mdl TAG- pila de carga 2
+models/props_industrial/warehouse_shelf003.mdl TAG- pila de carga 3
+models/props_industrial/warehouse_shelf004.mdl TAG-Stock 4
+models/props_equipment/light_floodlight.mdl TAG- Proyector LED
+models/props_interiors/constructionwalls04_damage01.mdl TAG- Columna extralarga de acero para edificios
+models/props_interiors/ibeam_breakable01.mdl TAG- Rebar (el tanque se puede romper)
+models/props_interiors/ibeam_breakable01_damaged02.mdl TAG- Rebar-Break
+models/props/cs_militia/logpile2.mdl TAG- Pila de leña
+models/props_wasteland/light_spotlight01_lamp.mdl TAG- la luz en el faro
+models/props_fairgrounds/bass_amp.mdl TAG- Amplificador de bajo
+models/props_fairgrounds/bass_monitor.mdl TAG- Controlador de graves
+models/props_fairgrounds/bass_case.mdl TAG- subwoofer
+models/props_fairgrounds/amp_plexi.mdl TAG- sonido
+models/props_fairgrounds/amp_stack_small.mdl TAG- Altavoz mediano
+models/props_fairgrounds/amp_stack.mdl TAG- altavoces grandes
+models/props_fairgrounds/anvil_case_32.mdl TAG- Caja de baile
+models/props_fairgrounds/anvil_case_64.mdl TAG- Caja de baile- Largo
+models/props_fairgrounds/anvil_case_casters_32.mdl TAG- Caja de graduación- con rodillos (fácil de usar)
+models/props_fairgrounds/anvil_case_casters_64.mdl TAG- Caja de graduación-más larga-con rodillos (fácil de usar)
+models/props/cs_militia/boxes_garage_lower.mdl TAG- Tres cajas (fácil de usar)
+models/props_crates/static_crate_40.mdl TAG- caja de embalaje militar (fácil de usar)
+models/props_junk/cardboard_box03_static.mdl TAG- caja de cartón a (estado sólido)
+models/props_junk/cardboard_box04_static.mdl TAG- cartón b (sólido)
+models/props_junk/cardboard_box05_static.mdl TAG- caja de cartón c (estado sólido)
+models/props_junk/cardboard_box07_static.mdl TAG- caja d (estado sólido)
+models/props/cs_militia/footlocker01_closed.mdl TAG- cerrar la caja
+models/props_junk/cinderblock01a.mdl TAG- azulejos cuadrados
+models/props_collectables/striped_barricade.mdl TAG- Linea brillante
+models/lighthouse/spawn_area.mdl TAG- Zona de respawn The Last Stand
+models/props_highway/plywood_01.mdl TAG- tablón pequeño (fácil de usar)
+models/props_interiors/handrail_hospital01_16.mdl TAG-listones de madera-más cortos
+models/props_interiors/handrail_hospital01_32.mdl TAG- listones de madera-cortos
+models/props_interiors/handrail_hospital01_64.mdl TAG- listones de madera- mediano
+models/props_interiors/handrail_hospital01_128.mdl TAG- listones de madera-largos
+models/props_interiors/handrail_hospital01_256.mdl TAG- listones de madera-muy largos
+models/props_fairgrounds/building_support_128.mdl TAG- Apoyo al edificio-4. ° piso
+models/props_c17/truss02h.mdl TAG- Estructura de soporte de hierro para construcción-1er piso
+models/props_c17/truss02g.mdl TAG- Estructura de soporte de hierro para construcción-2 capas
+models/props_c17/truss02e.mdl TAG- Estructura de soporte de hierro para construcción-4 ° piso
+models/props_c17/truss02d.mdl TAG- Estructura de soporte de hierro para construcción-5 pisos
+models/props_vents/vent_large_straight002.mdl TAG- Tubería de ventilación
+models/props_vents/vent_cluster006.mdl TAG- Tubo de ventilación recto largo
+models/props_vents/vent_cluster007.mdl TAG- Tubería de ventilación-Giro de 90 grados
+models/props_vents/vent_large_corner001.mdl TAG- Tubería de ventilación- Codo pequeño
+models/props_vents/vent_large_straight001.mdl TAG- Tubería de ventilación-recta corta
+models/props_wasteland/chimneypipe01a.mdl TAG- tubo de chimenea
+models/props_exteriors/chimney5.mdl TAG- una chimenea
+models/props_exteriors/chimney4.mdl TAG- Chimenea de dos tubos
+models/props_exteriors/chimney2.mdl TAG- Chimenea de tres tubos
+models/props_shacks/instance_prop_swamphouse4b.mdl TAG- Esctructura de casa(Parish)
+models/props_industrial/barrel_fuel.mdl TAG- tanque de combustible 
+models/props_interiors/luggagescale.mdl TAG- carteles-carrito de equipaje
+models/props_exteriors/park_sign.mdl TAG- señal de estacionamiento
+models/props_misc/military_sign01.mdl TAG-Military sign a
+models/props_misc/military_sign01_2.mdl TAG- signo militar b
+models/props_misc/military_sign02.mdl TAG-Military sign c
+models/props_mall/mall_directory.mdl TAG- señales-mapa del centro comercial
+models/props_signs/burgersign_beacon.mdl TAG- gran valla publicitaria a-Burger TANK-sin luz (penetración)
+models/props_signs/burgersign.mdl TAG- gran valla publicitaria a-Burger TANK-bright (penetrar)
+models/props_signs/raisedbillboard.mdl TAG- Cartelera grande b-Burger TANK
+models/props_fairgrounds/entrance_sign.mdl TAG- señal de entrada de gran tamaño al parque de atracciones
+models/props_fortifications/police_barrier001_128_reference.mdl TAG- Aviso de barrera policial
+models/props_interiors/sheetrock_leaning.mdl TAG- placa de hierro larga- pila de empuje
+models/props_equipment/tablegreenhouse01.mdl TAG- Rejilla larga para platos de hierro- c11m1
+models/props_swamp/ferry.mdl TAG- Construye una casa de hojalata
+models/props_unique/airport/atlas_break_ball.mdl TAG- Modelo de la Tierra
+models/lighthouse/props/camp_tent.mdl TAG- tienda de campaña
+models/lighthouse/glass_design01a.mdl TAG- vidrio transparente
+models/lighthouse/glass_design01b.mdl TAG- clear glass-wide
+models/extras/info_speech.mdl TAG- Comentarios globo
+models/props_fortifications/fortification_indoor_01.mdl TAG- Fuerte de empuje de equipaje
+models/props_fortifications/sandbags_line2.mdl TAG- Sacos de arena para construcción-6 ° piso
+models/props_fortifications/sandbags_corner3.mdl TAG- Construcción de sacos de arena-4 capas-curva
+models/props_fortifications/sandbags_corner2.mdl TAG- Construcción de sacos de arena-6 capas-curvo
+models/props/cs_office/vending_machine.mdl TAG- máquina expendedora-bebidas
+models/props_equipment/snack_machine.mdl TAG- Máquina expendedora Snacks
+models/props_debris/dead_cow.mdl TAG- Vaca muerta
+models/props_debris/dead_cow_smallpile.mdl TAG- un grupo de vacas muertas
+models/deadbodies/dead_female_civilian_01.mdl TAG- civiles muertos- acostados
+models/deadbodies/dead_female_civilian_02.mdl TAG- civiles muertos- sentados
+models/deadbodies/dead_female_civilian_draped_01.mdl TAG-civiles muertos-cubiertos con tela a
+models/deadbodies/dead_female_civilian_draped_02.mdl TAG- civiles muertos- cubiertos con tela b
+models/deadbodies/dead_male_torso_01.mdl TAG- civiles muertos-medio cuerpo
+models/deadbodies/dead_pilot.mdl TAG- El cadáver del piloto-acostado
+models/deadbodies/dead_military_male01.mdl TAG- Soldado Cadáver-De Pie (Penetración)
+models/deadbodies/dead_male_suit_01.mdl TAG- Traje Masculino Corpse-Standing (Penetración)
+models/infected/common_female01_suit.mdl TAG- Zombie femenina L4D1
+models/infected/hulk.mdl TAG-Tank (hasta)
+models/infected/hulk_l4d1.mdl TAG- Modelo de tanque- L4D1 (a través)
+models/infected/witch.mdl TAG- Modelo de bruja (penetración)
+models/infected/witch_bride.mdl TAG- Modelo bruja- Traje de novia (penetración)
+models/deadbodies/chm_fallensurvivor.mdl TAG- Whitaker
+models/survivors/namvet/namvet_deathpose.mdl TAG- Cadaver de Bill
+models/survivors/survivor_namvet.mdl TAG- Bill vivo XD
+models/survivors/survivor_biker.mdl TAG- Modelo de Francis
+models/survivors/survivor_manager.mdl TAG- Modelo de Louis
+models/survivors/survivor_teenangst_light.mdl TAG- Modelo de Zoey
+models/infected/smoker_l4d1.mdl TAG- Modelo Smoker L4d1
+models/infected/hunter_l4d1.mdl TAG- Modelo Smoker L4d1
+models/infected/boomer_l4d1.mdl TAG- Modelo Boomer L4d1
+models/infected/limbs/exploded_boomer.mdl TAG- Boomer explotado
+models/infected/limbs/exploded_boomette.mdl TAG- Boomer mujer explotada
+models/error.mdl TAG- Error de textura

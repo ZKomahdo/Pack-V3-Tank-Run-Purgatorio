@@ -1,0 +1,40 @@
+﻿/*
+	******************************************************************************************************************************************************
+
+	You can display phrases in chat with color using any of the methods below:
+
+	Using color codes:
+		•  // Default (use instead of \x01), Alt + 01 Keyboard Shortcut
+		•  // Light Green (use instead of \x03), Alt + 03 Keyboard Shortcut
+		•  // Orange (use instead of \x04), Alt + 04 Keyboard Shortcut
+		•  // Olive (use instead of \x05), Alt + 05 Keyboard Shortcut
+
+	or
+
+	Using color tags:
+		• {default} // Default (use instead of \x01)
+		• {lightgreen} // Light Green (use instead of \x03)
+		• {orange} // Orange (use instead of \x04)
+		• {olive} // Green (use instead of \x05)
+
+	******************************************************************************************************************************************************
+*/
+
+"Phrases"
+{ 
+	"Thrown a molotov"
+	{
+		"#format"		"{1:N}"
+		"es"			"{orange}[{lightgreen}ROOT{orange}] {default}>>> {olive}{1} {default}Acaba de lanzar un {orange}molotov"
+	}
+	"Thrown a pipe bomb"
+	{
+		"#format"		"{1:N}"
+		"es"			"{orange}[{lightgreen}ROOT{orange}] {default}>>> {olive}{1} {default}Acaba de lanzar una {orange}bomba casera"
+	}
+	"Thrown a vomit jar"
+	{
+		"#format"		"{1:N}"
+		"es"			"{orange}[{lightgreen}ROOT{orange}] {default}>>> {olive}{1} {default}Acaba de lanzar una {orange}vomitona"
+	}
+}

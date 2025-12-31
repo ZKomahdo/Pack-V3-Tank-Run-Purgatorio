@@ -1,0 +1,15 @@
+"skeetdata"
+{
+	"data"
+	{
+		"STEAM_1:1:722881079"
+		{
+			"skeet"		"1"
+			"name"		"команdo"
+		}
+	}
+	"info"
+	{
+		"count"		"1"
+	}
+}

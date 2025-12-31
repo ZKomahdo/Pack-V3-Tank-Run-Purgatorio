@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"sm_melees"
+	{
+		"en"			"Menu De Melees"		
+		"zho"			"投票選單"
+		"chi"			"投票菜单"
+	}
+
+	"sm_armas"
+	{
+		"en"			"Menu De Weapons"		
+		"zho"			"快速買彈"
+		"chi"			"快速买弹"
+	}
+
+	"sm_misc"
+	{
+		"en"			"Menu De Misc"		
+		"zho"			"商城"
+		"chi"			"商城"
+	}
+
+	"sm_trails"
+	{
+		"en"			"Menu De Trails\n‎ "		
+		"zho"			"投票選單"
+		"chi"			"投票菜单"
+	}
+
+	"sm_machinemenu"
+	{
+		"en"            "Menu De SuperMachines"
+		"zho"           "光效選單"
+		"chi"           "光效菜单"
+	}
+
+	"sm_bp"
+	{
+		"en"            "Acti/Desac AutoBhop"
+		"zho"           "光效選單"
+		"chi"           "光效菜单"
+	}
+
+	"sm_h 90913471"
+	{
+		"en"            "Activar Helicopter"
+		"zho"           "光效選單"
+		"chi"           "光效菜单"
+	}
+
+	"sm_ptl"
+	{
+		"en"            "Menu De Particulas"
+		"zho"           "光效選單"
+		"chi"           "光效菜单"
+	}
+
+	"sm_pt"
+	{
+		"en"            "Menu De Parachute"
+		"zho"           "光效選單"
+		"chi"           "光效菜单"
+	}
+
+	"sm_mascotapet12"
+	{
+		"en"            "Menu De Mascota"
+		"zho"           "光效選單"
+		"chi"           "光效菜单"
+	}
+
+
+	"MENU"
+	{
+		"en"			"• ✦ VIP MENU GOD ✦ •\n‎➥ Nivel VIP [★★★★★]\n‎ "		
+		"zho"			"選單"
+		"chi"			"菜单"
+	}
+}

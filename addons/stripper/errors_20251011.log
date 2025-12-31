@@ -1,0 +1,7 @@
+L 10/11/2025 - 19:20:26: SourceMod error session started
+L 10/11/2025 - 19:20:26: Info (map "c1m1_hotel") (file "/home/container/left4dead2/addons/sourcemod/logs/errors_20251011.log")
+L 10/11/2025 - 19:20:26: [SM] Exception reported: Array index out-of-bounds (index -1, limit 5001)
+L 10/11/2025 - 19:20:26: [SM] Blaming: l4d2_custom_commands.smx
+L 10/11/2025 - 19:20:26: [SM] Call stack trace:
+L 10/11/2025 - 19:20:26: [SM]   [1] Line 5118, /home/forums/content/files/7/2/4/2/8/73969.attach::GrabLookingEntity
+L 10/11/2025 - 19:20:26: [SM]   [2] Line 1972, /home/forums/content/files/7/2/4/2/8/73969.attach::CmdGrabEntity

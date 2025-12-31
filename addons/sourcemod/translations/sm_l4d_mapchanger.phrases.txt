@@ -1,0 +1,73 @@
+"Phrases"
+{
+	"Finale Tries Left"
+	{
+		"es"			"{green}[{lightgreen}PATRIOTA{green}] {default}Quedan {olive}%d {default}rondas para seguir a la siguiente {blue}campaña{default}."
+	}
+	"Finale 1 Try Left"
+	{
+		"es"			"{green}[{lightgreen}PATRIOTA{green}] {default}Queda {olive}1 {default}ronda. {green}Siguiente campaña{default}: {blue}%s{default}."
+	}
+
+	"Tries Left"
+	{
+		"es"			"{green}[{lightgreen}PATRIOTA{green}] {default}Quedan {olive}%d {default}rondas para este {green}map{default}."
+	}
+
+	"Force Pass Campaign No Tries Left"
+	{
+		"es"			"{green}[{lightgreen}PATRIOTA{green}] {default}No pudo pasar la campaña en {green}%d {default}rondas，cambiando a la {blue}siguiente campaña{default}."
+	}
+
+	"Force Pass Map No Tries Left"
+	{
+		"es"			"{green}[{lightgreen}PATRIOTA{green}] {default}No pudo pasar este mapa en {green}%d {default}rondas，cambiando al {blue}siguiente mapa{default}."
+	}
+
+	"Announce Map"
+	{
+		"es"			"{green}[{lightgreen}PATRIOTA{green}] {default}Siguiente {green}campaña{default}: {blue}%s{default}."
+	}
+
+	"Announce Map Command"
+	{
+		"#format" 		"{1:s},{2:t}"
+		"es"			"Siguiente campaña: {1} ({2})"
+	}
+
+	"invalid map"
+	{
+		"en"			"invalid map"
+	}
+
+	"default"
+	{
+		"en"			"default"
+	}
+
+	"next level not found"
+	{
+		"en"			"Ningún cambio"
+	}
+
+	"next level"
+	{
+		"en"			"next level"
+	}
+
+	"next map"
+	{
+		"en"			"data"
+	}
+
+	"none"
+	{
+		"en"			"No Change"
+	}
+
+	"Unable to Change Map"
+	{
+		"#format" 	"{1:s},{2:s}"
+		"en"		"{green}[{lightgreen}PATRIOTA{green}] Unable to change {blue}{1}{default}, reason: {blue}{2}{green} Map does not exist{default}."
+	}
+}
